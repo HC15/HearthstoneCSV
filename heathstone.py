@@ -6,13 +6,15 @@ cards = requests.get("https://omgvamp-hearthstone-v1.p.mashape.com/cards" + "?co
 cardInfo = cards.json()
 
 standardSet = ["Basic", "Classic", "Blackrock Mountain", "The Grand Tournament",
-               "The League of Explorers", "Whispers of the Old Gods", "Karazhan"]
+               "The League of Explorers", "Whispers of the Old Gods", "Karazhan",
+               "Mean Streets of Gadgetzan"]
 wildSet = ["Naxxramas", "Goblins vs Gnomes", "Reward", "Promo"]
 allSet = standardSet + wildSet
 
 with open('hearthstone.csv', 'w', newline = '') as csvfile:
     fieldNames = ["Card Name", "Card Set", "Card Type", "Class", "Rarity",
-                  "Mana Cost", "Attack", "Health", "Card Mechanics", "Race"]
+                  "Mana Cost", "Attack", "Health", "Card Mechanics", "Race",
+                  "Card ID"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldNames)
     writer.writeheader()
 
@@ -47,21 +49,23 @@ with open('hearthstone.csv', 'w', newline = '') as csvfile:
                                      "Card Type": card.get("type"), "Class": card.get("playerClass"),
                                      "Rarity": card.get("rarity"), "Mana Cost": card.get("cost"),
                                      "Attack": str(card.get("attack")), "Health": str(card.get("health")),
-                                     "Card Mechanics": cardMechanicsStr, "Race": card.get("race")})
+                                     "Card Mechanics": cardMechanicsStr, "Race": card.get("race"),
+                                     "Card ID": card.get("cardId")})
                 else:
                     writer.writerow({"Card Name": card.get("name"), "Card Set": card.get("cardSet"),
                                      "Card Type": card.get("type"), "Class": "Neutral",
                                      "Rarity": card.get("rarity"), "Mana Cost": card.get("cost"),
                                      "Attack": str(card.get("attack")), "Health": str(card.get("health")),
-                                     "Card Mechanics": cardMechanicsStr, "Race": card.get("race")})
+                                     "Card Mechanics": cardMechanicsStr, "Race": card.get("race"),
+                                     "Card ID": card.get("cardId")})
             if card["type"] == "Spell":
                 writer.writerow({"Card Name": card.get("name"), "Card Set": card.get("cardSet"),
                                  "Card Type": card.get("type"), "Class": card.get("playerClass"),
                                  "Rarity": card.get("rarity"), "Mana Cost": card.get("cost"),
-                                 "Card Mechanics": cardMechanicsStr})
+                                 "Card Mechanics": cardMechanicsStr, "Card ID": card.get("cardId")})
             if card["type"] == "Weapon":
                 writer.writerow({"Card Name": card.get("name"), "Card Set": card.get("cardSet"),
                                  "Card Type": card.get("type"), "Class": card.get("playerClass"),
                                  "Rarity": card.get("rarity"), "Mana Cost": card.get("cost"),
                                  "Attack": str(card.get("attack")), "Health": str(card.get("durability")),
-                                 "Card Mechanics": cardMechanicsStr})
+                                 "Card Mechanics": cardMechanicsStr, "Card ID": card.get("cardId")})

@@ -1,923 +1,1055 @@
-Card Name,Card Set,Card Type,Class,Rarity,Mana Cost,Attack,Health,Card Mechanics,Race
-Ancestral Healing,Basic,Spell,Shaman,Free,0,,,,
-Backstab,Basic,Spell,Rogue,Free,0,,,,
-Innervate,Basic,Spell,Druid,Free,0,,,,
-Moonfire,Basic,Spell,Druid,Free,0,,,,
-Sacrificial Pact,Basic,Spell,Warlock,Free,0,,,,
-Totemic Might,Basic,Spell,Shaman,Free,0,,,,
-Arcane Missiles,Basic,Spell,Mage,Free,1,,,Immune to Spell Power,
-Arcane Shot,Basic,Spell,Hunter,Free,1,,,,
-Blessing of Might,Basic,Spell,Paladin,Free,1,,,,
-Claw,Basic,Spell,Druid,Free,1,,,,
-Corruption,Basic,Spell,Warlock,Free,1,,,,
-Deadly Poison,Basic,Spell,Rogue,Free,1,,,,
-Elven Archer,Basic,Minion,Neutral,Free,1,1,1,Battlecry,
-Execute,Basic,Spell,Warrior,Free,1,,,,
-Frost Shock,Basic,Spell,Shaman,Free,1,,,Freeze,
-Goldshire Footman,Basic,Minion,Neutral,Free,1,1,2,Taunt,
-Grimscale Oracle,Basic,Minion,Neutral,Free,1,1,1,,Murloc
-Hand of Protection,Basic,Spell,Paladin,Free,1,,,,
-Holy Smite,Basic,Spell,Priest,Free,1,,,,
-Humility,Basic,Spell,Paladin,Free,1,,,,
-Hunter's Mark,Basic,Spell,Hunter,Free,1,,,,
-Light's Justice,Basic,Weapon,Paladin,Free,1,1,4,,
-Mind Vision,Basic,Spell,Priest,Free,1,,,,
-Mirror Image,Basic,Spell,Mage,Free,1,,,,
-Mortal Coil,Basic,Spell,Warlock,Free,1,,,,
-Murloc Raider,Basic,Minion,Neutral,Free,1,2,1,,Murloc
-Northshire Cleric,Basic,Minion,Priest,Free,1,1,3,Heal Target,
-Power Word: Shield,Basic,Spell,Priest,Free,1,,,,
-Rockbiter Weapon,Basic,Spell,Shaman,Free,1,,,,
-Sinister Strike,Basic,Spell,Rogue,Free,1,,,,
-Soulfire,Basic,Spell,Warlock,Free,1,,,,
-Stonetusk Boar,Basic,Minion,Neutral,Free,1,1,1,Charge,Beast
-Timber Wolf,Basic,Minion,Hunter,Free,1,1,1,Aura,Beast
-Tracking,Basic,Spell,Hunter,Free,1,,,,
-Voidwalker,Basic,Minion,Warlock,Free,1,1,3,Taunt,Demon
-Voodoo Doctor,Basic,Minion,Neutral,Free,1,2,1,Battlecry,
-Whirlwind,Basic,Spell,Warrior,Free,1,,,,
-Acidic Swamp Ooze,Basic,Minion,Neutral,Free,2,3,2,Battlecry,
-Arcane Explosion,Basic,Spell,Mage,Free,2,,,,
-Bloodfen Raptor,Basic,Minion,Neutral,Free,2,3,2,,Beast
-Bluegill Warrior,Basic,Minion,Neutral,Free,2,2,1,Charge,Murloc
-Cleave,Basic,Spell,Warrior,Free,2,,,,
-Divine Spirit,Basic,Spell,Priest,Free,2,,,,
-Fiery War Axe,Basic,Weapon,Warrior,Free,2,3,2,,
-Flametongue Totem,Basic,Minion,Shaman,Free,2,0,3,"Adjacent Buff, Aura",Totem
-Frostbolt,Basic,Spell,Mage,Free,2,,,Freeze,
-Frostwolf Grunt,Basic,Minion,Neutral,Free,2,2,2,Taunt,
-Heroic Strike,Basic,Spell,Warrior,Free,2,,,,
-Holy Light,Basic,Spell,Paladin,Free,2,,,,
-Kobold Geomancer,Basic,Minion,Neutral,Free,2,2,2,Spell Damage,
-Mark of the Wild,Basic,Spell,Druid,Free,2,,,,
-Mind Blast,Basic,Spell,Priest,Free,2,,,,
-Murloc Tidehunter,Basic,Minion,Neutral,Free,2,2,1,Battlecry,Murloc
-Novice Engineer,Basic,Minion,Neutral,Free,2,1,1,Battlecry,
-River Crocolisk,Basic,Minion,Neutral,Free,2,2,3,,Beast
-Sap,Basic,Spell,Rogue,Free,2,,,,
-Shadow Word: Pain,Basic,Spell,Priest,Free,2,,,,
-Shiv,Basic,Spell,Rogue,Free,2,,,,
-Succubus,Basic,Minion,Warlock,Free,2,4,3,Battlecry,Demon
-Wild Growth,Basic,Spell,Druid,Free,2,,,,
-Windfury,Basic,Spell,Shaman,Free,2,,,,
-Animal Companion,Basic,Spell,Hunter,Free,3,,,,
-Arcane Intellect,Basic,Spell,Mage,Free,3,,,,
-Charge,Basic,Spell,Warrior,Free,3,,,,
-Dalaran Mage,Basic,Minion,Neutral,Free,3,1,4,Spell Damage,
-Drain Life,Basic,Spell,Warlock,Free,3,,,,
-Fan of Knives,Basic,Spell,Rogue,Free,3,,,,
-Frost Nova,Basic,Spell,Mage,Free,3,,,Freeze,
-Healing Touch,Basic,Spell,Druid,Free,3,,,,
-Hex,Basic,Spell,Shaman,Free,3,,,,
-Ironforge Rifleman,Basic,Minion,Neutral,Free,3,2,2,Battlecry,
-Ironfur Grizzly,Basic,Minion,Neutral,Free,3,3,3,Taunt,Beast
-Kill Command,Basic,Spell,Hunter,Free,3,,,,
-Magma Rager,Basic,Minion,Neutral,Free,3,5,1,,
-Raid Leader,Basic,Minion,Neutral,Free,3,2,2,Aura,
-Razorfen Hunter,Basic,Minion,Neutral,Free,3,2,3,Battlecry,
-Savage Roar,Basic,Spell,Druid,Free,3,,,,
-Shadow Bolt,Basic,Spell,Warlock,Free,3,,,,
-Shadow Word: Death,Basic,Spell,Priest,Free,3,,,,
-Shattered Sun Cleric,Basic,Minion,Neutral,Free,3,3,2,Battlecry,
-Shield Block,Basic,Spell,Warrior,Free,3,,,,
-Silverback Patriarch,Basic,Minion,Neutral,Free,3,1,4,Taunt,Beast
-Warsong Commander,Basic,Minion,Warrior,Free,3,2,3,Aura,
-Wolfrider,Basic,Minion,Neutral,Free,3,3,1,Charge,
-Blessing of Kings,Basic,Spell,Paladin,Free,4,,,,
-Chillwind Yeti,Basic,Minion,Neutral,Free,4,4,5,,
-Consecration,Basic,Spell,Paladin,Free,4,,,,
-Dragonling Mechanic,Basic,Minion,Neutral,Free,4,2,4,Battlecry,
-Fireball,Basic,Spell,Mage,Free,4,,,,
-Gnomish Inventor,Basic,Minion,Neutral,Free,4,2,4,Battlecry,
-Hammer of Wrath,Basic,Spell,Paladin,Free,4,,,,
-Hellfire,Basic,Spell,Warlock,Free,4,,,,
-Houndmaster,Basic,Minion,Hunter,Free,4,4,3,Battlecry,
-Kor'kron Elite,Basic,Minion,Warrior,Free,4,4,3,Charge,
-Multi-Shot,Basic,Spell,Hunter,Free,4,,,,
-Oasis Snapjaw,Basic,Minion,Neutral,Free,4,2,7,,Beast
-Ogre Magi,Basic,Minion,Neutral,Free,4,4,4,Spell Damage,
-Polymorph,Basic,Spell,Mage,Free,4,,,,
-Sen'jin Shieldmasta,Basic,Minion,Neutral,Free,4,3,5,Taunt,
-Stormwind Knight,Basic,Minion,Neutral,Free,4,2,5,Charge,
-Swipe,Basic,Spell,Druid,Free,4,,,,
-Truesilver Champion,Basic,Weapon,Paladin,Free,4,4,2,,
-Water Elemental,Basic,Minion,Mage,Free,4,3,6,Freeze,
-Windspeaker,Basic,Minion,Shaman,Free,4,3,3,Battlecry,
-Arcanite Reaper,Basic,Weapon,Warrior,Free,5,5,2,,
-Assassin's Blade,Basic,Weapon,Rogue,Free,5,3,4,,
-Assassinate,Basic,Spell,Rogue,Free,5,,,,
-Bloodlust,Basic,Spell,Shaman,Free,5,,,,
-Booty Bay Bodyguard,Basic,Minion,Neutral,Free,5,5,4,Taunt,
-Darkscale Healer,Basic,Minion,Neutral,Free,5,4,5,Battlecry,
-Frostwolf Warlord,Basic,Minion,Neutral,Free,5,4,4,Battlecry,
-Gurubashi Berserker,Basic,Minion,Neutral,Free,5,2,7,,
-Holy Nova,Basic,Spell,Priest,Free,5,,,,
-Nightblade,Basic,Minion,Neutral,Free,5,4,4,Battlecry,
-Starving Buzzard,Basic,Minion,Hunter,Free,5,3,2,,Beast
-Stormpike Commando,Basic,Minion,Neutral,Free,5,4,2,Battlecry,
-Tundra Rhino,Basic,Minion,Hunter,Free,5,2,5,,Beast
-Archmage,Basic,Minion,Neutral,Free,6,4,7,Spell Damage,
-Boulderfist Ogre,Basic,Minion,Neutral,Free,6,6,7,,
-Dread Infernal,Basic,Minion,Warlock,Free,6,6,6,Battlecry,Demon
-Fire Elemental,Basic,Minion,Shaman,Free,6,6,5,Battlecry,
-Lord of the Arena,Basic,Minion,Neutral,Free,6,6,5,Taunt,
-Reckless Rocketeer,Basic,Minion,Neutral,Free,6,5,2,Charge,
-Starfire,Basic,Spell,Druid,Free,6,,,,
-Vanish,Basic,Spell,Rogue,Free,6,,,,
-Core Hound,Basic,Minion,Neutral,Free,7,9,5,,Beast
-Flamestrike,Basic,Spell,Mage,Free,7,,,,
-Guardian of Kings,Basic,Minion,Paladin,Free,7,5,6,Battlecry,
-Sprint,Basic,Spell,Rogue,Free,7,,,,
-Stormwind Champion,Basic,Minion,Neutral,Free,7,6,6,Aura,
-War Golem,Basic,Minion,Neutral,Free,7,7,7,,
-Ironbark Protector,Basic,Minion,Druid,Free,8,8,8,Taunt,
-Mind Control,Basic,Spell,Priest,Free,10,,,,
-Circle of Healing,Classic,Spell,Priest,Common,0,,,,
-Inner Rage,Classic,Spell,Warrior,Common,0,,,,
-Preparation,Classic,Spell,Rogue,Epic,0,,,,
-Shadowstep,Classic,Spell,Rogue,Common,0,,,,
-Silence,Classic,Spell,Priest,Common,0,,,Silence,
-Wisp,Classic,Minion,Neutral,Common,0,1,1,,
-Abusive Sergeant,Classic,Minion,Neutral,Common,1,2,1,Battlecry,
-Angry Chicken,Classic,Minion,Neutral,Rare,1,1,1,Enrage,Beast
-Argent Squire,Classic,Minion,Neutral,Common,1,1,1,Divine Shield,
-Bestial Wrath,Classic,Spell,Hunter,Epic,1,,,,
-Blessing of Wisdom,Classic,Spell,Paladin,Common,1,,,,
-Blood Imp,Classic,Minion,Warlock,Common,1,0,1,Stealth,Demon
-Bloodsail Corsair,Classic,Minion,Neutral,Rare,1,1,2,Battlecry,Pirate
-Cold Blood,Classic,Spell,Rogue,Common,1,,,Combo,
-Conceal,Classic,Spell,Rogue,Common,1,,,,
-Dust Devil,Classic,Minion,Shaman,Common,1,3,1,"Overload, Windfury",
-Earth Shock,Classic,Spell,Shaman,Common,1,,,Silence,
-Eye for an Eye,Classic,Spell,Paladin,Common,1,,,Secret,
-Flame Imp,Classic,Minion,Warlock,Common,1,3,2,Battlecry,Demon
-Forked Lightning,Classic,Spell,Shaman,Common,1,,,Overload,
-Hungry Crab,Classic,Minion,Neutral,Epic,1,1,2,Battlecry,Beast
-Ice Lance,Classic,Spell,Mage,Common,1,,,Freeze,
-Inner Fire,Classic,Spell,Priest,Common,1,,,,
-Leper Gnome,Classic,Minion,Neutral,Common,1,1,1,Deathrattle,
-Lightning Bolt,Classic,Spell,Shaman,Common,1,,,Overload,
-Lightwarden,Classic,Minion,Neutral,Rare,1,1,2,,
-Mana Wyrm,Classic,Minion,Mage,Common,1,1,3,,
-Murloc Tidecaller,Classic,Minion,Neutral,Rare,1,1,2,,Murloc
-Naturalize,Classic,Spell,Druid,Common,1,,,,
-Noble Sacrifice,Classic,Spell,Paladin,Common,1,,,Secret,
-Power Overwhelming,Classic,Spell,Warlock,Common,1,,,,
-Redemption,Classic,Spell,Paladin,Common,1,,,Secret,
-Repentance,Classic,Spell,Paladin,Common,1,,,Secret,
-Savagery,Classic,Spell,Druid,Rare,1,,,Affected by Spell Power,
-Secretkeeper,Classic,Minion,Neutral,Rare,1,1,2,,
-Shield Slam,Classic,Spell,Warrior,Epic,1,,,Affected by Spell Power,
-Shieldbearer,Classic,Minion,Neutral,Common,1,0,4,Taunt,
-Southsea Deckhand,Classic,Minion,Neutral,Common,1,2,1,,Pirate
-Upgrade!,Classic,Spell,Warrior,Rare,1,,,,
-Worgen Infiltrator,Classic,Minion,Neutral,Common,1,2,1,Stealth,
-Young Dragonhawk,Classic,Minion,Neutral,Common,1,1,1,Windfury,Beast
-Young Priestess,Classic,Minion,Neutral,Rare,1,2,1,,
-Amani Berserker,Classic,Minion,Neutral,Common,2,2,3,Enrage,
-Ancestral Spirit,Classic,Spell,Shaman,Rare,2,,,,
-Ancient Watcher,Classic,Minion,Neutral,Rare,2,4,5,,
-Argent Protector,Classic,Minion,Paladin,Common,2,2,2,Battlecry,
-Armorsmith,Classic,Minion,Warrior,Rare,2,1,4,,
-Battle Rage,Classic,Spell,Warrior,Common,2,,,,
-Betrayal,Classic,Spell,Rogue,Common,2,,,,
-Bloodmage Thalnos,Classic,Minion,Neutral,Legendary,2,1,1,"Deathrattle, Spell Damage",
-Bloodsail Raider,Classic,Minion,Neutral,Common,2,2,3,Battlecry,Pirate
-Commanding Shout,Classic,Spell,Warrior,Rare,2,,,,
-Crazed Alchemist,Classic,Minion,Neutral,Rare,2,2,2,Battlecry,
-Cruel Taskmaster,Classic,Minion,Warrior,Common,2,2,2,Battlecry,
-Defias Ringleader,Classic,Minion,Rogue,Common,2,2,2,Combo,
-Demonfire,Classic,Spell,Warlock,Common,2,,,,
-Dire Wolf Alpha,Classic,Minion,Neutral,Common,2,2,2,"Adjacent Buff, Aura",Beast
-Doomsayer,Classic,Minion,Neutral,Epic,2,0,7,,
-Equality,Classic,Spell,Paladin,Rare,2,,,,
-Eviscerate,Classic,Spell,Rogue,Common,2,,,Combo,
-Explosive Trap,Classic,Spell,Hunter,Common,2,,,Secret,
-Faerie Dragon,Classic,Minion,Neutral,Common,2,3,2,,Dragon
-Flare,Classic,Spell,Hunter,Rare,2,,,,
-Freezing Trap,Classic,Spell,Hunter,Common,2,,,Secret,
-Knife Juggler,Classic,Minion,Neutral,Rare,2,2,2,,
-Lightwell,Classic,Minion,Priest,Rare,2,0,5,,
-Loot Hoarder,Classic,Minion,Neutral,Common,2,2,1,Deathrattle,
-Lorewalker Cho,Classic,Minion,Neutral,Legendary,2,0,4,,
-Mad Bomber,Classic,Minion,Neutral,Common,2,3,2,Battlecry,
-Mana Addict,Classic,Minion,Neutral,Rare,2,1,3,,
-Mana Wraith,Classic,Minion,Neutral,Rare,2,2,2,Aura,
-Master Swordsmith,Classic,Minion,Neutral,Rare,2,1,3,,
-Millhouse Manastorm,Classic,Minion,Neutral,Legendary,2,4,4,Battlecry,
-Misdirection,Classic,Spell,Hunter,Rare,2,,,Secret,
-Nat Pagle,Classic,Minion,Neutral,Legendary,2,0,4,,
-Patient Assassin,Classic,Minion,Rogue,Epic,2,1,1,"Stealth, Poisonous",
-Pint-Sized Summoner,Classic,Minion,Neutral,Rare,2,2,2,Aura,
-Power of the Wild,Classic,Spell,Druid,Common,2,,,,
-Rampage,Classic,Spell,Warrior,Common,2,,,,
-Scavenging Hyena,Classic,Minion,Hunter,Common,2,2,2,,Beast
-Slam,Classic,Spell,Warrior,Common,2,,,,
-Snake Trap,Classic,Spell,Hunter,Epic,2,,,Secret,
-Snipe,Classic,Spell,Hunter,Common,2,,,Secret,
-Sorcerer's Apprentice,Classic,Minion,Mage,Common,2,3,2,Aura,
-Stormforged Axe,Classic,Weapon,Shaman,Common,2,2,3,Overload,
-Sunfury Protector,Classic,Minion,Neutral,Rare,2,2,3,Battlecry,
-Wild Pyromancer,Classic,Minion,Neutral,Rare,2,3,2,,
-Wrath,Classic,Spell,Druid,Common,2,,,,
-Youthful Brewmaster,Classic,Minion,Neutral,Common,2,3,2,Battlecry,
-Acolyte of Pain,Classic,Minion,Neutral,Common,3,1,3,,
-Alarm-o-Bot,Classic,Minion,Neutral,Rare,3,0,3,,Mech
-Aldor Peacekeeper,Classic,Minion,Paladin,Rare,3,3,3,Battlecry,
-Arcane Golem,Classic,Minion,Neutral,Rare,3,4,4,Battlecry,
-Blood Knight,Classic,Minion,Neutral,Epic,3,3,3,Battlecry,
-Coldlight Oracle,Classic,Minion,Neutral,Rare,3,2,2,Battlecry,Murloc
-Coldlight Seer,Classic,Minion,Neutral,Rare,3,2,3,Battlecry,Murloc
-Counterspell,Classic,Spell,Mage,Rare,3,,,Secret,
-Deadly Shot,Classic,Spell,Hunter,Common,3,,,,
-Demolisher,Classic,Minion,Neutral,Rare,3,1,4,,Mech
-Divine Favor,Classic,Spell,Paladin,Rare,3,,,,
-Eaglehorn Bow,Classic,Weapon,Hunter,Rare,3,3,2,,
-Earthen Ring Farseer,Classic,Minion,Neutral,Common,3,3,3,Battlecry,
-Edwin VanCleef,Classic,Minion,Rogue,Legendary,3,2,2,Combo,
-Emperor Cobra,Classic,Minion,Neutral,Rare,3,2,3,Poisonous,Beast
-Far Sight,Classic,Spell,Shaman,Epic,3,,,,
-Felguard,Classic,Minion,Warlock,Rare,3,3,5,"Taunt, Battlecry",Demon
-Feral Spirit,Classic,Spell,Shaman,Rare,3,,,Overload,
-Flesheating Ghoul,Classic,Minion,Neutral,Common,3,2,3,,
-Frothing Berserker,Classic,Minion,Warrior,Rare,3,2,4,,
-Harvest Golem,Classic,Minion,Neutral,Common,3,2,3,Deathrattle,Mech
-Headcrack,Classic,Spell,Rogue,Rare,3,,,Combo,
-Ice Barrier,Classic,Spell,Mage,Common,3,,,Secret,
-Ice Block,Classic,Spell,Mage,Epic,3,,,Secret,
-Imp Master,Classic,Minion,Neutral,Rare,3,1,5,,
-Injured Blademaster,Classic,Minion,Neutral,Rare,3,4,7,Battlecry,
-Ironbeak Owl,Classic,Minion,Neutral,Common,3,2,1,Battlecry,Beast
-Jungle Panther,Classic,Minion,Neutral,Common,3,4,2,Stealth,Beast
-King Mukla,Classic,Minion,Neutral,Legendary,3,5,5,Battlecry,Beast
-Kirin Tor Mage,Classic,Minion,Mage,Rare,3,4,3,Battlecry,
-Lava Burst,Classic,Spell,Shaman,Rare,3,,,Overload,
-Lightning Storm,Classic,Spell,Shaman,Rare,3,,,Overload,
-Mana Tide Totem,Classic,Minion,Shaman,Rare,3,0,3,,Totem
-Mark of Nature,Classic,Spell,Druid,Common,3,,,,
-Mind Control Tech,Classic,Minion,Neutral,Rare,3,3,3,Battlecry,
-Mirror Entity,Classic,Spell,Mage,Common,3,,,Secret,
-Murloc Warleader,Classic,Minion,Neutral,Epic,3,3,3,Aura,Murloc
-Perdition's Blade,Classic,Weapon,Rogue,Rare,3,2,2,"Battlecry, Combo",
-Questing Adventurer,Classic,Minion,Neutral,Rare,3,2,2,,
-Raging Worgen,Classic,Minion,Neutral,Common,3,3,3,Enrage,
-Scarlet Crusader,Classic,Minion,Neutral,Common,3,3,1,Divine Shield,
-Sense Demons,Classic,Spell,Warlock,Common,3,,,,
-Shadowform,Classic,Spell,Priest,Epic,3,,,,
-SI:7 Agent,Classic,Minion,Rogue,Rare,3,3,3,Combo,
-Southsea Captain,Classic,Minion,Neutral,Epic,3,3,3,Aura,Pirate
-Spellbender,Classic,Spell,Mage,Epic,3,,,Secret,
-Sword of Justice,Classic,Weapon,Paladin,Epic,3,1,5,,
-Tauren Warrior,Classic,Minion,Neutral,Common,3,2,3,"Taunt, Enrage",
-Thoughtsteal,Classic,Spell,Priest,Common,3,,,,
-Thrallmar Farseer,Classic,Minion,Neutral,Common,3,2,3,Windfury,
-Tinkmaster Overspark,Classic,Minion,Neutral,Legendary,3,3,3,Battlecry,
-Unbound Elemental,Classic,Minion,Shaman,Common,3,2,4,,
-Unleash the Hounds,Classic,Spell,Hunter,Common,3,,,,
-Vaporize,Classic,Spell,Mage,Rare,3,,,Secret,
-Void Terror,Classic,Minion,Warlock,Rare,3,3,3,Battlecry,Demon
-Ancient Brewmaster,Classic,Minion,Neutral,Common,4,5,4,Battlecry,
-Ancient Mage,Classic,Minion,Neutral,Rare,4,2,5,Battlecry,
-Arathi Weaponsmith,Classic,Minion,Warrior,Common,4,3,3,Battlecry,
-Auchenai Soulpriest,Classic,Minion,Priest,Rare,4,3,5,Aura,
-Bite,Classic,Spell,Druid,Rare,4,,,,
-Blade Flurry,Classic,Spell,Rogue,Rare,4,,,Affected by Spell Power,
-Cone of Cold,Classic,Spell,Mage,Common,4,,,Freeze,
-Cult Master,Classic,Minion,Neutral,Common,4,4,2,,
-Dark Iron Dwarf,Classic,Minion,Neutral,Common,4,4,4,Battlecry,
-Defender of Argus,Classic,Minion,Neutral,Rare,4,2,3,Battlecry,
-Dread Corsair,Classic,Minion,Neutral,Common,4,3,3,Taunt,Pirate
-Ethereal Arcanist,Classic,Minion,Mage,Rare,4,3,3,,
-Keeper of the Grove,Classic,Minion,Druid,Rare,4,2,2,,
-Lightspawn,Classic,Minion,Priest,Common,4,0,5,,
-Mass Dispel,Classic,Spell,Priest,Rare,4,,,Silence,
-Master of Disguise,Classic,Minion,Rogue,Rare,4,4,4,Battlecry,
-Mindgames,Classic,Spell,Priest,Epic,4,,,,
-Mogu'shan Warden,Classic,Minion,Neutral,Common,4,1,7,Taunt,
-Mortal Strike,Classic,Spell,Warrior,Rare,4,,,,
-Pit Lord,Classic,Minion,Warlock,Epic,4,5,6,Battlecry,Demon
-Shadow Madness,Classic,Spell,Priest,Rare,4,,,,
-Shadowflame,Classic,Spell,Warlock,Rare,4,,,Affected by Spell Power,
-Silvermoon Guardian,Classic,Minion,Neutral,Common,4,3,3,Divine Shield,
-Soul of the Forest,Classic,Spell,Druid,Common,4,,,,
-Spellbreaker,Classic,Minion,Neutral,Common,4,4,3,Battlecry,
-Summoning Portal,Classic,Minion,Warlock,Common,4,0,4,Aura,
-Twilight Drake,Classic,Minion,Neutral,Rare,4,4,1,Battlecry,Dragon
-Violet Teacher,Classic,Minion,Neutral,Rare,4,3,5,,
-Abomination,Classic,Minion,Neutral,Rare,5,4,4,"Taunt, Deathrattle",
-Azure Drake,Classic,Minion,Neutral,Rare,5,4,4,"Spell Damage, Battlecry",Dragon
-Bane of Doom,Classic,Spell,Warlock,Epic,5,,,,
-Big Game Hunter,Classic,Minion,Neutral,Epic,5,4,2,Battlecry,
-Blessed Champion,Classic,Spell,Paladin,Rare,5,,,,
-Brawl,Classic,Spell,Warrior,Epic,5,,,,
-Captain Greenskin,Classic,Minion,Neutral,Legendary,5,5,4,Battlecry,Pirate
-Doomguard,Classic,Minion,Warlock,Rare,5,5,7,"Charge, Battlecry",Demon
-Doomhammer,Classic,Weapon,Shaman,Epic,5,2,8,"Windfury, Overload",
-Druid of the Claw,Classic,Minion,Druid,Common,5,4,4,,
-Earth Elemental,Classic,Minion,Shaman,Epic,5,7,8,"Taunt, Overload",
-Explosive Shot,Classic,Spell,Hunter,Rare,5,,,,
-Faceless Manipulator,Classic,Minion,Neutral,Epic,5,3,3,Battlecry,
-Fen Creeper,Classic,Minion,Neutral,Common,5,3,6,Taunt,
-Force of Nature,Classic,Spell,Druid,Epic,5,,,,
-Harrison Jones,Classic,Minion,Neutral,Legendary,5,5,4,Battlecry,
-Holy Wrath,Classic,Spell,Paladin,Rare,5,,,Affected by Spell Power,
-Leeroy Jenkins,Classic,Minion,Neutral,Legendary,5,6,2,"Charge, Battlecry",
-Nourish,Classic,Spell,Druid,Rare,5,,,,
-Silver Hand Knight,Classic,Minion,Neutral,Common,5,4,4,Battlecry,
-Spiteful Smith,Classic,Minion,Neutral,Common,5,4,6,Enrage,
-Stampeding Kodo,Classic,Minion,Neutral,Rare,5,3,5,Battlecry,Beast
-Starfall,Classic,Spell,Druid,Rare,5,,,,
-Stranglethorn Tiger,Classic,Minion,Neutral,Common,5,5,5,Stealth,Beast
-Venture Co. Mercenary,Classic,Minion,Neutral,Common,5,7,6,Aura,
-Argent Commander,Classic,Minion,Neutral,Rare,6,4,2,"Charge, Divine Shield",
-Avenging Wrath,Classic,Spell,Paladin,Epic,6,,,Immune to Spell Power,
-Blizzard,Classic,Spell,Mage,Rare,6,,,Freeze,
-Cabal Shadow Priest,Classic,Minion,Priest,Epic,6,4,5,Battlecry,
-Cairne Bloodhoof,Classic,Minion,Neutral,Legendary,6,4,5,Deathrattle,
-Frost Elemental,Classic,Minion,Neutral,Common,6,5,5,"Battlecry, Freeze",
-Gadgetzan Auctioneer,Classic,Minion,Neutral,Rare,6,4,4,,
-Hogger,Classic,Minion,Neutral,Legendary,6,4,4,,
-Holy Fire,Classic,Spell,Priest,Rare,6,,,,
-Illidan Stormrage,Classic,Minion,Neutral,Legendary,6,7,5,,Demon
-Kidnapper,Classic,Minion,Rogue,Epic,6,5,3,Combo,
-Priestess of Elune,Classic,Minion,Neutral,Common,6,5,4,Battlecry,
-Savannah Highmane,Classic,Minion,Hunter,Rare,6,6,5,Deathrattle,Beast
-Siphon Soul,Classic,Spell,Warlock,Rare,6,,,,
-Sunwalker,Classic,Minion,Neutral,Rare,6,4,5,"Taunt, Divine Shield",
-Sylvanas Windrunner,Classic,Minion,Neutral,Legendary,6,5,5,Deathrattle,
-Temple Enforcer,Classic,Minion,Priest,Common,6,6,6,Battlecry,
-The Beast,Classic,Minion,Neutral,Legendary,6,9,7,Deathrattle,Beast
-The Black Knight,Classic,Minion,Neutral,Legendary,6,4,5,Battlecry,
-Windfury Harpy,Classic,Minion,Neutral,Common,6,4,5,Windfury,
-Ancient of Lore,Classic,Minion,Druid,Epic,7,5,5,,
-Ancient of War,Classic,Minion,Druid,Epic,7,5,5,,
-Archmage Antonidas,Classic,Minion,Mage,Legendary,7,5,7,,
-Baron Geddon,Classic,Minion,Neutral,Legendary,7,7,5,,
-Gladiator's Longbow,Classic,Weapon,Hunter,Epic,7,5,2,,
-Gorehowl,Classic,Weapon,Warrior,Epic,7,7,1,,
-Prophet Velen,Classic,Minion,Priest,Legendary,7,7,7,,
-Ravenholdt Assassin,Classic,Minion,Neutral,Rare,7,7,5,Stealth,
-Al'Akir the Windlord,Classic,Minion,Shaman,Legendary,8,3,5,"Charge, Divine Shield, Windfury, Taunt",
-Grommash Hellscream,Classic,Minion,Warrior,Legendary,8,4,9,"Charge, Enrage",
-Gruul,Classic,Minion,Neutral,Legendary,8,7,7,,
-Lay on Hands,Classic,Spell,Paladin,Epic,8,,,,
-Ragnaros the Firelord,Classic,Minion,Neutral,Legendary,8,8,8,,
-Tirion Fordring,Classic,Minion,Paladin,Legendary,8,6,6,"Divine Shield, Taunt, Deathrattle",
-Twisting Nether,Classic,Spell,Warlock,Epic,8,,,,
-Alexstrasza,Classic,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon
-Cenarius,Classic,Minion,Druid,Legendary,9,5,8,,
-King Krush,Classic,Minion,Hunter,Legendary,9,8,8,Charge,Beast
-Lord Jaraxxus,Classic,Minion,Warlock,Legendary,9,3,15,Battlecry,Demon
-Malygos,Classic,Minion,Neutral,Legendary,9,4,12,Spell Damage,Dragon
-Nozdormu,Classic,Minion,Neutral,Legendary,9,8,8,,Dragon
-Onyxia,Classic,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon
-Ysera,Classic,Minion,Neutral,Legendary,9,4,12,,Dragon
-Deathwing,Classic,Minion,Neutral,Legendary,10,12,12,Battlecry,Dragon
-Pyroblast,Classic,Spell,Mage,Epic,10,,,,
-Sea Giant,Classic,Minion,Neutral,Epic,10,8,8,,
-Mountain Giant,Classic,Minion,Neutral,Epic,12,8,8,,
-Molten Giant,Classic,Minion,Neutral,Epic,25,8,8,,
-Dragon Egg,Blackrock Mountain,Minion,Neutral,Rare,1,0,2,,
-Twilight Whelp,Blackrock Mountain,Minion,Priest,Common,1,2,1,Battlecry,Dragon
-Gang Up,Blackrock Mountain,Spell,Rogue,Common,2,,,,
-Lava Shock,Blackrock Mountain,Spell,Shaman,Rare,2,,,,
-Quick Shot,Blackrock Mountain,Spell,Hunter,Common,2,,,Affected by Spell Power,
-Resurrect,Blackrock Mountain,Spell,Priest,Rare,2,,,,
-Revenge,Blackrock Mountain,Spell,Warrior,Rare,2,,,,
-Blackwing Technician,Blackrock Mountain,Minion,Neutral,Common,3,2,4,Battlecry,
-Demonwrath,Blackrock Mountain,Spell,Warlock,Rare,3,,,Affected by Spell Power,
-Druid of the Flame,Blackrock Mountain,Minion,Druid,Common,3,2,2,,
-Flamewaker,Blackrock Mountain,Minion,Mage,Rare,3,2,4,,
-Imp Gang Boss,Blackrock Mountain,Minion,Warlock,Common,3,2,4,,Demon
-Axe Flinger,Blackrock Mountain,Minion,Warrior,Common,4,2,5,,
-Core Rager,Blackrock Mountain,Minion,Hunter,Rare,4,4,4,Battlecry,Beast
-Dragonkin Sorcerer,Blackrock Mountain,Minion,Neutral,Common,4,3,5,,Dragon
-Fireguard Destroyer,Blackrock Mountain,Minion,Shaman,Common,4,3,6,"Battlecry, Overload",
-Hungry Dragon,Blackrock Mountain,Minion,Neutral,Common,4,5,6,Battlecry,Dragon
-Blackwing Corruptor,Blackrock Mountain,Minion,Neutral,Common,5,5,4,Battlecry,
-Dark Iron Skulker,Blackrock Mountain,Minion,Rogue,Rare,5,4,3,Battlecry,
-Dragon Consort,Blackrock Mountain,Minion,Paladin,Rare,5,5,5,Battlecry,Dragon
-Dragon's Breath,Blackrock Mountain,Spell,Mage,Common,5,,,,
-Grim Patron,Blackrock Mountain,Minion,Neutral,Rare,5,3,3,,
-Solemn Vigil,Blackrock Mountain,Spell,Paladin,Common,5,,,,
-Drakonid Crusher,Blackrock Mountain,Minion,Neutral,Common,6,6,6,Battlecry,Dragon
-Emperor Thaurissan,Blackrock Mountain,Minion,Neutral,Legendary,6,5,5,,
-Volcanic Drake,Blackrock Mountain,Minion,Neutral,Common,6,6,4,,Dragon
-Rend Blackhand,Blackrock Mountain,Minion,Neutral,Legendary,7,8,4,Battlecry,
-Chromaggus,Blackrock Mountain,Minion,Neutral,Legendary,8,6,8,,Dragon
-Majordomo Executus,Blackrock Mountain,Minion,Neutral,Legendary,9,9,7,Deathrattle,
-Nefarian,Blackrock Mountain,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon
-Volcanic Lumberer,Blackrock Mountain,Minion,Druid,Rare,9,7,8,Taunt,
-Arcane Blast,The Grand Tournament,Spell,Mage,Epic,1,,,,
-Brave Archer,The Grand Tournament,Minion,Hunter,Common,1,2,1,Inspire,
-Buccaneer,The Grand Tournament,Minion,Rogue,Common,1,2,1,,Pirate
-Competitive Spirit,The Grand Tournament,Spell,Paladin,Rare,1,,,Secret,
-Flash Heal,The Grand Tournament,Spell,Priest,Common,1,,,,
-Gadgetzan Jouster,The Grand Tournament,Minion,Neutral,Common,1,1,2,Battlecry,
-Injured Kvaldir,The Grand Tournament,Minion,Neutral,Rare,1,2,4,Battlecry,
-Living Roots,The Grand Tournament,Spell,Druid,Common,1,,,,
-Lowly Squire,The Grand Tournament,Minion,Neutral,Common,1,1,2,Inspire,
-Power Word: Glory,The Grand Tournament,Spell,Priest,Common,1,,,,
-Tournament Attendee,The Grand Tournament,Minion,Neutral,Common,1,2,1,Taunt,
-Alexstrasza's Champion,The Grand Tournament,Minion,Warrior,Rare,2,2,3,Battlecry,
-Ancestral Knowledge,The Grand Tournament,Spell,Shaman,Common,2,,,Overload,
-Argent Lance,The Grand Tournament,Weapon,Paladin,Rare,2,2,2,Battlecry,
-Argent Watchman,The Grand Tournament,Minion,Neutral,Rare,2,2,4,Inspire,
-Bear Trap,The Grand Tournament,Spell,Hunter,Common,2,,,Secret,
-Bolster,The Grand Tournament,Spell,Warrior,Common,2,,,,
-Boneguard Lieutenant,The Grand Tournament,Minion,Neutral,Common,2,3,2,Inspire,
-Confuse,The Grand Tournament,Spell,Priest,Epic,2,,,,
-Convert,The Grand Tournament,Spell,Priest,Rare,2,,,,
-Cutpurse,The Grand Tournament,Minion,Rogue,Rare,2,2,2,,
-Darnassus Aspirant,The Grand Tournament,Minion,Druid,Rare,2,2,3,"Battlecry, Deathrattle",
-Demonfuse,The Grand Tournament,Spell,Warlock,Common,2,,,,
-Druid of the Saber,The Grand Tournament,Minion,Druid,Common,2,2,1,,
-Fallen Hero,The Grand Tournament,Minion,Mage,Rare,2,3,2,,
-Flame Juggler,The Grand Tournament,Minion,Neutral,Common,2,2,3,Battlecry,
-Garrison Commander,The Grand Tournament,Minion,Neutral,Epic,2,2,3,,
-King's Elekk,The Grand Tournament,Minion,Hunter,Common,2,3,2,Battlecry,Beast
-Lance Carrier,The Grand Tournament,Minion,Neutral,Common,2,1,2,Battlecry,
-Lock and Load,The Grand Tournament,Spell,Hunter,Epic,2,,,,
-Sparring Partner,The Grand Tournament,Minion,Warrior,Rare,2,3,2,"Taunt, Battlecry",
-Tiny Knight of Evil,The Grand Tournament,Minion,Warlock,Rare,2,3,2,,Demon
-Totem Golem,The Grand Tournament,Minion,Shaman,Common,2,3,4,Overload,Totem
-Undercity Valiant,The Grand Tournament,Minion,Rogue,Common,2,3,2,Combo,
-Wrathguard,The Grand Tournament,Minion,Warlock,Common,2,4,3,,Demon
-Wyrmrest Agent,The Grand Tournament,Minion,Priest,Rare,2,1,4,Battlecry,
-Argent Horserider,The Grand Tournament,Minion,Neutral,Common,3,2,1,"Charge, Divine Shield",
-Bash,The Grand Tournament,Spell,Warrior,Common,3,,,,
-Beneath the Grounds,The Grand Tournament,Spell,Rogue,Epic,3,,,,
-Burgle,The Grand Tournament,Spell,Rogue,Rare,3,,,,
-Coliseum Manager,The Grand Tournament,Minion,Neutral,Rare,3,2,5,Inspire,
-Dragonhawk Rider,The Grand Tournament,Minion,Neutral,Common,3,3,3,Inspire,
-Dreadscale,The Grand Tournament,Minion,Hunter,Legendary,3,4,2,,Beast
-Effigy,The Grand Tournament,Spell,Mage,Rare,3,,,Secret,
-Elemental Destruction,The Grand Tournament,Spell,Shaman,Epic,3,,,Overload,
-Eydis Darkbane,The Grand Tournament,Minion,Neutral,Legendary,3,3,4,,
-Fencing Coach,The Grand Tournament,Minion,Neutral,Rare,3,2,2,Battlecry,
-Fjola Lightbane,The Grand Tournament,Minion,Neutral,Legendary,3,3,4,,
-Healing Wave,The Grand Tournament,Spell,Shaman,Rare,3,,,,
-Ice Rager,The Grand Tournament,Minion,Neutral,Common,3,5,2,,
-King's Defender,The Grand Tournament,Weapon,Warrior,Rare,3,3,2,Battlecry,
-Light's Champion,The Grand Tournament,Minion,Neutral,Rare,3,4,3,Battlecry,
-Master of Ceremonies,The Grand Tournament,Minion,Neutral,Epic,3,4,2,Battlecry,
-Mulch,The Grand Tournament,Spell,Druid,Epic,3,,,,
-Orgrimmar Aspirant,The Grand Tournament,Minion,Warrior,Common,3,3,3,Inspire,
-Polymorph: Boar,The Grand Tournament,Spell,Mage,Rare,3,,,,
-Powershot,The Grand Tournament,Spell,Hunter,Rare,3,,,,
-Saboteur,The Grand Tournament,Minion,Neutral,Rare,3,4,3,Battlecry,
-Seal of Champions,The Grand Tournament,Spell,Paladin,Common,3,,,,
-Shadowfiend,The Grand Tournament,Minion,Priest,Epic,3,3,3,,
-Shady Dealer,The Grand Tournament,Minion,Rogue,Rare,3,4,3,Battlecry,
-Silent Knight,The Grand Tournament,Minion,Neutral,Common,3,2,2,"Divine Shield, Stealth",
-Silver Hand Regent,The Grand Tournament,Minion,Neutral,Common,3,3,3,Inspire,
-Spellslinger,The Grand Tournament,Minion,Mage,Common,3,3,4,Battlecry,
-Stablemaster,The Grand Tournament,Minion,Hunter,Epic,3,4,2,Battlecry,
-Tuskarr Totemic,The Grand Tournament,Minion,Shaman,Common,3,3,2,Battlecry,
-Warhorse Trainer,The Grand Tournament,Minion,Paladin,Common,3,2,4,Aura,
-Armored Warhorse,The Grand Tournament,Minion,Neutral,Rare,4,5,3,Battlecry,Beast
-Astral Communion,The Grand Tournament,Spell,Druid,Epic,4,,,,
-Charged Hammer,The Grand Tournament,Weapon,Shaman,Epic,4,2,4,Deathrattle,
-Crowd Favorite,The Grand Tournament,Minion,Neutral,Epic,4,4,4,,
-Dalaran Aspirant,The Grand Tournament,Minion,Mage,Common,4,3,5,Inspire,
-Draenei Totemcarver,The Grand Tournament,Minion,Shaman,Rare,4,4,4,Battlecry,
-Dreadsteed,The Grand Tournament,Minion,Warlock,Epic,4,1,1,Deathrattle,Demon
-Evil Heckler,The Grand Tournament,Minion,Neutral,Common,4,5,4,Taunt,
-Fist of Jaraxxus,The Grand Tournament,Spell,Warlock,Rare,4,,,InvisibleDeathrattle,
-Frigid Snobold,The Grand Tournament,Minion,Neutral,Common,4,2,6,Spell Damage,
-Gormok the Impaler,The Grand Tournament,Minion,Neutral,Legendary,4,4,4,Battlecry,
-Holy Champion,The Grand Tournament,Minion,Priest,Common,4,3,5,,
-Magnataur Alpha,The Grand Tournament,Minion,Warrior,Epic,4,5,3,,
-Maiden of the Lake,The Grand Tournament,Minion,Neutral,Common,4,2,6,Aura,
-Murloc Knight,The Grand Tournament,Minion,Paladin,Common,4,3,4,Inspire,Murloc
-Poisoned Blade,The Grand Tournament,Weapon,Rogue,Epic,4,1,3,,
-Refreshment Vendor,The Grand Tournament,Minion,Neutral,Common,4,3,5,Battlecry,
-Savage Combatant,The Grand Tournament,Minion,Druid,Rare,4,5,4,Inspire,Beast
-Spawn of Shadows,The Grand Tournament,Minion,Priest,Rare,4,5,4,Inspire,
-Tournament Medic,The Grand Tournament,Minion,Neutral,Common,4,1,8,Inspire,
-Twilight Guardian,The Grand Tournament,Minion,Neutral,Epic,4,2,6,Battlecry,Dragon
-Wildwalker,The Grand Tournament,Minion,Druid,Common,4,4,4,Battlecry,
-Clockwork Knight,The Grand Tournament,Minion,Neutral,Common,5,5,5,Battlecry,Mech
-Flame Lance,The Grand Tournament,Spell,Mage,Common,5,,,,
-Kvaldir Raider,The Grand Tournament,Minion,Neutral,Common,5,4,4,Inspire,
-Mukla's Champion,The Grand Tournament,Minion,Neutral,Common,5,4,3,Inspire,Beast
-Nexus-Champion Saraad,The Grand Tournament,Minion,Neutral,Legendary,5,4,5,Inspire,
-Pit Fighter,The Grand Tournament,Minion,Neutral,Common,5,5,6,,
-Ram Wrangler,The Grand Tournament,Minion,Hunter,Rare,5,3,3,Battlecry,
-Recruiter,The Grand Tournament,Minion,Neutral,Epic,5,5,4,Inspire,
-Shado-Pan Rider,The Grand Tournament,Minion,Rogue,Common,5,3,7,Combo,
-Thunder Bluff Valiant,The Grand Tournament,Minion,Shaman,Rare,5,3,6,Inspire,
-Tuskarr Jouster,The Grand Tournament,Minion,Paladin,Rare,5,5,5,Battlecry,
-Ball of Spiders,The Grand Tournament,Spell,Hunter,Rare,6,,,,
-Bolf Ramshield,The Grand Tournament,Minion,Neutral,Legendary,6,3,9,,
-Coldarra Drake,The Grand Tournament,Minion,Mage,Epic,6,6,6,,Dragon
-Dark Bargain,The Grand Tournament,Spell,Warlock,Epic,6,,,,
-Enter the Coliseum,The Grand Tournament,Spell,Paladin,Epic,6,,,,
-Grand Crusader,The Grand Tournament,Minion,Neutral,Epic,6,5,5,Battlecry,
-Justicar Trueheart,The Grand Tournament,Minion,Neutral,Legendary,6,6,3,Battlecry,
-Kodorider,The Grand Tournament,Minion,Neutral,Epic,6,3,5,Inspire,
-Master Jouster,The Grand Tournament,Minion,Neutral,Rare,6,5,6,Battlecry,
-Mogor's Champion,The Grand Tournament,Minion,Neutral,Rare,6,8,5,,
-Mysterious Challenger,The Grand Tournament,Minion,Paladin,Epic,6,6,6,Battlecry,
-Sea Reaver,The Grand Tournament,Minion,Warrior,Epic,6,6,7,,
-Sideshow Spelleater,The Grand Tournament,Minion,Neutral,Epic,6,6,5,Battlecry,
-The Mistcaller,The Grand Tournament,Minion,Shaman,Legendary,6,4,4,Battlecry,
-The Skeleton Knight,The Grand Tournament,Minion,Neutral,Legendary,6,7,4,Deathrattle,
-Void Crusher,The Grand Tournament,Minion,Warlock,Rare,6,5,4,Inspire,Demon
-Wilfred Fizzlebang,The Grand Tournament,Minion,Warlock,Legendary,6,4,4,,
-Acidmaw,The Grand Tournament,Minion,Hunter,Legendary,7,4,2,,Beast
-Captured Jormungar,The Grand Tournament,Minion,Neutral,Common,7,5,9,,Beast
-Chillmaw,The Grand Tournament,Minion,Neutral,Legendary,7,6,6,"Deathrattle, Taunt",Dragon
-Confessor Paletress,The Grand Tournament,Minion,Priest,Legendary,7,5,4,Inspire,
-Eadric the Pure,The Grand Tournament,Minion,Paladin,Legendary,7,3,7,Battlecry,
-Fearsome Doomguard,The Grand Tournament,Minion,Warlock,Common,7,6,8,,Demon
-Knight of the Wild,The Grand Tournament,Minion,Druid,Rare,7,6,6,,
-Skycap'n Kragg,The Grand Tournament,Minion,Neutral,Legendary,7,4,6,Charge,Pirate
-Rhonin,The Grand Tournament,Minion,Mage,Legendary,8,7,7,Deathrattle,
-Anub'arak,The Grand Tournament,Minion,Rogue,Legendary,9,8,4,Deathrattle,
-Aviana,The Grand Tournament,Minion,Druid,Legendary,9,5,5,Aura,
-Icehowl,The Grand Tournament,Minion,Neutral,Legendary,9,10,10,Charge,
-North Sea Kraken,The Grand Tournament,Minion,Neutral,Common,9,9,7,Battlecry,
-Frost Giant,The Grand Tournament,Minion,Neutral,Epic,10,8,8,,
-Varian Wrynn,The Grand Tournament,Minion,Warrior,Legendary,10,7,7,Battlecry,
-Murloc Tinyfin,The League of Explorers,Minion,Neutral,Common,0,1,1,,Murloc
-Cursed Blade,The League of Explorers,Weapon,Warrior,Rare,1,2,3,,
-Pit Snake,The League of Explorers,Minion,Rogue,Common,1,2,1,Poisonous,Beast
-Raven Idol,The League of Explorers,Spell,Druid,Common,1,,,,
-Reliquary Seeker,The League of Explorers,Minion,Warlock,Rare,1,1,1,Battlecry,
-Sacred Trial,The League of Explorers,Spell,Paladin,Common,1,,,Secret,
-Sir Finley Mrrgglton,The League of Explorers,Minion,Neutral,Legendary,1,1,3,Battlecry,Murloc
-Tunnel Trogg,The League of Explorers,Minion,Shaman,Common,1,1,3,,
-Curse of Rafaam,The League of Explorers,Spell,Warlock,Common,2,,,,
-Dark Peddler,The League of Explorers,Minion,Warlock,Common,2,2,2,Battlecry,
-Dart Trap,The League of Explorers,Spell,Hunter,Common,2,,,Secret,
-Explorer's Hat,The League of Explorers,Spell,Hunter,Rare,2,,,,
-Huge Toad,The League of Explorers,Minion,Neutral,Common,2,3,2,Deathrattle,Beast
-Jeweled Scarab,The League of Explorers,Minion,Neutral,Common,2,1,1,Battlecry,Beast
-Museum Curator,The League of Explorers,Minion,Priest,Common,2,1,2,Battlecry,
-Brann Bronzebeard,The League of Explorers,Minion,Neutral,Legendary,3,2,4,Aura,
-Desert Camel,The League of Explorers,Minion,Hunter,Common,3,2,4,Battlecry,Beast
-Fierce Monkey,The League of Explorers,Minion,Warrior,Common,3,3,4,Taunt,Beast
-Forgotten Torch,The League of Explorers,Spell,Mage,Common,3,,,,
-Mounted Raptor,The League of Explorers,Minion,Druid,Common,3,3,2,Deathrattle,Beast
-Unearthed Raptor,The League of Explorers,Minion,Rogue,Rare,3,3,4,Battlecry,
-Ancient Shade,The League of Explorers,Minion,Neutral,Rare,4,7,4,Battlecry,
-Animated Armor,The League of Explorers,Minion,Mage,Rare,4,4,4,,
-Eerie Statue,The League of Explorers,Minion,Neutral,Rare,4,7,7,,
-Elise Starseeker,The League of Explorers,Minion,Neutral,Legendary,4,3,5,Battlecry,
-Gorillabot A-3,The League of Explorers,Minion,Neutral,Common,4,3,4,Battlecry,Mech
-Jungle Moonkin,The League of Explorers,Minion,Druid,Rare,4,4,4,Spell Damage,Beast
-Keeper of Uldaman,The League of Explorers,Minion,Paladin,Common,4,3,4,Battlecry,
-Rumbling Elemental,The League of Explorers,Minion,Shaman,Common,4,2,6,,
-Tomb Pillager,The League of Explorers,Minion,Rogue,Common,4,5,4,Deathrattle,
-Tomb Spider,The League of Explorers,Minion,Neutral,Common,4,3,3,Battlecry,Beast
-Anubisath Sentinel,The League of Explorers,Minion,Neutral,Common,5,4,4,Deathrattle,
-Djinni of Zephyrs,The League of Explorers,Minion,Neutral,Epic,5,4,6,,
-Ethereal Conjurer,The League of Explorers,Minion,Mage,Common,5,6,3,Battlecry,
-Excavated Evil,The League of Explorers,Spell,Priest,Rare,5,,,,
-Naga Sea Witch,The League of Explorers,Minion,Neutral,Epic,5,5,5,Aura,
-Summoning Stone,The League of Explorers,Minion,Neutral,Rare,5,0,6,,
-Entomb,The League of Explorers,Spell,Priest,Common,6,,,,
-Reno Jackson,The League of Explorers,Minion,Neutral,Legendary,6,4,6,Battlecry,
-Wobbling Runts,The League of Explorers,Minion,Neutral,Rare,6,2,6,Deathrattle,
-Everyfin is Awesome,The League of Explorers,Spell,Shaman,Rare,7,,,,
-Obsidian Destroyer,The League of Explorers,Minion,Warrior,Common,7,7,7,,
-Fossilized Devilsaur,The League of Explorers,Minion,Neutral,Common,8,8,8,Battlecry,
-Arch-Thief Rafaam,The League of Explorers,Minion,Neutral,Legendary,9,7,8,Battlecry,
-Anyfin Can Happen,The League of Explorers,Spell,Paladin,Rare,10,,,,
-Forbidden Flame,Whispers of the Old Gods,Spell,Mage,Epic,0,,,Affected by Spell Power,
-Forbidden Healing,Whispers of the Old Gods,Spell,Paladin,Epic,0,,,,
-Forbidden Ritual,Whispers of the Old Gods,Spell,Warlock,Rare,0,,,,
-Forbidden Shaping,Whispers of the Old Gods,Spell,Priest,Epic,0,,,,
-Bladed Cultist,Whispers of the Old Gods,Minion,Rogue,Common,1,1,2,Combo,
-Blood To Ichor,Whispers of the Old Gods,Spell,Warrior,Rare,1,,,,
-Divine Strength,Whispers of the Old Gods,Spell,Paladin,Common,1,,,,
-Evolve,Whispers of the Old Gods,Spell,Shaman,Rare,1,,,,
-Fiery Bat,Whispers of the Old Gods,Minion,Hunter,Common,1,2,1,Deathrattle,Beast
-Forbidden Ancient,Whispers of the Old Gods,Minion,Druid,Epic,1,1,1,Battlecry,
-Journey Below,Whispers of the Old Gods,Spell,Rogue,Rare,1,,,,
-N'Zoth's First Mate,Whispers of the Old Gods,Minion,Warrior,Common,1,1,1,Battlecry,Pirate
-On the Hunt,Whispers of the Old Gods,Spell,Hunter,Common,1,,,,
-Possessed Villager,Whispers of the Old Gods,Minion,Warlock,Common,1,1,1,Deathrattle,
-Primal Fusion,Whispers of the Old Gods,Spell,Shaman,Common,1,,,,
-Selfless Hero,Whispers of the Old Gods,Minion,Paladin,Rare,1,2,1,Deathrattle,
-Shifter Zerus,Whispers of the Old Gods,Minion,Neutral,Legendary,1,1,1,,
-Tentacle of N'Zoth,Whispers of the Old Gods,Minion,Neutral,Common,1,1,1,Deathrattle,
-Vilefin Inquisitor,Whispers of the Old Gods,Minion,Paladin,Epic,1,1,3,Battlecry,Murloc
-Zealous Initiate,Whispers of the Old Gods,Minion,Neutral,Common,1,1,1,Deathrattle,
-A Light in the Darkness,Whispers of the Old Gods,Spell,Paladin,Common,2,,,,
-Beckoner of Evil,Whispers of the Old Gods,Minion,Neutral,Common,2,2,3,Battlecry,
-Bilefin Tidehunter,Whispers of the Old Gods,Minion,Neutral,Common,2,2,1,Battlecry,Murloc
-Cult Sorcerer,Whispers of the Old Gods,Minion,Mage,Rare,2,3,2,Spell Damage,
-Darkshire Librarian,Whispers of the Old Gods,Minion,Warlock,Rare,2,3,2,"Battlecry, Deathrattle",
-Duskboar,Whispers of the Old Gods,Minion,Neutral,Common,2,4,1,,Beast
-Embrace the Shadow,Whispers of the Old Gods,Spell,Priest,Epic,2,,,,
-Eternal Sentinel,Whispers of the Old Gods,Minion,Shaman,Epic,2,3,2,Battlecry,
-Mark of Y'Shaarj,Whispers of the Old Gods,Spell,Druid,Common,2,,,,
-"Nat, the Darkfisher",Whispers of the Old Gods,Minion,Neutral,Legendary,2,2,4,,
-Renounce Darkness,Whispers of the Old Gods,Spell,Warlock,Epic,2,,,,
-Shatter,Whispers of the Old Gods,Spell,Mage,Common,2,,,,
-Stormcrack,Whispers of the Old Gods,Spell,Shaman,Common,2,,,Overload,
-Twilight Geomancer,Whispers of the Old Gods,Minion,Neutral,Common,2,1,4,"Battlecry, Taunt",
-Twisted Worgen,Whispers of the Old Gods,Minion,Neutral,Common,2,3,1,Stealth,
-Undercity Huckster,Whispers of the Old Gods,Minion,Rogue,Rare,2,2,2,Deathrattle,
-Addled Grizzly,Whispers of the Old Gods,Minion,Druid,Rare,3,2,2,,Beast
-Am'gam Rager,Whispers of the Old Gods,Minion,Neutral,Common,3,1,5,,
-Blood Warriors,Whispers of the Old Gods,Spell,Warrior,Epic,3,,,,
-Bloodsail Cultist,Whispers of the Old Gods,Minion,Warrior,Rare,3,3,4,Battlecry,Pirate
-Carrion Grub,Whispers of the Old Gods,Minion,Hunter,Common,3,2,5,,Beast
-Darkshire Councilman,Whispers of the Old Gods,Minion,Warlock,Common,3,1,5,,
-Disciple of C'Thun,Whispers of the Old Gods,Minion,Neutral,Rare,3,2,1,Battlecry,
-Feral Rage,Whispers of the Old Gods,Spell,Druid,Common,3,,,,
-Forlorn Stalker,Whispers of the Old Gods,Minion,Hunter,Rare,3,4,2,Battlecry,
-Infest,Whispers of the Old Gods,Spell,Hunter,Rare,3,,,,
-Rallying Blade,Whispers of the Old Gods,Weapon,Paladin,Rare,3,3,2,Battlecry,
-Ravaging Ghoul,Whispers of the Old Gods,Minion,Warrior,Common,3,3,3,Battlecry,
-Shadow Strike,Whispers of the Old Gods,Spell,Rogue,Common,3,,,,
-Silithid Swarmer,Whispers of the Old Gods,Minion,Neutral,Rare,3,3,5,,Beast
-Spawn of N'Zoth,Whispers of the Old Gods,Minion,Neutral,Common,3,2,2,Deathrattle,
-Spreading Madness,Whispers of the Old Gods,Spell,Warlock,Rare,3,,,Immune to Spell Power,
-Squirming Tentacle,Whispers of the Old Gods,Minion,Neutral,Common,3,2,4,Taunt,
-Steward of Darkshire,Whispers of the Old Gods,Minion,Paladin,Rare,3,3,3,,
-Twilight Elder,Whispers of the Old Gods,Minion,Neutral,Common,3,3,4,,
-Twilight Flamecaller,Whispers of the Old Gods,Minion,Mage,Common,3,2,2,Battlecry,
-Aberrant Berserker,Whispers of the Old Gods,Minion,Neutral,Common,4,3,5,Enrage,
-Blackwater Pirate,Whispers of the Old Gods,Minion,Neutral,Rare,4,2,5,,Pirate
-Bloodhoof Brave,Whispers of the Old Gods,Minion,Warrior,Common,4,2,6,"Enrage, Taunt",
-C'Thun's Chosen,Whispers of the Old Gods,Minion,Neutral,Common,4,4,2,"Divine Shield, Battlecry",
-Cyclopian Horror,Whispers of the Old Gods,Minion,Neutral,Epic,4,3,3,"Taunt, Battlecry",
-Demented Frostcaller,Whispers of the Old Gods,Minion,Mage,Rare,4,2,4,,
-Eater of Secrets,Whispers of the Old Gods,Minion,Neutral,Rare,4,2,4,Battlecry,
-Evolved Kobold,Whispers of the Old Gods,Minion,Neutral,Common,4,2,2,Spell Damage,
-Faceless Shambler,Whispers of the Old Gods,Minion,Neutral,Epic,4,1,1,"Battlecry, Taunt",
-Fandral Staghelm,Whispers of the Old Gods,Minion,Druid,Legendary,4,3,5,Aura,
-Flamewreathed Faceless,Whispers of the Old Gods,Minion,Shaman,Common,4,7,7,Overload,
-Hooded Acolyte,Whispers of the Old Gods,Minion,Priest,Common,4,3,6,,
-Infested Tauren,Whispers of the Old Gods,Minion,Neutral,Common,4,2,3,"Deathrattle, Taunt",
-Infested Wolf,Whispers of the Old Gods,Minion,Hunter,Rare,4,3,3,Deathrattle,Beast
-Klaxxi Amber-Weaver,Whispers of the Old Gods,Minion,Druid,Rare,4,4,5,Battlecry,
-Master of Evolution,Whispers of the Old Gods,Minion,Shaman,Rare,4,4,5,Battlecry,
-Midnight Drake,Whispers of the Old Gods,Minion,Neutral,Rare,4,1,4,Battlecry,Dragon
-Mire Keeper,Whispers of the Old Gods,Minion,Druid,Rare,4,3,3,,
-Polluted Hoarder,Whispers of the Old Gods,Minion,Neutral,Common,4,4,2,Deathrattle,
-Shadow Word: Horror,Whispers of the Old Gods,Spell,Priest,Rare,4,,,,
-Shifting Shade,Whispers of the Old Gods,Minion,Priest,Rare,4,4,3,Deathrattle,
-Southsea Squidface,Whispers of the Old Gods,Minion,Rogue,Common,4,4,4,Deathrattle,Pirate
-Twilight Summoner,Whispers of the Old Gods,Minion,Neutral,Epic,4,1,1,Deathrattle,
-"Xaril, Poisoned Mind",Whispers of the Old Gods,Minion,Rogue,Legendary,4,3,2,"Battlecry, Deathrattle",
-Cabalist's Tome,Whispers of the Old Gods,Spell,Mage,Epic,5,,,,
-Corrupted Healbot,Whispers of the Old Gods,Minion,Neutral,Rare,5,6,6,Deathrattle,Mech
-Crazed Worshipper,Whispers of the Old Gods,Minion,Neutral,Epic,5,3,6,Taunt,
-Cult Apothecary,Whispers of the Old Gods,Minion,Neutral,Common,5,4,4,Battlecry,
-Darkshire Alchemist,Whispers of the Old Gods,Minion,Priest,Common,5,4,5,Battlecry,
-Darkspeaker,Whispers of the Old Gods,Minion,Neutral,Epic,5,3,6,Battlecry,
-Hallazeal the Ascended,Whispers of the Old Gods,Minion,Shaman,Legendary,5,4,6,,
-Hammer of Twilight,Whispers of the Old Gods,Weapon,Shaman,Epic,5,4,2,Deathrattle,
-Power Word: Tentacles,Whispers of the Old Gods,Spell,Priest,Common,5,,,,
-Princess Huhuran,Whispers of the Old Gods,Minion,Hunter,Legendary,5,6,5,Battlecry,Beast
-Psych-o-Tron,Whispers of the Old Gods,Minion,Neutral,Common,5,3,4,"Taunt, Divine Shield",Mech
-Servant of Yogg-Saron,Whispers of the Old Gods,Minion,Mage,Rare,5,5,4,Battlecry,
-Shadowcaster,Whispers of the Old Gods,Minion,Rogue,Epic,5,4,4,Battlecry,
-Stand Against Darkness,Whispers of the Old Gods,Spell,Paladin,Common,5,,,,
-Tentacles for Arms,Whispers of the Old Gods,Weapon,Warrior,Epic,5,2,2,Deathrattle,
-Twilight Darkmender,Whispers of the Old Gods,Minion,Priest,Rare,5,6,5,Battlecry,
-Usher of Souls,Whispers of the Old Gods,Minion,Warlock,Common,5,5,6,,
-Validated Doomsayer,Whispers of the Old Gods,Minion,Neutral,Epic,5,0,7,,
-Ancient Harbinger,Whispers of the Old Gods,Minion,Neutral,Epic,6,4,6,,
-Corrupted Seer,Whispers of the Old Gods,Minion,Neutral,Rare,6,2,3,Battlecry,Murloc
-Dark Arakkoa,Whispers of the Old Gods,Minion,Druid,Common,6,5,7,"Battlecry, Taunt",
-Faceless Summoner,Whispers of the Old Gods,Minion,Mage,Common,6,5,5,Battlecry,
-Herald Volazj,Whispers of the Old Gods,Minion,Priest,Legendary,6,5,5,Battlecry,
-"Mukla, Tyrant of the Vale",Whispers of the Old Gods,Minion,Neutral,Legendary,6,5,5,Battlecry,Beast
-Nerubian Prophet,Whispers of the Old Gods,Minion,Neutral,Common,6,4,4,,
-Scaled Nightmare,Whispers of the Old Gods,Minion,Neutral,Epic,6,2,8,,Dragon
-Skeram Cultist,Whispers of the Old Gods,Minion,Neutral,Rare,6,7,6,Battlecry,
-Thing from Below,Whispers of the Old Gods,Minion,Shaman,Rare,6,5,5,Taunt,
-Thistle Tea,Whispers of the Old Gods,Spell,Rogue,Rare,6,,,,
-Ancient Shieldbearer,Whispers of the Old Gods,Minion,Warrior,Rare,7,6,6,Battlecry,
-Bog Creeper,Whispers of the Old Gods,Minion,Neutral,Common,7,6,8,Taunt,
-Cho'gall,Whispers of the Old Gods,Minion,Warlock,Legendary,7,7,7,Battlecry,
-Grotesque Dragonhawk,Whispers of the Old Gods,Minion,Neutral,Common,7,5,5,Windfury,Beast
-"Hogger, Doom of Elwynn",Whispers of the Old Gods,Minion,Neutral,Legendary,7,6,6,,
-Malkorok,Whispers of the Old Gods,Minion,Warrior,Legendary,7,6,5,Battlecry,
-Twin Emperor Vek'lor,Whispers of the Old Gods,Minion,Neutral,Legendary,7,4,6,"Battlecry, Taunt",
-Wisps of the Old Gods,Whispers of the Old Gods,Spell,Druid,Epic,7,,,,
-Anomalus,Whispers of the Old Gods,Minion,Mage,Legendary,8,8,6,Deathrattle,
-Call of the Wild,Whispers of the Old Gods,Spell,Hunter,Epic,8,,,,
-Doomcaller,Whispers of the Old Gods,Minion,Neutral,Rare,8,7,9,Battlecry,
-Eldritch Horror,Whispers of the Old Gods,Minion,Neutral,Common,8,6,10,,
-Giant Sand Worm,Whispers of the Old Gods,Minion,Hunter,Epic,8,8,8,,Beast
-"Ragnaros, Lightlord",Whispers of the Old Gods,Minion,Paladin,Legendary,8,8,8,,
-The Boogeymonster,Whispers of the Old Gods,Minion,Neutral,Legendary,8,6,7,,
-Blade of C'Thun,Whispers of the Old Gods,Minion,Rogue,Epic,9,4,4,Battlecry,
-Blood of The Ancient One,Whispers of the Old Gods,Minion,Neutral,Epic,9,9,9,,
-Soggoth the Slitherer,Whispers of the Old Gods,Minion,Neutral,Legendary,9,5,9,Taunt,
-C'Thun,Whispers of the Old Gods,Minion,Neutral,Legendary,10,6,6,Battlecry,
-"Deathwing, Dragonlord",Whispers of the Old Gods,Minion,Neutral,Legendary,10,12,12,Deathrattle,Dragon
-DOOM!,Whispers of the Old Gods,Spell,Warlock,Epic,10,,,,
-Faceless Behemoth,Whispers of the Old Gods,Minion,Neutral,Common,10,10,10,,
-"N'Zoth, the Corruptor",Whispers of the Old Gods,Minion,Neutral,Legendary,10,5,7,Battlecry,
-"Y'Shaarj, Rage Unbound",Whispers of the Old Gods,Minion,Neutral,Legendary,10,10,10,,
-"Yogg-Saron, Hope's End",Whispers of the Old Gods,Minion,Neutral,Legendary,10,7,5,Battlecry,
-Arcane Anomaly,Karazhan,Minion,Neutral,Common,1,2,1,,
-Babbling Book,Karazhan,Minion,Mage,Rare,1,1,1,Battlecry,
-Enchanted Raven,Karazhan,Minion,Druid,Common,1,2,2,,Beast
-Malchezaar's Imp,Karazhan,Minion,Warlock,Common,1,1,3,,Demon
-Runic Egg,Karazhan,Minion,Neutral,Common,1,0,2,Deathrattle,
-Spirit Claws,Karazhan,Weapon,Shaman,Common,1,1,3,,
-Swashburglar,Karazhan,Minion,Rogue,Common,1,1,1,Battlecry,Pirate
-Cat Trick,Karazhan,Spell,Hunter,Rare,2,,,Secret,
-Kindly Grandmother,Karazhan,Minion,Hunter,Common,2,1,1,Deathrattle,Beast
-Maelstrom Portal,Karazhan,Spell,Shaman,Rare,2,,,,
-Medivh's Valet,Karazhan,Minion,Mage,Common,2,2,3,Battlecry,
-Netherspite Historian,Karazhan,Minion,Neutral,Common,2,1,3,Battlecry,
-Pompous Thespian,Karazhan,Minion,Neutral,Common,2,3,2,Taunt,
-Purify,Karazhan,Spell,Priest,Common,2,,,,
-Cloaked Huntress,Karazhan,Minion,Hunter,Common,3,3,4,,
-Deadly Fork,Karazhan,Minion,Rogue,Common,3,3,2,Deathrattle,
-Moroes,Karazhan,Minion,Neutral,Legendary,3,1,1,Stealth,
-Nightbane Templar,Karazhan,Minion,Paladin,Common,3,2,3,Battlecry,
-Pantry Spider,Karazhan,Minion,Neutral,Common,3,1,3,Battlecry,Beast
-Protect the King!,Karazhan,Spell,Warrior,Rare,3,,,,
-Silverware Golem,Karazhan,Minion,Warlock,Rare,3,3,3,InvisibleDeathrattle,
-Violet Illusionist,Karazhan,Minion,Neutral,Common,3,4,3,Aura,
-Zoobot,Karazhan,Minion,Neutral,Common,3,3,3,Battlecry,Mech
-Arcanosmith,Karazhan,Minion,Neutral,Common,4,3,2,Battlecry,
-Barnes,Karazhan,Minion,Neutral,Legendary,4,3,4,Battlecry,
-Priest of the Feast,Karazhan,Minion,Priest,Common,4,3,6,,
-Silvermoon Portal,Karazhan,Spell,Paladin,Common,4,,,,
-Wicked Witchdoctor,Karazhan,Minion,Shaman,Common,4,3,4,,
-Avian Watcher,Karazhan,Minion,Neutral,Rare,5,3,6,Battlecry,
-Ethereal Peddler,Karazhan,Minion,Rogue,Rare,5,5,6,Battlecry,
-Fool's Bane,Karazhan,Weapon,Warrior,Common,5,3,4,,
-Ironforge Portal,Karazhan,Spell,Warrior,Common,5,,,,
-Kara Kazham!,Karazhan,Spell,Warlock,Common,5,,,,
-Menagerie Magician,Karazhan,Minion,Neutral,Common,5,4,4,Battlecry,
-Onyx Bishop,Karazhan,Minion,Priest,Rare,5,3,4,Battlecry,
-Prince Malchezaar,Karazhan,Minion,Neutral,Legendary,5,5,6,,Demon
-Book Wyrm,Karazhan,Minion,Neutral,Rare,6,3,6,Battlecry,Dragon
-Ivory Knight,Karazhan,Minion,Paladin,Rare,6,4,4,Battlecry,
-Menagerie Warden,Karazhan,Minion,Druid,Common,6,5,5,Battlecry,
-Moat Lurker,Karazhan,Minion,Neutral,Rare,6,3,3,"Battlecry, Deathrattle",
-Moonglade Portal,Karazhan,Spell,Druid,Rare,6,,,,
-Firelands Portal,Karazhan,Spell,Mage,Common,7,,,,
-The Curator,Karazhan,Minion,Neutral,Legendary,7,4,6,"Battlecry, Taunt",Mech
-"Medivh, the Guardian",Karazhan,Minion,Neutral,Legendary,8,7,7,Battlecry,
-Arcane Giant,Karazhan,Minion,Neutral,Epic,12,8,8,,
-Avenge,Naxxramas,Spell,Paladin,Common,1,,,Secret,
-Undertaker,Naxxramas,Minion,Neutral,Common,1,1,2,,
-Webspinner,Naxxramas,Minion,Hunter,Common,1,1,1,Deathrattle,Beast
-Zombie Chow,Naxxramas,Minion,Neutral,Common,1,2,3,Deathrattle,
-Echoing Ooze,Naxxramas,Minion,Neutral,Epic,2,1,2,Battlecry,
-Haunted Creeper,Naxxramas,Minion,Neutral,Common,2,1,2,Deathrattle,Beast
-Mad Scientist,Naxxramas,Minion,Neutral,Common,2,2,2,Deathrattle,
-Nerub'ar Weblord,Naxxramas,Minion,Neutral,Common,2,1,4,Aura,
-Nerubian Egg,Naxxramas,Minion,Neutral,Rare,2,0,2,Deathrattle,
-Reincarnate,Naxxramas,Spell,Shaman,Common,2,,,,
-Unstable Ghoul,Naxxramas,Minion,Neutral,Common,2,1,3,"Taunt, Deathrattle",
-Dancing Swords,Naxxramas,Minion,Neutral,Common,3,4,4,Deathrattle,
-Dark Cultist,Naxxramas,Minion,Priest,Common,3,3,4,Deathrattle,
-Deathlord,Naxxramas,Minion,Neutral,Rare,3,2,8,"Taunt, Deathrattle",
-Duplicate,Naxxramas,Spell,Mage,Common,3,,,Secret,
-Shade of Naxxramas,Naxxramas,Minion,Neutral,Epic,3,2,2,Stealth,
-Stoneskin Gargoyle,Naxxramas,Minion,Neutral,Common,3,1,4,,
-Anub'ar Ambusher,Naxxramas,Minion,Rogue,Common,4,5,5,Deathrattle,
-Baron Rivendare,Naxxramas,Minion,Neutral,Legendary,4,1,7,Aura,
-Death's Bite,Naxxramas,Weapon,Warrior,Common,4,4,2,Deathrattle,
-Poison Seeds,Naxxramas,Spell,Druid,Common,4,,,,
-Voidcaller,Naxxramas,Minion,Warlock,Common,4,3,4,Deathrattle,Demon
-Wailing Soul,Naxxramas,Minion,Neutral,Rare,4,3,5,Battlecry,
-Feugen,Naxxramas,Minion,Neutral,Legendary,5,4,7,Deathrattle,
-Loatheb,Naxxramas,Minion,Neutral,Legendary,5,5,5,Battlecry,
-Sludge Belcher,Naxxramas,Minion,Neutral,Rare,5,3,5,"Taunt, Deathrattle",
-Spectral Knight,Naxxramas,Minion,Neutral,Common,5,4,6,,
-Stalagg,Naxxramas,Minion,Neutral,Legendary,5,7,4,Deathrattle,
-Maexxna,Naxxramas,Minion,Neutral,Legendary,6,2,8,Poisonous,Beast
-Kel'Thuzad,Naxxramas,Minion,Neutral,Legendary,8,6,8,,
-Target Dummy,Goblins vs Gnomes,Minion,Neutral,Rare,0,0,2,Taunt,Mech
-Clockwork Gnome,Goblins vs Gnomes,Minion,Neutral,Common,1,2,1,Deathrattle,Mech
-Cogmaster,Goblins vs Gnomes,Minion,Neutral,Common,1,1,2,Aura,
-Light of the Naaru,Goblins vs Gnomes,Spell,Priest,Rare,1,,,,
-Shadowbomber,Goblins vs Gnomes,Minion,Priest,Epic,1,2,1,Battlecry,
-Warbot,Goblins vs Gnomes,Minion,Warrior,Common,1,1,3,Enrage,Mech
-Annoy-o-Tron,Goblins vs Gnomes,Minion,Neutral,Common,2,1,2,"Taunt, Divine Shield",Mech
-Anodized Robo Cub,Goblins vs Gnomes,Minion,Druid,Common,2,2,2,Taunt,Mech
-Call Pet,Goblins vs Gnomes,Spell,Hunter,Rare,2,,,,
-Crackle,Goblins vs Gnomes,Spell,Shaman,Common,2,,,Overload,
-Darkbomb,Goblins vs Gnomes,Spell,Warlock,Common,2,,,,
-Explosive Sheep,Goblins vs Gnomes,Minion,Neutral,Common,2,1,1,Deathrattle,Mech
-Feign Death,Goblins vs Gnomes,Spell,Hunter,Epic,2,,,,
-Flamecannon,Goblins vs Gnomes,Spell,Mage,Common,2,,,,
-Gilblin Stalker,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,Stealth,
-Glaivezooka,Goblins vs Gnomes,Weapon,Hunter,Common,2,2,2,Battlecry,
-Goblin Auto-Barber,Goblins vs Gnomes,Minion,Rogue,Common,2,3,2,Battlecry,Mech
-Mechwarper,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,Aura,Mech
-Micro Machine,Goblins vs Gnomes,Minion,Neutral,Common,2,1,2,,Mech
-Mistress of Pain,Goblins vs Gnomes,Minion,Warlock,Rare,2,1,4,,Demon
-One-eyed Cheat,Goblins vs Gnomes,Minion,Rogue,Rare,2,4,1,,Pirate
-Puddlestomper,Goblins vs Gnomes,Minion,Neutral,Common,2,3,2,,Murloc
-Recombobulator,Goblins vs Gnomes,Minion,Neutral,Epic,2,3,2,Battlecry,
-Seal of Light,Goblins vs Gnomes,Spell,Paladin,Common,2,,,,
-Shadowboxer,Goblins vs Gnomes,Minion,Priest,Rare,2,2,3,,Mech
-Shielded Minibot,Goblins vs Gnomes,Minion,Paladin,Common,2,2,2,Divine Shield,Mech
-Ship's Cannon,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,,
-Shrinkmeister,Goblins vs Gnomes,Minion,Priest,Common,2,3,2,Battlecry,
-Snowchugger,Goblins vs Gnomes,Minion,Mage,Common,2,2,3,Freeze,Mech
-Steamwheedle Sniper,Goblins vs Gnomes,Minion,Hunter,Epic,2,2,3,,
-Stonesplinter Trogg,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,,
-Unstable Portal,Goblins vs Gnomes,Spell,Mage,Rare,2,,,,
-Vitality Totem,Goblins vs Gnomes,Minion,Shaman,Rare,2,0,3,,Totem
-Whirling Zap-o-matic,Goblins vs Gnomes,Minion,Shaman,Common,2,3,2,Windfury,Mech
-Bouncing Blade,Goblins vs Gnomes,Spell,Warrior,Epic,3,,,,
-Coghammer,Goblins vs Gnomes,Weapon,Paladin,Epic,3,2,3,Battlecry,
-Cogmaster's Wrench,Goblins vs Gnomes,Weapon,Rogue,Epic,3,1,3,Aura,
-Flying Machine,Goblins vs Gnomes,Minion,Neutral,Common,3,1,4,Windfury,Mech
-Gnomeregan Infantry,Goblins vs Gnomes,Minion,Neutral,Common,3,1,4,"Charge, Taunt",
-Gnomish Experimenter,Goblins vs Gnomes,Minion,Neutral,Rare,3,3,2,Battlecry,
-Goblin Sapper,Goblins vs Gnomes,Minion,Neutral,Rare,3,2,4,Aura,
-Grove Tender,Goblins vs Gnomes,Minion,Druid,Rare,3,2,4,,
-Hobgoblin,Goblins vs Gnomes,Minion,Neutral,Epic,3,2,3,,
-Illuminator,Goblins vs Gnomes,Minion,Neutral,Rare,3,2,4,,
-Iron Sensei,Goblins vs Gnomes,Minion,Rogue,Rare,3,2,2,,Mech
-Lil' Exorcist,Goblins vs Gnomes,Minion,Neutral,Rare,3,2,3,"Taunt, Battlecry",
-Metaltooth Leaper,Goblins vs Gnomes,Minion,Hunter,Rare,3,3,3,Battlecry,Mech
-Muster for Battle,Goblins vs Gnomes,Spell,Paladin,Rare,3,,,,
-Ogre Brute,Goblins vs Gnomes,Minion,Neutral,Common,3,4,4,,
-Ogre Warmaul,Goblins vs Gnomes,Weapon,Warrior,Common,3,4,2,,
-Powermace,Goblins vs Gnomes,Weapon,Shaman,Rare,3,3,2,Deathrattle,
-Scarlet Purifier,Goblins vs Gnomes,Minion,Paladin,Rare,3,4,3,Battlecry,
-Soot Spewer,Goblins vs Gnomes,Minion,Mage,Rare,3,3,3,Spell Damage,Mech
-Spider Tank,Goblins vs Gnomes,Minion,Neutral,Common,3,3,4,,Mech
-Tinkertown Technician,Goblins vs Gnomes,Minion,Neutral,Common,3,3,3,Battlecry,
-Velen's Chosen,Goblins vs Gnomes,Spell,Priest,Common,3,,,,
-Ancestor's Call,Goblins vs Gnomes,Spell,Shaman,Epic,4,,,,
-Arcane Nullifier X-21,Goblins vs Gnomes,Minion,Neutral,Rare,4,2,5,Taunt,Mech
-Burly Rockjaw Trogg,Goblins vs Gnomes,Minion,Neutral,Common,4,3,5,,
-Dunemaul Shaman,Goblins vs Gnomes,Minion,Shaman,Rare,4,5,4,"Windfury, Overload",
-Echo of Medivh,Goblins vs Gnomes,Spell,Mage,Epic,4,,,,
-Enhance-o Mechano,Goblins vs Gnomes,Minion,Neutral,Epic,4,3,2,Battlecry,Mech
-Fel Cannon,Goblins vs Gnomes,Minion,Warlock,Rare,4,3,5,,Mech
-Goblin Blastmage,Goblins vs Gnomes,Minion,Mage,Rare,4,5,4,Battlecry,
-Imp-losion,Goblins vs Gnomes,Spell,Warlock,Rare,4,,,,
-Jeeves,Goblins vs Gnomes,Minion,Neutral,Rare,4,1,4,,Mech
-Kezan Mystic,Goblins vs Gnomes,Minion,Neutral,Rare,4,4,3,Battlecry,
-Lost Tallstrider,Goblins vs Gnomes,Minion,Neutral,Common,4,5,4,,Beast
-Mechanical Yeti,Goblins vs Gnomes,Minion,Neutral,Common,4,4,5,Deathrattle,Mech
-Mini-Mage,Goblins vs Gnomes,Minion,Neutral,Epic,4,4,1,"Spell Damage, Stealth",
-Piloted Shredder,Goblins vs Gnomes,Minion,Neutral,Common,4,4,3,Deathrattle,Mech
-Sabotage,Goblins vs Gnomes,Spell,Rogue,Epic,4,,,Combo,
-Screwjank Clunker,Goblins vs Gnomes,Minion,Warrior,Rare,4,2,5,Battlecry,Mech
-Siltfin Spiritwalker,Goblins vs Gnomes,Minion,Shaman,Epic,4,2,5,Overload,Murloc
-Tinker's Sharpsword Oil,Goblins vs Gnomes,Spell,Rogue,Common,4,,,Combo,
-Wee Spellstopper,Goblins vs Gnomes,Minion,Mage,Epic,4,2,5,Aura,
-Antique Healbot,Goblins vs Gnomes,Minion,Neutral,Common,5,3,3,Battlecry,Mech
-Blingtron 3000,Goblins vs Gnomes,Minion,Neutral,Legendary,5,3,4,Battlecry,Mech
-Bolvar Fordragon,Goblins vs Gnomes,Minion,Paladin,Legendary,5,1,7,,
-Bomb Lobber,Goblins vs Gnomes,Minion,Neutral,Rare,5,3,3,Battlecry,
-Cobalt Guardian,Goblins vs Gnomes,Minion,Paladin,Rare,5,6,3,,Mech
-Cobra Shot,Goblins vs Gnomes,Spell,Hunter,Common,5,,,,
-Demonheart,Goblins vs Gnomes,Spell,Warlock,Epic,5,,,,
-Druid of the Fang,Goblins vs Gnomes,Minion,Druid,Common,5,4,4,Battlecry,
-Fel Reaver,Goblins vs Gnomes,Minion,Neutral,Epic,5,8,8,,Mech
-Floating Watcher,Goblins vs Gnomes,Minion,Warlock,Common,5,4,4,,Demon
-Hemet Nesingwary,Goblins vs Gnomes,Minion,Neutral,Legendary,5,6,3,Battlecry,
-Junkbot,Goblins vs Gnomes,Minion,Neutral,Epic,5,1,5,,Mech
-King of Beasts,Goblins vs Gnomes,Minion,Hunter,Rare,5,2,6,"Battlecry, Taunt",Beast
-Madder Bomber,Goblins vs Gnomes,Minion,Neutral,Rare,5,5,4,Battlecry,
-Mimiron's Head,Goblins vs Gnomes,Minion,Neutral,Legendary,5,4,5,,Mech
-Ogre Ninja,Goblins vs Gnomes,Minion,Rogue,Rare,5,6,6,Stealth,
-Quartermaster,Goblins vs Gnomes,Minion,Paladin,Epic,5,2,5,Battlecry,
-Salty Dog,Goblins vs Gnomes,Minion,Neutral,Common,5,7,4,,Pirate
-Siege Engine,Goblins vs Gnomes,Minion,Warrior,Rare,5,5,5,,Mech
-Upgraded Repair Bot,Goblins vs Gnomes,Minion,Priest,Rare,5,5,5,Battlecry,Mech
-Vol'jin,Goblins vs Gnomes,Minion,Priest,Legendary,5,6,2,Battlecry,
-Anima Golem,Goblins vs Gnomes,Minion,Warlock,Epic,6,9,9,,Mech
-Dark Wispers,Goblins vs Gnomes,Spell,Druid,Epic,6,,,,
-Gazlowe,Goblins vs Gnomes,Minion,Neutral,Legendary,6,3,6,,
-Iron Juggernaut,Goblins vs Gnomes,Minion,Warrior,Legendary,6,6,5,Battlecry,Mech
-Lightbomb,Goblins vs Gnomes,Spell,Priest,Epic,6,,,Affected by Spell Power,
-Mech-Bear-Cat,Goblins vs Gnomes,Minion,Druid,Rare,6,7,6,,Mech
-Mogor the Ogre,Goblins vs Gnomes,Minion,Neutral,Legendary,6,7,6,,
-Piloted Sky Golem,Goblins vs Gnomes,Minion,Neutral,Epic,6,6,4,Deathrattle,Mech
-Recycle,Goblins vs Gnomes,Spell,Druid,Rare,6,,,,
-Shieldmaiden,Goblins vs Gnomes,Minion,Warrior,Rare,6,5,5,Battlecry,
-Toshley,Goblins vs Gnomes,Minion,Neutral,Legendary,6,5,7,"Battlecry, Deathrattle",
-Trade Prince Gallywix,Goblins vs Gnomes,Minion,Rogue,Legendary,6,5,8,,
-Crush,Goblins vs Gnomes,Spell,Warrior,Epic,7,,,,
-Dr. Boom,Goblins vs Gnomes,Minion,Neutral,Legendary,7,7,7,Battlecry,
-Flame Leviathan,Goblins vs Gnomes,Minion,Mage,Legendary,7,7,7,,Mech
-Gahz'rilla,Goblins vs Gnomes,Minion,Hunter,Legendary,7,6,9,,Beast
-Malorne,Goblins vs Gnomes,Minion,Druid,Legendary,7,9,7,Deathrattle,Beast
-Neptulon,Goblins vs Gnomes,Minion,Shaman,Legendary,7,7,7,"Battlecry, Overload",
-Troggzor the Earthinator,Goblins vs Gnomes,Minion,Neutral,Legendary,7,6,6,,
-Foe Reaper 4000,Goblins vs Gnomes,Minion,Neutral,Legendary,8,6,9,,Mech
-Force-Tank MAX,Goblins vs Gnomes,Minion,Neutral,Common,8,7,7,Divine Shield,Mech
-Sneed's Old Shredder,Goblins vs Gnomes,Minion,Neutral,Legendary,8,5,7,Deathrattle,Mech
-Mal'Ganis,Goblins vs Gnomes,Minion,Warlock,Legendary,9,9,7,Aura,Demon
-Mekgineer Thermaplugg,Goblins vs Gnomes,Minion,Neutral,Legendary,9,9,7,,Mech
-Tree of Life,Goblins vs Gnomes,Spell,Druid,Epic,9,,,,
-Clockwork Giant,Goblins vs Gnomes,Minion,Neutral,Epic,12,8,8,,Mech
-Captain's Parrot,Reward,Minion,Neutral,Epic,2,1,1,Battlecry,Beast
-Old Murk-Eye,Reward,Minion,Neutral,Legendary,4,2,4,Charge,Murloc
-Elite Tauren Chieftain,Promo,Minion,Neutral,Legendary,5,5,5,Battlecry,
-Gelbin Mekkatorque,Promo,Minion,Neutral,Legendary,6,6,6,Battlecry,
+Card Name,Card Set,Card Type,Class,Rarity,Mana Cost,Attack,Health,Card Mechanics,Race,Card ID
+Ancestral Healing,Basic,Spell,Shaman,Free,0,,,Taunt,,CS2_041
+Backstab,Basic,Spell,Rogue,Free,0,,,,,CS2_072
+Innervate,Basic,Spell,Druid,Free,0,,,,,EX1_169
+Moonfire,Basic,Spell,Druid,Free,0,,,,,CS2_008
+Sacrificial Pact,Basic,Spell,Warlock,Free,0,,,,,NEW1_003
+Totemic Might,Basic,Spell,Shaman,Free,0,,,,,EX1_244
+Arcane Missiles,Basic,Spell,Mage,Free,1,,,Immune to Spell Power,,EX1_277
+Arcane Shot,Basic,Spell,Hunter,Free,1,,,,,DS1_185
+Blessing of Might,Basic,Spell,Paladin,Free,1,,,,,CS2_087
+Charge,Basic,Spell,Warrior,Free,1,,,Charge,,CS2_103
+Claw,Basic,Spell,Druid,Free,1,,,,,CS2_005
+Corruption,Basic,Spell,Warlock,Free,1,,,,,CS2_063
+Deadly Poison,Basic,Spell,Rogue,Free,1,,,,,CS2_074
+Elven Archer,Basic,Minion,Neutral,Free,1,1,1,Battlecry,,CS2_189
+Frost Shock,Basic,Spell,Shaman,Free,1,,,Freeze,,CS2_037
+Goldshire Footman,Basic,Minion,Neutral,Free,1,1,2,Taunt,,CS1_042
+Grimscale Oracle,Basic,Minion,Neutral,Free,1,1,1,,Murloc,EX1_508
+Hand of Protection,Basic,Spell,Paladin,Free,1,,,Divine Shield,,EX1_371
+Holy Smite,Basic,Spell,Priest,Free,1,,,,,CS1_130
+Humility,Basic,Spell,Paladin,Free,1,,,,,EX1_360
+Hunter's Mark,Basic,Spell,Hunter,Free,1,,,,,CS2_084
+Light's Justice,Basic,Weapon,Paladin,Free,1,1,4,,,CS2_091
+Mind Vision,Basic,Spell,Priest,Free,1,,,,,CS2_003
+Mirror Image,Basic,Spell,Mage,Free,1,,,Taunt,,CS2_027
+Mortal Coil,Basic,Spell,Warlock,Free,1,,,,,EX1_302
+Murloc Raider,Basic,Minion,Neutral,Free,1,2,1,,Murloc,CS2_168
+Northshire Cleric,Basic,Minion,Priest,Free,1,1,3,,,CS2_235
+Power Word: Shield,Basic,Spell,Priest,Free,1,,,,,CS2_004
+Sinister Strike,Basic,Spell,Rogue,Free,1,,,,,CS2_075
+Soulfire,Basic,Spell,Warlock,Free,1,,,,,EX1_308
+Stonetusk Boar,Basic,Minion,Neutral,Free,1,1,1,Charge,Beast,CS2_171
+Timber Wolf,Basic,Minion,Hunter,Free,1,1,1,Aura,Beast,DS1_175
+Tracking,Basic,Spell,Hunter,Free,1,,,,,DS1_184
+Voidwalker,Basic,Minion,Warlock,Free,1,1,3,Taunt,Demon,CS2_065
+Voodoo Doctor,Basic,Minion,Neutral,Free,1,2,1,Battlecry,,EX1_011
+Whirlwind,Basic,Spell,Warrior,Free,1,,,,,EX1_400
+Acidic Swamp Ooze,Basic,Minion,Neutral,Free,2,3,2,Battlecry,,EX1_066
+Arcane Explosion,Basic,Spell,Mage,Free,2,,,,,CS2_025
+Bloodfen Raptor,Basic,Minion,Neutral,Free,2,3,2,,Beast,CS2_172
+Bluegill Warrior,Basic,Minion,Neutral,Free,2,2,1,Charge,Murloc,CS2_173
+Cleave,Basic,Spell,Warrior,Free,2,,,,,CS2_114
+Divine Spirit,Basic,Spell,Priest,Free,2,,,,,CS2_236
+Execute,Basic,Spell,Warrior,Free,2,,,,,CS2_108
+Fiery War Axe,Basic,Weapon,Warrior,Free,2,3,2,,,CS2_106
+Flametongue Totem,Basic,Minion,Shaman,Free,2,0,3,"Adjacent Buff, Aura",Totem,EX1_565
+Frostbolt,Basic,Spell,Mage,Free,2,,,Freeze,,CS2_024
+Frostwolf Grunt,Basic,Minion,Neutral,Free,2,2,2,Taunt,,CS2_121
+Heroic Strike,Basic,Spell,Warrior,Free,2,,,,,CS2_105
+Holy Light,Basic,Spell,Paladin,Free,2,,,,,CS2_089
+Kobold Geomancer,Basic,Minion,Neutral,Free,2,2,2,Spell Damage,,CS2_142
+Mark of the Wild,Basic,Spell,Druid,Free,2,,,Taunt,,CS2_009
+Mind Blast,Basic,Spell,Priest,Free,2,,,,,DS1_233
+Murloc Tidehunter,Basic,Minion,Neutral,Free,2,2,1,Battlecry,Murloc,EX1_506
+Novice Engineer,Basic,Minion,Neutral,Free,2,1,1,Battlecry,,EX1_015
+River Crocolisk,Basic,Minion,Neutral,Free,2,2,3,,Beast,CS2_120
+Rockbiter Weapon,Basic,Spell,Shaman,Free,2,,,,,CS2_045
+Sap,Basic,Spell,Rogue,Free,2,,,,,EX1_581
+Shadow Word: Pain,Basic,Spell,Priest,Free,2,,,,,CS2_234
+Shiv,Basic,Spell,Rogue,Free,2,,,,,EX1_278
+Succubus,Basic,Minion,Warlock,Free,2,4,3,Battlecry,Demon,EX1_306
+Wild Growth,Basic,Spell,Druid,Free,2,,,,,CS2_013
+Windfury,Basic,Spell,Shaman,Free,2,,,Windfury,,CS2_039
+Animal Companion,Basic,Spell,Hunter,Free,3,,,,,NEW1_031
+Arcane Intellect,Basic,Spell,Mage,Free,3,,,,,CS2_023
+Dalaran Mage,Basic,Minion,Neutral,Free,3,1,4,Spell Damage,,EX1_582
+Drain Life,Basic,Spell,Warlock,Free,3,,,,,CS2_061
+Fan of Knives,Basic,Spell,Rogue,Free,3,,,,,EX1_129
+Frost Nova,Basic,Spell,Mage,Free,3,,,Freeze,,CS2_026
+Healing Touch,Basic,Spell,Druid,Free,3,,,,,CS2_007
+Hex,Basic,Spell,Shaman,Free,3,,,Taunt,,EX1_246
+Ironforge Rifleman,Basic,Minion,Neutral,Free,3,2,2,Battlecry,,CS2_141
+Ironfur Grizzly,Basic,Minion,Neutral,Free,3,3,3,Taunt,Beast,CS2_125
+Kill Command,Basic,Spell,Hunter,Free,3,,,,,EX1_539
+Magma Rager,Basic,Minion,Neutral,Free,3,5,1,,,CS2_118
+Raid Leader,Basic,Minion,Neutral,Free,3,2,2,Aura,,CS2_122
+Razorfen Hunter,Basic,Minion,Neutral,Free,3,2,3,Battlecry,,CS2_196
+Savage Roar,Basic,Spell,Druid,Free,3,,,,,CS2_011
+Shadow Bolt,Basic,Spell,Warlock,Free,3,,,,,CS2_057
+Shadow Word: Death,Basic,Spell,Priest,Free,3,,,,,EX1_622
+Shattered Sun Cleric,Basic,Minion,Neutral,Free,3,3,2,Battlecry,,EX1_019
+Shield Block,Basic,Spell,Warrior,Free,3,,,,,EX1_606
+Silverback Patriarch,Basic,Minion,Neutral,Free,3,1,4,Taunt,Beast,CS2_127
+Warsong Commander,Basic,Minion,Warrior,Free,3,2,3,"Charge, Aura",,EX1_084
+Wolfrider,Basic,Minion,Neutral,Free,3,3,1,Charge,,CS2_124
+Blessing of Kings,Basic,Spell,Paladin,Free,4,,,,,CS2_092
+Chillwind Yeti,Basic,Minion,Neutral,Free,4,4,5,,,CS2_182
+Consecration,Basic,Spell,Paladin,Free,4,,,,,CS2_093
+Dragonling Mechanic,Basic,Minion,Neutral,Free,4,2,4,Battlecry,,EX1_025
+Fireball,Basic,Spell,Mage,Free,4,,,,,CS2_029
+Gnomish Inventor,Basic,Minion,Neutral,Free,4,2,4,Battlecry,,CS2_147
+Hammer of Wrath,Basic,Spell,Paladin,Free,4,,,,,CS2_094
+Hellfire,Basic,Spell,Warlock,Free,4,,,,,CS2_062
+Houndmaster,Basic,Minion,Hunter,Free,4,4,3,"Taunt, Battlecry",,DS1_070
+Kor'kron Elite,Basic,Minion,Warrior,Free,4,4,3,Charge,,NEW1_011
+Multi-Shot,Basic,Spell,Hunter,Free,4,,,,,DS1_183
+Oasis Snapjaw,Basic,Minion,Neutral,Free,4,2,7,,Beast,CS2_119
+Ogre Magi,Basic,Minion,Neutral,Free,4,4,4,Spell Damage,,CS2_197
+Polymorph,Basic,Spell,Mage,Free,4,,,,,CS2_022
+Sen'jin Shieldmasta,Basic,Minion,Neutral,Free,4,3,5,Taunt,,CS2_179
+Stormwind Knight,Basic,Minion,Neutral,Free,4,2,5,Charge,,CS2_131
+Swipe,Basic,Spell,Druid,Free,4,,,,,CS2_012
+Truesilver Champion,Basic,Weapon,Paladin,Free,4,4,2,,,CS2_097
+Water Elemental,Basic,Minion,Mage,Free,4,3,6,Freeze,,CS2_033
+Windspeaker,Basic,Minion,Shaman,Free,4,3,3,"Windfury, Battlecry",,EX1_587
+Arcanite Reaper,Basic,Weapon,Warrior,Free,5,5,2,,,CS2_112
+Assassin's Blade,Basic,Weapon,Rogue,Free,5,3,4,,,CS2_080
+Assassinate,Basic,Spell,Rogue,Free,5,,,,,CS2_076
+Bloodlust,Basic,Spell,Shaman,Free,5,,,,,CS2_046
+Booty Bay Bodyguard,Basic,Minion,Neutral,Free,5,5,4,Taunt,,CS2_187
+Darkscale Healer,Basic,Minion,Neutral,Free,5,4,5,Battlecry,,DS1_055
+Frostwolf Warlord,Basic,Minion,Neutral,Free,5,4,4,Battlecry,,CS2_226
+Gurubashi Berserker,Basic,Minion,Neutral,Free,5,2,7,,,EX1_399
+Holy Nova,Basic,Spell,Priest,Free,5,,,,,CS1_112
+Nightblade,Basic,Minion,Neutral,Free,5,4,4,Battlecry,,EX1_593
+Starving Buzzard,Basic,Minion,Hunter,Free,5,3,2,,Beast,CS2_237
+Stormpike Commando,Basic,Minion,Neutral,Free,5,4,2,Battlecry,,CS2_150
+Tundra Rhino,Basic,Minion,Hunter,Free,5,2,5,Charge,Beast,DS1_178
+Archmage,Basic,Minion,Neutral,Free,6,4,7,Spell Damage,,CS2_155
+Boulderfist Ogre,Basic,Minion,Neutral,Free,6,6,7,,,CS2_200
+Dread Infernal,Basic,Minion,Warlock,Free,6,6,6,Battlecry,Demon,CS2_064
+Fire Elemental,Basic,Minion,Shaman,Free,6,6,5,Battlecry,,CS2_042
+Lord of the Arena,Basic,Minion,Neutral,Free,6,6,5,Taunt,,CS2_162
+Reckless Rocketeer,Basic,Minion,Neutral,Free,6,5,2,Charge,,CS2_213
+Starfire,Basic,Spell,Druid,Free,6,,,,,EX1_173
+Vanish,Basic,Spell,Rogue,Free,6,,,,,NEW1_004
+Core Hound,Basic,Minion,Neutral,Free,7,9,5,,Beast,CS2_201
+Flamestrike,Basic,Spell,Mage,Free,7,,,,,CS2_032
+Guardian of Kings,Basic,Minion,Paladin,Free,7,5,6,Battlecry,,CS2_088
+Sprint,Basic,Spell,Rogue,Free,7,,,,,CS2_077
+Stormwind Champion,Basic,Minion,Neutral,Free,7,6,6,Aura,,CS2_222
+War Golem,Basic,Minion,Neutral,Free,7,7,7,,,CS2_186
+Ironbark Protector,Basic,Minion,Druid,Free,8,8,8,Taunt,,CS2_232
+Mind Control,Basic,Spell,Priest,Free,10,,,,,CS1_113
+Circle of Healing,Classic,Spell,Priest,Common,0,,,,,EX1_621
+Inner Rage,Classic,Spell,Warrior,Common,0,,,,,EX1_607
+Preparation,Classic,Spell,Rogue,Epic,0,,,,,EX1_145
+Shadowstep,Classic,Spell,Rogue,Common,0,,,,,EX1_144
+Silence,Classic,Spell,Priest,Common,0,,,Silence,,EX1_332
+Wisp,Classic,Minion,Neutral,Common,0,1,1,,,CS2_231
+Abusive Sergeant,Classic,Minion,Neutral,Common,1,1,1,Battlecry,,CS2_188
+Angry Chicken,Classic,Minion,Neutral,Rare,1,1,1,Enrage,Beast,EX1_009
+Argent Squire,Classic,Minion,Neutral,Common,1,1,1,Divine Shield,,EX1_008
+Bestial Wrath,Classic,Spell,Hunter,Epic,1,,,,,EX1_549
+Blessing of Wisdom,Classic,Spell,Paladin,Common,1,,,,,EX1_363
+Blood Imp,Classic,Minion,Warlock,Common,1,0,1,Stealth,Demon,CS2_059
+Bloodsail Corsair,Classic,Minion,Neutral,Rare,1,1,2,Battlecry,Pirate,NEW1_025
+Cold Blood,Classic,Spell,Rogue,Common,1,,,Combo,,CS2_073
+Conceal,Classic,Spell,Rogue,Common,1,,,Stealth,,EX1_128
+Dust Devil,Classic,Minion,Shaman,Common,1,3,1,"Overload, Windfury",,EX1_243
+Earth Shock,Classic,Spell,Shaman,Common,1,,,Silence,,EX1_245
+Eye for an Eye,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_132
+Flame Imp,Classic,Minion,Warlock,Common,1,3,2,Battlecry,Demon,EX1_319
+Forked Lightning,Classic,Spell,Shaman,Common,1,,,Overload,,EX1_251
+Hungry Crab,Classic,Minion,Neutral,Epic,1,1,2,Battlecry,Beast,NEW1_017
+Ice Lance,Classic,Spell,Mage,Common,1,,,Freeze,,CS2_031
+Inner Fire,Classic,Spell,Priest,Common,1,,,,,CS1_129
+Leper Gnome,Classic,Minion,Neutral,Common,1,1,1,Deathrattle,,EX1_029
+Lightning Bolt,Classic,Spell,Shaman,Common,1,,,Overload,,EX1_238
+Lightwarden,Classic,Minion,Neutral,Rare,1,1,2,,,EX1_001
+Mana Wyrm,Classic,Minion,Mage,Common,1,1,3,,,NEW1_012
+Murloc Tidecaller,Classic,Minion,Neutral,Rare,1,1,2,,Murloc,EX1_509
+Naturalize,Classic,Spell,Druid,Common,1,,,,,EX1_161
+Noble Sacrifice,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_130
+Power Overwhelming,Classic,Spell,Warlock,Common,1,,,,,EX1_316
+Redemption,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_136
+Repentance,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_379
+Savagery,Classic,Spell,Druid,Rare,1,,,Affected by Spell Power,,EX1_578
+Secretkeeper,Classic,Minion,Neutral,Rare,1,1,2,Secret,,EX1_080
+Shield Slam,Classic,Spell,Warrior,Epic,1,,,Affected by Spell Power,,EX1_410
+Shieldbearer,Classic,Minion,Neutral,Common,1,0,4,Taunt,,EX1_405
+Southsea Deckhand,Classic,Minion,Neutral,Common,1,2,1,Charge,Pirate,CS2_146
+Upgrade!,Classic,Spell,Warrior,Rare,1,,,,,EX1_409
+Worgen Infiltrator,Classic,Minion,Neutral,Common,1,2,1,Stealth,,EX1_010
+Young Dragonhawk,Classic,Minion,Neutral,Common,1,1,1,Windfury,Beast,CS2_169
+Young Priestess,Classic,Minion,Neutral,Rare,1,2,1,,,EX1_004
+Amani Berserker,Classic,Minion,Neutral,Common,2,2,3,Enrage,,EX1_393
+Ancestral Spirit,Classic,Spell,Shaman,Rare,2,,,Deathrattle,,CS2_038
+Ancient Watcher,Classic,Minion,Neutral,Rare,2,4,5,,,EX1_045
+Argent Protector,Classic,Minion,Paladin,Common,2,2,2,"Divine Shield, Battlecry",,EX1_362
+Armorsmith,Classic,Minion,Warrior,Rare,2,1,4,,,EX1_402
+Battle Rage,Classic,Spell,Warrior,Common,2,,,,,EX1_392
+Betrayal,Classic,Spell,Rogue,Common,2,,,,,EX1_126
+Bloodmage Thalnos,Classic,Minion,Neutral,Legendary,2,1,1,"Deathrattle, Spell Damage",,EX1_012
+Bloodsail Raider,Classic,Minion,Neutral,Common,2,2,3,Battlecry,Pirate,NEW1_018
+Commanding Shout,Classic,Spell,Warrior,Rare,2,,,,,NEW1_036
+Crazed Alchemist,Classic,Minion,Neutral,Rare,2,2,2,Battlecry,,EX1_059
+Cruel Taskmaster,Classic,Minion,Warrior,Common,2,2,2,Battlecry,,EX1_603
+Defias Ringleader,Classic,Minion,Rogue,Common,2,2,2,Combo,,EX1_131
+Demonfire,Classic,Spell,Warlock,Common,2,,,,,EX1_596
+Dire Wolf Alpha,Classic,Minion,Neutral,Common,2,2,2,"Adjacent Buff, Aura",Beast,EX1_162
+Doomsayer,Classic,Minion,Neutral,Epic,2,0,7,,,NEW1_021
+Equality,Classic,Spell,Paladin,Rare,2,,,,,EX1_619
+Eviscerate,Classic,Spell,Rogue,Common,2,,,Combo,,EX1_124
+Explosive Trap,Classic,Spell,Hunter,Common,2,,,Secret,,EX1_610
+Faerie Dragon,Classic,Minion,Neutral,Common,2,3,2,,Dragon,NEW1_023
+Flare,Classic,Spell,Hunter,Rare,2,,,"Stealth, Secret",,EX1_544
+Freezing Trap,Classic,Spell,Hunter,Common,2,,,Secret,,EX1_611
+Knife Juggler,Classic,Minion,Neutral,Rare,2,2,2,,,NEW1_019
+Lightwell,Classic,Minion,Priest,Rare,2,0,5,,,EX1_341
+Loot Hoarder,Classic,Minion,Neutral,Common,2,2,1,Deathrattle,,EX1_096
+Lorewalker Cho,Classic,Minion,Neutral,Legendary,2,0,4,,,EX1_100
+Mad Bomber,Classic,Minion,Neutral,Common,2,3,2,Battlecry,,EX1_082
+Mana Addict,Classic,Minion,Neutral,Rare,2,1,3,,,EX1_055
+Mana Wraith,Classic,Minion,Neutral,Rare,2,2,2,Aura,,EX1_616
+Master Swordsmith,Classic,Minion,Neutral,Rare,2,1,3,,,NEW1_037
+Millhouse Manastorm,Classic,Minion,Neutral,Legendary,2,4,4,Battlecry,,NEW1_029
+Misdirection,Classic,Spell,Hunter,Rare,2,,,Secret,,EX1_533
+Nat Pagle,Classic,Minion,Neutral,Legendary,2,0,4,,,EX1_557
+Patient Assassin,Classic,Minion,Rogue,Epic,2,1,1,"Stealth, Poisonous",,EX1_522
+Pint-Sized Summoner,Classic,Minion,Neutral,Rare,2,2,2,Aura,,EX1_076
+Power of the Wild,Classic,Spell,Druid,Common,2,,,,,EX1_160
+Rampage,Classic,Spell,Warrior,Common,2,,,,,CS2_104
+Scavenging Hyena,Classic,Minion,Hunter,Common,2,2,2,,Beast,EX1_531
+Slam,Classic,Spell,Warrior,Common,2,,,,,EX1_391
+Snake Trap,Classic,Spell,Hunter,Epic,2,,,Secret,,EX1_554
+Snipe,Classic,Spell,Hunter,Common,2,,,Secret,,EX1_609
+Sorcerer's Apprentice,Classic,Minion,Mage,Common,2,3,2,Aura,,EX1_608
+Stormforged Axe,Classic,Weapon,Shaman,Common,2,2,3,Overload,,EX1_247
+Sunfury Protector,Classic,Minion,Neutral,Rare,2,2,3,"Taunt, Battlecry",,EX1_058
+Wild Pyromancer,Classic,Minion,Neutral,Rare,2,3,2,,,NEW1_020
+Wrath,Classic,Spell,Druid,Common,2,,,,,EX1_154
+Youthful Brewmaster,Classic,Minion,Neutral,Common,2,3,2,Battlecry,,EX1_049
+Acolyte of Pain,Classic,Minion,Neutral,Common,3,1,3,,,EX1_007
+Alarm-o-Bot,Classic,Minion,Neutral,Rare,3,0,3,,Mech,EX1_006
+Aldor Peacekeeper,Classic,Minion,Paladin,Rare,3,3,3,Battlecry,,EX1_382
+Arcane Golem,Classic,Minion,Neutral,Rare,3,4,4,Battlecry,,EX1_089
+Blood Knight,Classic,Minion,Neutral,Epic,3,3,3,"Divine Shield, Battlecry",,EX1_590
+Coldlight Oracle,Classic,Minion,Neutral,Rare,3,2,2,Battlecry,Murloc,EX1_050
+Coldlight Seer,Classic,Minion,Neutral,Rare,3,2,3,Battlecry,Murloc,EX1_103
+Counterspell,Classic,Spell,Mage,Rare,3,,,Secret,,EX1_287
+Deadly Shot,Classic,Spell,Hunter,Common,3,,,,,EX1_617
+Demolisher,Classic,Minion,Neutral,Rare,3,1,4,,Mech,EX1_102
+Divine Favor,Classic,Spell,Paladin,Rare,3,,,,,EX1_349
+Eaglehorn Bow,Classic,Weapon,Hunter,Rare,3,3,2,Secret,,EX1_536
+Earthen Ring Farseer,Classic,Minion,Neutral,Common,3,3,3,Battlecry,,CS2_117
+Edwin VanCleef,Classic,Minion,Rogue,Legendary,3,2,2,Combo,,EX1_613
+Emperor Cobra,Classic,Minion,Neutral,Rare,3,2,3,Poisonous,Beast,EX1_170
+Far Sight,Classic,Spell,Shaman,Epic,3,,,,,CS2_053
+Felguard,Classic,Minion,Warlock,Rare,3,3,5,"Taunt, Battlecry",Demon,EX1_301
+Feral Spirit,Classic,Spell,Shaman,Rare,3,,,"Overload, Taunt",,EX1_248
+Flesheating Ghoul,Classic,Minion,Neutral,Common,3,2,3,,,tt_004
+Frothing Berserker,Classic,Minion,Warrior,Rare,3,2,4,,,EX1_604
+Harvest Golem,Classic,Minion,Neutral,Common,3,2,3,Deathrattle,Mech,EX1_556
+Headcrack,Classic,Spell,Rogue,Rare,3,,,Combo,,EX1_137
+Ice Barrier,Classic,Spell,Mage,Common,3,,,Secret,,EX1_289
+Ice Block,Classic,Spell,Mage,Epic,3,,,Secret,,EX1_295
+Imp Master,Classic,Minion,Neutral,Rare,3,1,5,,,EX1_597
+Injured Blademaster,Classic,Minion,Neutral,Rare,3,4,7,Battlecry,,CS2_181
+Ironbeak Owl,Classic,Minion,Neutral,Common,3,2,1,"Silence, Battlecry",Beast,CS2_203
+Jungle Panther,Classic,Minion,Neutral,Common,3,4,2,Stealth,Beast,EX1_017
+King Mukla,Classic,Minion,Neutral,Legendary,3,5,5,Battlecry,Beast,EX1_014
+Kirin Tor Mage,Classic,Minion,Mage,Rare,3,4,3,"Secret, Battlecry",,EX1_612
+Lava Burst,Classic,Spell,Shaman,Rare,3,,,Overload,,EX1_241
+Lightning Storm,Classic,Spell,Shaman,Rare,3,,,Overload,,EX1_259
+Mana Tide Totem,Classic,Minion,Shaman,Rare,3,0,3,,Totem,EX1_575
+Mark of Nature,Classic,Spell,Druid,Common,3,,,Taunt,,EX1_155
+Mind Control Tech,Classic,Minion,Neutral,Rare,3,3,3,Battlecry,,EX1_085
+Mirror Entity,Classic,Spell,Mage,Common,3,,,Secret,,EX1_294
+Murloc Warleader,Classic,Minion,Neutral,Epic,3,3,3,Aura,Murloc,EX1_507
+Perdition's Blade,Classic,Weapon,Rogue,Rare,3,2,2,"Battlecry, Combo",,EX1_133
+Questing Adventurer,Classic,Minion,Neutral,Rare,3,2,2,,,EX1_044
+Raging Worgen,Classic,Minion,Neutral,Common,3,3,3,"Windfury, Enrage",,EX1_412
+Scarlet Crusader,Classic,Minion,Neutral,Common,3,3,1,Divine Shield,,EX1_020
+Sense Demons,Classic,Spell,Warlock,Common,3,,,,,EX1_317
+Shadowform,Classic,Spell,Priest,Epic,3,,,,,EX1_625
+SI:7 Agent,Classic,Minion,Rogue,Rare,3,3,3,Combo,,EX1_134
+Southsea Captain,Classic,Minion,Neutral,Epic,3,3,3,Aura,Pirate,NEW1_027
+Spellbender,Classic,Spell,Mage,Epic,3,,,Secret,,tt_010
+Sword of Justice,Classic,Weapon,Paladin,Epic,3,1,5,,,EX1_366
+Tauren Warrior,Classic,Minion,Neutral,Common,3,2,3,"Taunt, Enrage",,EX1_390
+Thoughtsteal,Classic,Spell,Priest,Common,3,,,,,EX1_339
+Thrallmar Farseer,Classic,Minion,Neutral,Common,3,2,3,Windfury,,EX1_021
+Tinkmaster Overspark,Classic,Minion,Neutral,Legendary,3,3,3,Battlecry,,EX1_083
+Unbound Elemental,Classic,Minion,Shaman,Common,3,2,4,Overload,,EX1_258
+Unleash the Hounds,Classic,Spell,Hunter,Common,3,,,Charge,,EX1_538
+Vaporize,Classic,Spell,Mage,Rare,3,,,Secret,,EX1_594
+Void Terror,Classic,Minion,Warlock,Rare,3,3,3,Battlecry,Demon,EX1_304
+Ancient Brewmaster,Classic,Minion,Neutral,Common,4,5,4,Battlecry,,EX1_057
+Ancient Mage,Classic,Minion,Neutral,Rare,4,2,5,"Spell Damage, Battlecry",,EX1_584
+Arathi Weaponsmith,Classic,Minion,Warrior,Common,4,3,3,Battlecry,,EX1_398
+Auchenai Soulpriest,Classic,Minion,Priest,Rare,4,3,5,Aura,,EX1_591
+Bite,Classic,Spell,Druid,Rare,4,,,,,EX1_570
+Blade Flurry,Classic,Spell,Rogue,Rare,4,,,Affected by Spell Power,,CS2_233
+Cone of Cold,Classic,Spell,Mage,Common,4,,,Freeze,,EX1_275
+Cult Master,Classic,Minion,Neutral,Common,4,4,2,,,EX1_595
+Dark Iron Dwarf,Classic,Minion,Neutral,Common,4,4,4,Battlecry,,EX1_046
+Defender of Argus,Classic,Minion,Neutral,Rare,4,2,3,"Taunt, Battlecry",,EX1_093
+Dread Corsair,Classic,Minion,Neutral,Common,4,3,3,Taunt,Pirate,NEW1_022
+Ethereal Arcanist,Classic,Minion,Mage,Rare,4,3,3,Secret,,EX1_274
+Keeper of the Grove,Classic,Minion,Druid,Rare,4,2,2,Silence,,EX1_166
+Lightspawn,Classic,Minion,Priest,Common,4,0,5,,,EX1_335
+Mass Dispel,Classic,Spell,Priest,Rare,4,,,Silence,,EX1_626
+Master of Disguise,Classic,Minion,Rogue,Rare,4,4,4,"Stealth, Battlecry",,NEW1_014
+Mindgames,Classic,Spell,Priest,Epic,4,,,,,EX1_345
+Mogu'shan Warden,Classic,Minion,Neutral,Common,4,1,7,Taunt,,EX1_396
+Mortal Strike,Classic,Spell,Warrior,Rare,4,,,,,EX1_408
+Pit Lord,Classic,Minion,Warlock,Epic,4,5,6,Battlecry,Demon,EX1_313
+Shadow Madness,Classic,Spell,Priest,Rare,4,,,,,EX1_334
+Shadowflame,Classic,Spell,Warlock,Rare,4,,,Affected by Spell Power,,EX1_303
+Silvermoon Guardian,Classic,Minion,Neutral,Common,4,3,3,Divine Shield,,EX1_023
+Soul of the Forest,Classic,Spell,Druid,Common,4,,,Deathrattle,,EX1_158
+Spellbreaker,Classic,Minion,Neutral,Common,4,4,3,"Silence, Battlecry",,EX1_048
+Summoning Portal,Classic,Minion,Warlock,Common,4,0,4,Aura,,EX1_315
+Twilight Drake,Classic,Minion,Neutral,Rare,4,4,1,Battlecry,Dragon,EX1_043
+Violet Teacher,Classic,Minion,Neutral,Rare,4,3,5,,,NEW1_026
+Abomination,Classic,Minion,Neutral,Rare,5,4,4,"Taunt, Deathrattle",,EX1_097
+Azure Drake,Classic,Minion,Neutral,Rare,5,4,4,"Spell Damage, Battlecry",Dragon,EX1_284
+Bane of Doom,Classic,Spell,Warlock,Epic,5,,,,,EX1_320
+Big Game Hunter,Classic,Minion,Neutral,Epic,5,4,2,Battlecry,,EX1_005
+Blessed Champion,Classic,Spell,Paladin,Rare,5,,,,,EX1_355
+Brawl,Classic,Spell,Warrior,Epic,5,,,,,EX1_407
+Captain Greenskin,Classic,Minion,Neutral,Legendary,5,5,4,Battlecry,Pirate,NEW1_024
+Doomguard,Classic,Minion,Warlock,Rare,5,5,7,"Charge, Battlecry",Demon,EX1_310
+Doomhammer,Classic,Weapon,Shaman,Epic,5,2,8,"Overload, Windfury",,EX1_567
+Druid of the Claw,Classic,Minion,Druid,Common,5,4,4,"Taunt, Charge",,EX1_165
+Earth Elemental,Classic,Minion,Shaman,Epic,5,7,8,"Overload, Taunt",,EX1_250
+Explosive Shot,Classic,Spell,Hunter,Rare,5,,,,,EX1_537
+Faceless Manipulator,Classic,Minion,Neutral,Epic,5,3,3,Battlecry,,EX1_564
+Fen Creeper,Classic,Minion,Neutral,Common,5,3,6,Taunt,,CS1_069
+Force of Nature,Classic,Spell,Druid,Epic,5,,,,,EX1_571
+Harrison Jones,Classic,Minion,Neutral,Legendary,5,5,4,Battlecry,,EX1_558
+Holy Wrath,Classic,Spell,Paladin,Rare,5,,,Affected by Spell Power,,EX1_365
+Leeroy Jenkins,Classic,Minion,Neutral,Legendary,5,6,2,"Charge, Battlecry",,EX1_116
+Nourish,Classic,Spell,Druid,Rare,5,,,,,EX1_164
+Silver Hand Knight,Classic,Minion,Neutral,Common,5,4,4,Battlecry,,CS2_151
+Spiteful Smith,Classic,Minion,Neutral,Common,5,4,6,Enrage,,CS2_221
+Stampeding Kodo,Classic,Minion,Neutral,Rare,5,3,5,Battlecry,Beast,NEW1_041
+Starfall,Classic,Spell,Druid,Rare,5,,,,,NEW1_007
+Stranglethorn Tiger,Classic,Minion,Neutral,Common,5,5,5,Stealth,Beast,EX1_028
+Venture Co. Mercenary,Classic,Minion,Neutral,Common,5,7,6,Aura,,CS2_227
+Argent Commander,Classic,Minion,Neutral,Rare,6,4,2,"Charge, Divine Shield",,EX1_067
+Avenging Wrath,Classic,Spell,Paladin,Epic,6,,,Immune to Spell Power,,EX1_384
+Blizzard,Classic,Spell,Mage,Rare,6,,,Freeze,,CS2_028
+Cabal Shadow Priest,Classic,Minion,Priest,Epic,6,4,5,Battlecry,,EX1_091
+Cairne Bloodhoof,Classic,Minion,Neutral,Legendary,6,4,5,Deathrattle,,EX1_110
+Frost Elemental,Classic,Minion,Neutral,Common,6,5,5,"Battlecry, Freeze",,EX1_283
+Gadgetzan Auctioneer,Classic,Minion,Neutral,Rare,6,4,4,,,EX1_095
+Hogger,Classic,Minion,Neutral,Legendary,6,4,4,Taunt,,NEW1_040
+Holy Fire,Classic,Spell,Priest,Rare,6,,,,,EX1_624
+Illidan Stormrage,Classic,Minion,Neutral,Legendary,6,7,5,,Demon,EX1_614
+Kidnapper,Classic,Minion,Rogue,Epic,6,5,3,Combo,,NEW1_005
+Priestess of Elune,Classic,Minion,Neutral,Common,6,5,4,Battlecry,,EX1_583
+Savannah Highmane,Classic,Minion,Hunter,Rare,6,6,5,Deathrattle,Beast,EX1_534
+Siphon Soul,Classic,Spell,Warlock,Rare,6,,,,,EX1_309
+Sunwalker,Classic,Minion,Neutral,Rare,6,4,5,"Taunt, Divine Shield",,EX1_032
+Sylvanas Windrunner,Classic,Minion,Neutral,Legendary,6,5,5,Deathrattle,,EX1_016
+Temple Enforcer,Classic,Minion,Priest,Common,6,6,6,Battlecry,,EX1_623
+The Beast,Classic,Minion,Neutral,Legendary,6,9,7,Deathrattle,Beast,EX1_577
+The Black Knight,Classic,Minion,Neutral,Legendary,6,4,5,"Taunt, Battlecry",,EX1_002
+Windfury Harpy,Classic,Minion,Neutral,Common,6,4,5,Windfury,,EX1_033
+Ancient of Lore,Classic,Minion,Druid,Epic,7,5,5,,,NEW1_008
+Ancient of War,Classic,Minion,Druid,Epic,7,5,5,Taunt,,EX1_178
+Archmage Antonidas,Classic,Minion,Mage,Legendary,7,5,7,,,EX1_559
+Baron Geddon,Classic,Minion,Neutral,Legendary,7,7,5,,,EX1_249
+Gladiator's Longbow,Classic,Weapon,Hunter,Epic,7,5,2,,,DS1_188
+Gorehowl,Classic,Weapon,Warrior,Epic,7,7,1,,,EX1_411
+Prophet Velen,Classic,Minion,Priest,Legendary,7,7,7,,,EX1_350
+Ravenholdt Assassin,Classic,Minion,Neutral,Rare,7,7,5,Stealth,,CS2_161
+Al'Akir the Windlord,Classic,Minion,Shaman,Legendary,8,3,5,"Charge, Divine Shield, Windfury, Taunt",,NEW1_010
+Grommash Hellscream,Classic,Minion,Warrior,Legendary,8,4,9,"Charge, Enrage",,EX1_414
+Gruul,Classic,Minion,Neutral,Legendary,8,7,7,,,NEW1_038
+Lay on Hands,Classic,Spell,Paladin,Epic,8,,,,,EX1_354
+Ragnaros the Firelord,Classic,Minion,Neutral,Legendary,8,8,8,,,EX1_298
+Tirion Fordring,Classic,Minion,Paladin,Legendary,8,6,6,"Divine Shield, Taunt, Deathrattle",,EX1_383
+Twisting Nether,Classic,Spell,Warlock,Epic,8,,,,,EX1_312
+Alexstrasza,Classic,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon,EX1_561
+Cenarius,Classic,Minion,Druid,Legendary,9,5,8,Taunt,,EX1_573
+King Krush,Classic,Minion,Hunter,Legendary,9,8,8,Charge,Beast,EX1_543
+Lord Jaraxxus,Classic,Minion,Warlock,Legendary,9,3,15,Battlecry,Demon,EX1_323
+Malygos,Classic,Minion,Neutral,Legendary,9,4,12,Spell Damage,Dragon,EX1_563
+Nozdormu,Classic,Minion,Neutral,Legendary,9,8,8,,Dragon,EX1_560
+Onyxia,Classic,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon,EX1_562
+Ysera,Classic,Minion,Neutral,Legendary,9,4,12,,Dragon,EX1_572
+Deathwing,Classic,Minion,Neutral,Legendary,10,12,12,Battlecry,Dragon,NEW1_030
+Pyroblast,Classic,Spell,Mage,Epic,10,,,,,EX1_279
+Sea Giant,Classic,Minion,Neutral,Epic,10,8,8,,,EX1_586
+Mountain Giant,Classic,Minion,Neutral,Epic,12,8,8,,,EX1_105
+Molten Giant,Classic,Minion,Neutral,Epic,25,8,8,,,EX1_620
+Dragon Egg,Blackrock Mountain,Minion,Neutral,Rare,1,0,2,,,BRM_022
+Twilight Whelp,Blackrock Mountain,Minion,Priest,Common,1,2,1,Battlecry,Dragon,BRM_004
+Gang Up,Blackrock Mountain,Spell,Rogue,Common,2,,,,,BRM_007
+Lava Shock,Blackrock Mountain,Spell,Shaman,Rare,2,,,Overload,,BRM_011
+Quick Shot,Blackrock Mountain,Spell,Hunter,Common,2,,,Affected by Spell Power,,BRM_013
+Resurrect,Blackrock Mountain,Spell,Priest,Rare,2,,,,,BRM_017
+Revenge,Blackrock Mountain,Spell,Warrior,Rare,2,,,,,BRM_015
+Blackwing Technician,Blackrock Mountain,Minion,Neutral,Common,3,2,4,Battlecry,,BRM_033
+Demonwrath,Blackrock Mountain,Spell,Warlock,Rare,3,,,Affected by Spell Power,,BRM_005
+Druid of the Flame,Blackrock Mountain,Minion,Druid,Common,3,2,2,,,BRM_010
+Flamewaker,Blackrock Mountain,Minion,Mage,Rare,3,2,4,,,BRM_002
+Imp Gang Boss,Blackrock Mountain,Minion,Warlock,Common,3,2,4,,Demon,BRM_006
+Axe Flinger,Blackrock Mountain,Minion,Warrior,Common,4,2,5,,,BRM_016
+Core Rager,Blackrock Mountain,Minion,Hunter,Rare,4,4,4,Battlecry,Beast,BRM_014
+Dragonkin Sorcerer,Blackrock Mountain,Minion,Neutral,Common,4,3,5,,Dragon,BRM_020
+Fireguard Destroyer,Blackrock Mountain,Minion,Shaman,Common,4,3,6,"Overload, Battlecry",,BRM_012
+Hungry Dragon,Blackrock Mountain,Minion,Neutral,Common,4,5,6,Battlecry,Dragon,BRM_026
+Blackwing Corruptor,Blackrock Mountain,Minion,Neutral,Common,5,5,4,Battlecry,,BRM_034
+Dark Iron Skulker,Blackrock Mountain,Minion,Rogue,Rare,5,4,3,Battlecry,,BRM_008
+Dragon Consort,Blackrock Mountain,Minion,Paladin,Rare,5,5,5,Battlecry,Dragon,BRM_018
+Dragon's Breath,Blackrock Mountain,Spell,Mage,Common,5,,,,,BRM_003
+Grim Patron,Blackrock Mountain,Minion,Neutral,Rare,5,3,3,,,BRM_019
+Solemn Vigil,Blackrock Mountain,Spell,Paladin,Common,5,,,,,BRM_001
+Drakonid Crusher,Blackrock Mountain,Minion,Neutral,Common,6,6,6,Battlecry,Dragon,BRM_024
+Emperor Thaurissan,Blackrock Mountain,Minion,Neutral,Legendary,6,5,5,,,BRM_028
+Volcanic Drake,Blackrock Mountain,Minion,Neutral,Common,6,6,4,,Dragon,BRM_025
+Rend Blackhand,Blackrock Mountain,Minion,Neutral,Legendary,7,8,4,Battlecry,,BRM_029
+Chromaggus,Blackrock Mountain,Minion,Neutral,Legendary,8,6,8,,Dragon,BRM_031
+Majordomo Executus,Blackrock Mountain,Minion,Neutral,Legendary,9,9,7,Deathrattle,,BRM_027
+Nefarian,Blackrock Mountain,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon,BRM_030
+Volcanic Lumberer,Blackrock Mountain,Minion,Druid,Rare,9,7,8,Taunt,,BRM_009
+Arcane Blast,The Grand Tournament,Spell,Mage,Epic,1,,,Spell Damage,,AT_004
+Brave Archer,The Grand Tournament,Minion,Hunter,Common,1,2,1,Inspire,,AT_059
+Buccaneer,The Grand Tournament,Minion,Rogue,Common,1,2,1,,Pirate,AT_029
+Competitive Spirit,The Grand Tournament,Spell,Paladin,Rare,1,,,Secret,,AT_073
+Flash Heal,The Grand Tournament,Spell,Priest,Common,1,,,,,AT_055
+Gadgetzan Jouster,The Grand Tournament,Minion,Neutral,Common,1,1,2,Battlecry,,AT_133
+Injured Kvaldir,The Grand Tournament,Minion,Neutral,Rare,1,2,4,Battlecry,,AT_105
+Living Roots,The Grand Tournament,Spell,Druid,Common,1,,,,,AT_037
+Lowly Squire,The Grand Tournament,Minion,Neutral,Common,1,1,2,Inspire,,AT_082
+Power Word: Glory,The Grand Tournament,Spell,Priest,Common,1,,,,,AT_013
+Tournament Attendee,The Grand Tournament,Minion,Neutral,Common,1,2,1,Taunt,,AT_097
+Alexstrasza's Champion,The Grand Tournament,Minion,Warrior,Rare,2,2,3,"Charge, Battlecry",,AT_071
+Ancestral Knowledge,The Grand Tournament,Spell,Shaman,Common,2,,,Overload,,AT_053
+Argent Lance,The Grand Tournament,Weapon,Paladin,Rare,2,2,2,Battlecry,,AT_077
+Argent Watchman,The Grand Tournament,Minion,Neutral,Rare,2,2,4,Inspire,,AT_109
+Bear Trap,The Grand Tournament,Spell,Hunter,Common,2,,,"Taunt, Secret",,AT_060
+Bolster,The Grand Tournament,Spell,Warrior,Common,2,,,Taunt,,AT_068
+Boneguard Lieutenant,The Grand Tournament,Minion,Neutral,Common,2,3,2,Inspire,,AT_089
+Confuse,The Grand Tournament,Spell,Priest,Epic,2,,,,,AT_016
+Convert,The Grand Tournament,Spell,Priest,Rare,2,,,,,AT_015
+Cutpurse,The Grand Tournament,Minion,Rogue,Rare,2,2,2,,,AT_031
+Darnassus Aspirant,The Grand Tournament,Minion,Druid,Rare,2,2,3,"Battlecry, Deathrattle",,AT_038
+Demonfuse,The Grand Tournament,Spell,Warlock,Common,2,,,,,AT_024
+Druid of the Saber,The Grand Tournament,Minion,Druid,Common,2,2,1,"Charge, Stealth",,AT_042
+Fallen Hero,The Grand Tournament,Minion,Mage,Rare,2,3,2,,,AT_003
+Flame Juggler,The Grand Tournament,Minion,Neutral,Common,2,2,3,Battlecry,,AT_094
+Garrison Commander,The Grand Tournament,Minion,Neutral,Epic,2,2,3,,,AT_080
+King's Elekk,The Grand Tournament,Minion,Hunter,Common,2,3,2,Battlecry,Beast,AT_058
+Lance Carrier,The Grand Tournament,Minion,Neutral,Common,2,1,2,Battlecry,,AT_084
+Lock and Load,The Grand Tournament,Spell,Hunter,Epic,2,,,,,AT_061
+Sparring Partner,The Grand Tournament,Minion,Warrior,Rare,2,3,2,"Taunt, Battlecry",,AT_069
+Tiny Knight of Evil,The Grand Tournament,Minion,Warlock,Rare,2,3,2,,Demon,AT_021
+Totem Golem,The Grand Tournament,Minion,Shaman,Common,2,3,4,Overload,Totem,AT_052
+Undercity Valiant,The Grand Tournament,Minion,Rogue,Common,2,3,2,Combo,,AT_030
+Wrathguard,The Grand Tournament,Minion,Warlock,Common,2,4,3,,Demon,AT_026
+Wyrmrest Agent,The Grand Tournament,Minion,Priest,Rare,2,1,4,"Taunt, Battlecry",,AT_116
+Argent Horserider,The Grand Tournament,Minion,Neutral,Common,3,2,1,"Charge, Divine Shield",,AT_087
+Bash,The Grand Tournament,Spell,Warrior,Common,3,,,,,AT_064
+Beneath the Grounds,The Grand Tournament,Spell,Rogue,Epic,3,,,,,AT_035
+Burgle,The Grand Tournament,Spell,Rogue,Rare,3,,,,,AT_033
+Coliseum Manager,The Grand Tournament,Minion,Neutral,Rare,3,2,5,Inspire,,AT_110
+Dragonhawk Rider,The Grand Tournament,Minion,Neutral,Common,3,3,3,"Windfury, Inspire",,AT_083
+Dreadscale,The Grand Tournament,Minion,Hunter,Legendary,3,4,2,,Beast,AT_063t
+Effigy,The Grand Tournament,Spell,Mage,Rare,3,,,Secret,,AT_002
+Elemental Destruction,The Grand Tournament,Spell,Shaman,Epic,3,,,Overload,,AT_051
+Eydis Darkbane,The Grand Tournament,Minion,Neutral,Legendary,3,3,4,,,AT_131
+Fencing Coach,The Grand Tournament,Minion,Neutral,Rare,3,2,2,Battlecry,,AT_115
+Fjola Lightbane,The Grand Tournament,Minion,Neutral,Legendary,3,3,4,Divine Shield,,AT_129
+Healing Wave,The Grand Tournament,Spell,Shaman,Rare,3,,,,,AT_048
+Ice Rager,The Grand Tournament,Minion,Neutral,Common,3,5,2,,,AT_092
+King's Defender,The Grand Tournament,Weapon,Warrior,Rare,3,3,2,"Taunt, Battlecry",,AT_065
+Light's Champion,The Grand Tournament,Minion,Neutral,Rare,3,4,3,"Silence, Battlecry",,AT_106
+Master of Ceremonies,The Grand Tournament,Minion,Neutral,Epic,3,4,2,Battlecry,,AT_117
+Mulch,The Grand Tournament,Spell,Druid,Epic,3,,,,,AT_044
+Orgrimmar Aspirant,The Grand Tournament,Minion,Warrior,Common,3,3,3,Inspire,,AT_066
+Polymorph: Boar,The Grand Tournament,Spell,Mage,Rare,3,,,Charge,,AT_005
+Powershot,The Grand Tournament,Spell,Hunter,Rare,3,,,,,AT_056
+Saboteur,The Grand Tournament,Minion,Neutral,Rare,3,4,3,Battlecry,,AT_086
+Seal of Champions,The Grand Tournament,Spell,Paladin,Common,3,,,Divine Shield,,AT_074
+Shadowfiend,The Grand Tournament,Minion,Priest,Epic,3,3,3,,,AT_014
+Shady Dealer,The Grand Tournament,Minion,Rogue,Rare,3,4,3,Battlecry,,AT_032
+Silent Knight,The Grand Tournament,Minion,Neutral,Common,3,2,2,"Divine Shield, Stealth",,AT_095
+Silver Hand Regent,The Grand Tournament,Minion,Neutral,Common,3,3,3,Inspire,,AT_100
+Spellslinger,The Grand Tournament,Minion,Mage,Common,3,3,4,Battlecry,,AT_007
+Stablemaster,The Grand Tournament,Minion,Hunter,Epic,3,4,2,Battlecry,,AT_057
+Tuskarr Totemic,The Grand Tournament,Minion,Shaman,Common,3,3,2,Battlecry,,AT_046
+Warhorse Trainer,The Grand Tournament,Minion,Paladin,Common,3,2,4,Aura,,AT_075
+Armored Warhorse,The Grand Tournament,Minion,Neutral,Rare,4,5,3,"Charge, Battlecry",Beast,AT_108
+Astral Communion,The Grand Tournament,Spell,Druid,Epic,4,,,,,AT_043
+Charged Hammer,The Grand Tournament,Weapon,Shaman,Epic,4,2,4,Deathrattle,,AT_050
+Crowd Favorite,The Grand Tournament,Minion,Neutral,Epic,4,4,4,Battlecry,,AT_121
+Dalaran Aspirant,The Grand Tournament,Minion,Mage,Common,4,3,5,Inspire,,AT_006
+Draenei Totemcarver,The Grand Tournament,Minion,Shaman,Rare,4,4,4,Battlecry,,AT_047
+Dreadsteed,The Grand Tournament,Minion,Warlock,Epic,4,1,1,Deathrattle,Demon,AT_019
+Evil Heckler,The Grand Tournament,Minion,Neutral,Common,4,5,4,Taunt,,AT_114
+Fist of Jaraxxus,The Grand Tournament,Spell,Warlock,Rare,4,,,InvisibleDeathrattle,,AT_022
+Frigid Snobold,The Grand Tournament,Minion,Neutral,Common,4,2,6,Spell Damage,,AT_093
+Gormok the Impaler,The Grand Tournament,Minion,Neutral,Legendary,4,4,4,Battlecry,,AT_122
+Holy Champion,The Grand Tournament,Minion,Priest,Common,4,3,5,,,AT_011
+Magnataur Alpha,The Grand Tournament,Minion,Warrior,Epic,4,5,3,,,AT_067
+Maiden of the Lake,The Grand Tournament,Minion,Neutral,Common,4,2,6,Aura,,AT_085
+Murloc Knight,The Grand Tournament,Minion,Paladin,Common,4,3,4,Inspire,Murloc,AT_076
+Poisoned Blade,The Grand Tournament,Weapon,Rogue,Epic,4,1,3,,,AT_034
+Refreshment Vendor,The Grand Tournament,Minion,Neutral,Common,4,3,5,Battlecry,,AT_111
+Savage Combatant,The Grand Tournament,Minion,Druid,Rare,4,5,4,Inspire,Beast,AT_039
+Spawn of Shadows,The Grand Tournament,Minion,Priest,Rare,4,5,4,Inspire,,AT_012
+Tournament Medic,The Grand Tournament,Minion,Neutral,Common,4,1,8,Inspire,,AT_091
+Twilight Guardian,The Grand Tournament,Minion,Neutral,Epic,4,2,6,"Taunt, Battlecry",Dragon,AT_017
+Wildwalker,The Grand Tournament,Minion,Druid,Common,4,4,4,Battlecry,,AT_040
+Clockwork Knight,The Grand Tournament,Minion,Neutral,Common,5,5,5,Battlecry,Mech,AT_096
+Flame Lance,The Grand Tournament,Spell,Mage,Common,5,,,,,AT_001
+Kvaldir Raider,The Grand Tournament,Minion,Neutral,Common,5,4,4,Inspire,,AT_119
+Mukla's Champion,The Grand Tournament,Minion,Neutral,Common,5,4,3,Inspire,Beast,AT_090
+Nexus-Champion Saraad,The Grand Tournament,Minion,Neutral,Legendary,5,4,5,Inspire,,AT_127
+Pit Fighter,The Grand Tournament,Minion,Neutral,Common,5,5,6,,,AT_101
+Ram Wrangler,The Grand Tournament,Minion,Hunter,Rare,5,3,3,Battlecry,,AT_010
+Recruiter,The Grand Tournament,Minion,Neutral,Epic,5,5,4,Inspire,,AT_113
+Shado-Pan Rider,The Grand Tournament,Minion,Rogue,Common,5,3,7,Combo,,AT_028
+Thunder Bluff Valiant,The Grand Tournament,Minion,Shaman,Rare,5,3,6,Inspire,,AT_049
+Tuskarr Jouster,The Grand Tournament,Minion,Paladin,Rare,5,5,5,Battlecry,,AT_104
+Ball of Spiders,The Grand Tournament,Spell,Hunter,Rare,6,,,,,AT_062
+Bolf Ramshield,The Grand Tournament,Minion,Neutral,Legendary,6,3,9,,,AT_124
+Coldarra Drake,The Grand Tournament,Minion,Mage,Epic,6,6,6,,Dragon,AT_008
+Dark Bargain,The Grand Tournament,Spell,Warlock,Epic,6,,,,,AT_025
+Enter the Coliseum,The Grand Tournament,Spell,Paladin,Epic,6,,,,,AT_078
+Grand Crusader,The Grand Tournament,Minion,Neutral,Epic,6,5,5,Battlecry,,AT_118
+Justicar Trueheart,The Grand Tournament,Minion,Neutral,Legendary,6,6,3,Battlecry,,AT_132
+Kodorider,The Grand Tournament,Minion,Neutral,Epic,6,3,5,Inspire,,AT_099
+Master Jouster,The Grand Tournament,Minion,Neutral,Rare,6,5,6,"Divine Shield, Taunt, Battlecry",,AT_112
+Mogor's Champion,The Grand Tournament,Minion,Neutral,Rare,6,8,5,,,AT_088
+Mysterious Challenger,The Grand Tournament,Minion,Paladin,Epic,6,6,6,"Secret, Battlecry",,AT_079
+Sea Reaver,The Grand Tournament,Minion,Warrior,Epic,6,6,7,,,AT_130
+Sideshow Spelleater,The Grand Tournament,Minion,Neutral,Epic,6,6,5,Battlecry,,AT_098
+The Mistcaller,The Grand Tournament,Minion,Shaman,Legendary,6,4,4,Battlecry,,AT_054
+The Skeleton Knight,The Grand Tournament,Minion,Neutral,Legendary,6,7,4,Deathrattle,,AT_128
+Void Crusher,The Grand Tournament,Minion,Warlock,Rare,6,5,4,Inspire,Demon,AT_023
+Wilfred Fizzlebang,The Grand Tournament,Minion,Warlock,Legendary,6,4,4,,,AT_027
+Acidmaw,The Grand Tournament,Minion,Hunter,Legendary,7,4,2,,Beast,AT_063
+Captured Jormungar,The Grand Tournament,Minion,Neutral,Common,7,5,9,,Beast,AT_102
+Chillmaw,The Grand Tournament,Minion,Neutral,Legendary,7,6,6,"Deathrattle, Taunt",Dragon,AT_123
+Confessor Paletress,The Grand Tournament,Minion,Priest,Legendary,7,5,4,Inspire,,AT_018
+Eadric the Pure,The Grand Tournament,Minion,Paladin,Legendary,7,3,7,Battlecry,,AT_081
+Fearsome Doomguard,The Grand Tournament,Minion,Warlock,Common,7,6,8,,Demon,AT_020
+Knight of the Wild,The Grand Tournament,Minion,Druid,Rare,7,6,6,,,AT_041
+Skycap'n Kragg,The Grand Tournament,Minion,Neutral,Legendary,7,4,6,Charge,Pirate,AT_070
+Rhonin,The Grand Tournament,Minion,Mage,Legendary,8,7,7,Deathrattle,,AT_009
+Anub'arak,The Grand Tournament,Minion,Rogue,Legendary,9,8,4,Deathrattle,,AT_036
+Aviana,The Grand Tournament,Minion,Druid,Legendary,9,5,5,Aura,,AT_045
+Icehowl,The Grand Tournament,Minion,Neutral,Legendary,9,10,10,Charge,,AT_125
+North Sea Kraken,The Grand Tournament,Minion,Neutral,Common,9,9,7,Battlecry,,AT_103
+Frost Giant,The Grand Tournament,Minion,Neutral,Epic,10,8,8,,,AT_120
+Varian Wrynn,The Grand Tournament,Minion,Warrior,Legendary,10,7,7,Battlecry,,AT_072
+Murloc Tinyfin,The League of Explorers,Minion,Neutral,Common,0,1,1,,Murloc,LOEA10_3
+Cursed Blade,The League of Explorers,Weapon,Warrior,Rare,1,2,3,,,LOE_118
+Pit Snake,The League of Explorers,Minion,Rogue,Common,1,2,1,Poisonous,Beast,LOE_010
+Raven Idol,The League of Explorers,Spell,Druid,Common,1,,,Discover,,LOE_115
+Reliquary Seeker,The League of Explorers,Minion,Warlock,Rare,1,1,1,Battlecry,,LOE_116
+Sacred Trial,The League of Explorers,Spell,Paladin,Common,1,,,Secret,,LOE_027
+Sir Finley Mrrgglton,The League of Explorers,Minion,Neutral,Legendary,1,1,3,"Discover, Battlecry",Murloc,LOE_076
+Tunnel Trogg,The League of Explorers,Minion,Shaman,Common,1,1,3,Overload,,LOE_018
+Curse of Rafaam,The League of Explorers,Spell,Warlock,Common,2,,,,,LOE_007
+Dark Peddler,The League of Explorers,Minion,Warlock,Common,2,2,2,"Discover, Battlecry",,LOE_023
+Dart Trap,The League of Explorers,Spell,Hunter,Common,2,,,Secret,,LOE_021
+Explorer's Hat,The League of Explorers,Spell,Hunter,Rare,2,,,Deathrattle,,LOE_105
+Huge Toad,The League of Explorers,Minion,Neutral,Common,2,3,2,Deathrattle,Beast,LOE_046
+Jeweled Scarab,The League of Explorers,Minion,Neutral,Common,2,1,1,"Discover, Battlecry",Beast,LOE_029
+Museum Curator,The League of Explorers,Minion,Priest,Common,2,1,2,"Discover, Deathrattle, Battlecry",,LOE_006
+Brann Bronzebeard,The League of Explorers,Minion,Neutral,Legendary,3,2,4,"Battlecry, Aura",,LOE_077
+Desert Camel,The League of Explorers,Minion,Hunter,Common,3,2,4,Battlecry,Beast,LOE_020
+Fierce Monkey,The League of Explorers,Minion,Warrior,Common,3,3,4,Taunt,Beast,LOE_022
+Forgotten Torch,The League of Explorers,Spell,Mage,Common,3,,,,,LOE_002
+Mounted Raptor,The League of Explorers,Minion,Druid,Common,3,3,2,Deathrattle,Beast,LOE_050
+Unearthed Raptor,The League of Explorers,Minion,Rogue,Rare,3,3,4,"Deathrattle, Battlecry",,LOE_019
+Ancient Shade,The League of Explorers,Minion,Neutral,Rare,4,7,4,Battlecry,,LOE_110
+Animated Armor,The League of Explorers,Minion,Mage,Rare,4,4,4,,,LOE_119
+Eerie Statue,The League of Explorers,Minion,Neutral,Rare,4,7,7,,,LOE_107
+Elise Starseeker,The League of Explorers,Minion,Neutral,Legendary,4,3,5,Battlecry,,LOE_079
+Gorillabot A-3,The League of Explorers,Minion,Neutral,Common,4,3,4,"Discover, Battlecry",Mech,LOE_039
+Jungle Moonkin,The League of Explorers,Minion,Druid,Rare,4,4,4,Spell Damage,Beast,LOE_051
+Keeper of Uldaman,The League of Explorers,Minion,Paladin,Common,4,3,4,Battlecry,,LOE_017
+Rumbling Elemental,The League of Explorers,Minion,Shaman,Common,4,2,6,Battlecry,,LOE_016
+Tomb Pillager,The League of Explorers,Minion,Rogue,Common,4,5,4,Deathrattle,,LOE_012
+Tomb Spider,The League of Explorers,Minion,Neutral,Common,4,3,3,"Discover, Battlecry",Beast,LOE_047
+Anubisath Sentinel,The League of Explorers,Minion,Neutral,Common,5,4,4,Deathrattle,,LOE_061
+Djinni of Zephyrs,The League of Explorers,Minion,Neutral,Epic,5,4,6,,,LOE_053
+Ethereal Conjurer,The League of Explorers,Minion,Mage,Common,5,6,3,"Discover, Battlecry",,LOE_003
+Excavated Evil,The League of Explorers,Spell,Priest,Rare,5,,,,,LOE_111
+Naga Sea Witch,The League of Explorers,Minion,Neutral,Epic,5,5,5,Aura,,LOE_038
+Summoning Stone,The League of Explorers,Minion,Neutral,Rare,5,0,6,,,LOE_086
+Entomb,The League of Explorers,Spell,Priest,Common,6,,,,,LOE_104
+Reno Jackson,The League of Explorers,Minion,Neutral,Legendary,6,4,6,Battlecry,,LOE_011
+Wobbling Runts,The League of Explorers,Minion,Neutral,Rare,6,2,6,Deathrattle,,LOE_089
+Everyfin is Awesome,The League of Explorers,Spell,Shaman,Rare,7,,,,,LOE_113
+Obsidian Destroyer,The League of Explorers,Minion,Warrior,Common,7,7,7,Taunt,,LOE_009
+Fossilized Devilsaur,The League of Explorers,Minion,Neutral,Common,8,8,8,"Taunt, Battlecry",,LOE_073
+Arch-Thief Rafaam,The League of Explorers,Minion,Neutral,Legendary,9,7,8,"Discover, Battlecry",,LOE_092
+Anyfin Can Happen,The League of Explorers,Spell,Paladin,Rare,10,,,,,LOE_026
+Forbidden Flame,Whispers of the Old Gods,Spell,Mage,Epic,0,,,Affected by Spell Power,,OG_086
+Forbidden Healing,Whispers of the Old Gods,Spell,Paladin,Epic,0,,,,,OG_198
+Forbidden Ritual,Whispers of the Old Gods,Spell,Warlock,Rare,0,,,,,OG_114
+Forbidden Shaping,Whispers of the Old Gods,Spell,Priest,Epic,0,,,,,OG_101
+Bladed Cultist,Whispers of the Old Gods,Minion,Rogue,Common,1,1,2,Combo,,OG_070
+Blood To Ichor,Whispers of the Old Gods,Spell,Warrior,Rare,1,,,,,OG_314
+Divine Strength,Whispers of the Old Gods,Spell,Paladin,Common,1,,,,,OG_223
+Evolve,Whispers of the Old Gods,Spell,Shaman,Rare,1,,,,,OG_027
+Fiery Bat,Whispers of the Old Gods,Minion,Hunter,Common,1,2,1,Deathrattle,Beast,OG_179
+Forbidden Ancient,Whispers of the Old Gods,Minion,Druid,Epic,1,1,1,Battlecry,,OG_051
+Journey Below,Whispers of the Old Gods,Spell,Rogue,Rare,1,,,"Discover, Deathrattle",,OG_072
+N'Zoth's First Mate,Whispers of the Old Gods,Minion,Warrior,Common,1,1,1,Battlecry,Pirate,OG_312
+On the Hunt,Whispers of the Old Gods,Spell,Hunter,Common,1,,,,,OG_061
+Possessed Villager,Whispers of the Old Gods,Minion,Warlock,Common,1,1,1,Deathrattle,,OG_241
+Primal Fusion,Whispers of the Old Gods,Spell,Shaman,Common,1,,,,,OG_023
+Selfless Hero,Whispers of the Old Gods,Minion,Paladin,Rare,1,2,1,"Divine Shield, Deathrattle",,OG_221
+Shifter Zerus,Whispers of the Old Gods,Minion,Neutral,Legendary,1,1,1,,,OG_123
+Tentacle of N'Zoth,Whispers of the Old Gods,Minion,Neutral,Common,1,1,1,Deathrattle,,OG_151
+Vilefin Inquisitor,Whispers of the Old Gods,Minion,Paladin,Epic,1,1,3,Battlecry,Murloc,OG_006
+Zealous Initiate,Whispers of the Old Gods,Minion,Neutral,Common,1,1,1,Deathrattle,,OG_158
+A Light in the Darkness,Whispers of the Old Gods,Spell,Paladin,Common,2,,,Discover,,OG_311
+Beckoner of Evil,Whispers of the Old Gods,Minion,Neutral,Common,2,2,3,Battlecry,,OG_281
+Bilefin Tidehunter,Whispers of the Old Gods,Minion,Neutral,Common,2,2,1,"Taunt, Battlecry",Murloc,OG_156
+Cult Sorcerer,Whispers of the Old Gods,Minion,Mage,Rare,2,3,2,Spell Damage,,OG_303
+Darkshire Librarian,Whispers of the Old Gods,Minion,Warlock,Rare,2,3,2,"Battlecry, Deathrattle",,OG_109
+Duskboar,Whispers of the Old Gods,Minion,Neutral,Common,2,4,1,,Beast,OG_326
+Embrace the Shadow,Whispers of the Old Gods,Spell,Priest,Epic,2,,,,,OG_104
+Eternal Sentinel,Whispers of the Old Gods,Minion,Shaman,Epic,2,3,2,"Overload, Battlecry",,OG_026
+Mark of Y'Shaarj,Whispers of the Old Gods,Spell,Druid,Common,2,,,,,OG_048
+"Nat, the Darkfisher",Whispers of the Old Gods,Minion,Neutral,Legendary,2,2,4,,,OG_338
+Renounce Darkness,Whispers of the Old Gods,Spell,Warlock,Epic,2,,,,,OG_118
+Shatter,Whispers of the Old Gods,Spell,Mage,Common,2,,,Freeze,,OG_081
+Stormcrack,Whispers of the Old Gods,Spell,Shaman,Common,2,,,Overload,,OG_206
+Twilight Geomancer,Whispers of the Old Gods,Minion,Neutral,Common,2,1,4,"Battlecry, Taunt",,OG_284
+Twisted Worgen,Whispers of the Old Gods,Minion,Neutral,Common,2,3,1,Stealth,,OG_247
+Undercity Huckster,Whispers of the Old Gods,Minion,Rogue,Rare,2,2,2,Deathrattle,,OG_330
+Addled Grizzly,Whispers of the Old Gods,Minion,Druid,Rare,3,2,2,,Beast,OG_313
+Am'gam Rager,Whispers of the Old Gods,Minion,Neutral,Common,3,1,5,,,OG_248
+Blood Warriors,Whispers of the Old Gods,Spell,Warrior,Epic,3,,,,,OG_276
+Bloodsail Cultist,Whispers of the Old Gods,Minion,Warrior,Rare,3,3,4,Battlecry,Pirate,OG_315
+Carrion Grub,Whispers of the Old Gods,Minion,Hunter,Common,3,2,5,,Beast,OG_325
+Darkshire Councilman,Whispers of the Old Gods,Minion,Warlock,Common,3,1,5,,,OG_113
+Disciple of C'Thun,Whispers of the Old Gods,Minion,Neutral,Rare,3,2,1,Battlecry,,OG_162
+Feral Rage,Whispers of the Old Gods,Spell,Druid,Common,3,,,,,OG_047
+Forlorn Stalker,Whispers of the Old Gods,Minion,Hunter,Rare,3,4,2,"Deathrattle, Battlecry",,OG_292
+Infest,Whispers of the Old Gods,Spell,Hunter,Rare,3,,,Deathrattle,,OG_045
+Rallying Blade,Whispers of the Old Gods,Weapon,Paladin,Rare,3,3,2,"Divine Shield, Battlecry",,OG_222
+Ravaging Ghoul,Whispers of the Old Gods,Minion,Warrior,Common,3,3,3,Battlecry,,OG_149
+Shadow Strike,Whispers of the Old Gods,Spell,Rogue,Common,3,,,,,OG_176
+Silithid Swarmer,Whispers of the Old Gods,Minion,Neutral,Rare,3,3,5,,Beast,OG_034
+Spawn of N'Zoth,Whispers of the Old Gods,Minion,Neutral,Common,3,2,2,Deathrattle,,OG_256
+Spreading Madness,Whispers of the Old Gods,Spell,Warlock,Rare,3,,,Immune to Spell Power,,OG_116
+Squirming Tentacle,Whispers of the Old Gods,Minion,Neutral,Common,3,2,4,Taunt,,OG_327
+Steward of Darkshire,Whispers of the Old Gods,Minion,Paladin,Rare,3,3,3,Divine Shield,,OG_310
+Twilight Elder,Whispers of the Old Gods,Minion,Neutral,Common,3,3,4,,,OG_286
+Twilight Flamecaller,Whispers of the Old Gods,Minion,Mage,Common,3,2,2,Battlecry,,OG_083
+Aberrant Berserker,Whispers of the Old Gods,Minion,Neutral,Common,4,3,5,Enrage,,OG_150
+Blackwater Pirate,Whispers of the Old Gods,Minion,Neutral,Rare,4,2,5,,Pirate,OG_322
+Bloodhoof Brave,Whispers of the Old Gods,Minion,Warrior,Common,4,2,6,"Enrage, Taunt",,OG_218
+C'Thun's Chosen,Whispers of the Old Gods,Minion,Neutral,Common,4,4,2,"Divine Shield, Battlecry",,OG_283
+Cyclopian Horror,Whispers of the Old Gods,Minion,Neutral,Epic,4,3,3,"Taunt, Battlecry",,OG_337
+Demented Frostcaller,Whispers of the Old Gods,Minion,Mage,Rare,4,2,4,Freeze,,OG_085
+Eater of Secrets,Whispers of the Old Gods,Minion,Neutral,Rare,4,2,4,"Secret, Battlecry",,OG_254
+Evolved Kobold,Whispers of the Old Gods,Minion,Neutral,Common,4,2,2,Spell Damage,,OG_082
+Faceless Shambler,Whispers of the Old Gods,Minion,Neutral,Epic,4,1,1,"Battlecry, Taunt",,OG_174
+Fandral Staghelm,Whispers of the Old Gods,Minion,Druid,Legendary,4,3,5,Aura,,OG_044
+Flamewreathed Faceless,Whispers of the Old Gods,Minion,Shaman,Common,4,7,7,Overload,,OG_024
+Hooded Acolyte,Whispers of the Old Gods,Minion,Priest,Common,4,3,6,,,OG_334
+Infested Tauren,Whispers of the Old Gods,Minion,Neutral,Common,4,2,3,"Deathrattle, Taunt",,OG_249
+Infested Wolf,Whispers of the Old Gods,Minion,Hunter,Rare,4,3,3,Deathrattle,Beast,OG_216
+Klaxxi Amber-Weaver,Whispers of the Old Gods,Minion,Druid,Rare,4,4,5,Battlecry,,OG_188
+Master of Evolution,Whispers of the Old Gods,Minion,Shaman,Rare,4,4,5,Battlecry,,OG_328
+Midnight Drake,Whispers of the Old Gods,Minion,Neutral,Rare,4,1,4,Battlecry,Dragon,OG_320
+Mire Keeper,Whispers of the Old Gods,Minion,Druid,Rare,4,3,3,,,OG_202
+Polluted Hoarder,Whispers of the Old Gods,Minion,Neutral,Common,4,4,2,Deathrattle,,OG_323
+Shadow Word: Horror,Whispers of the Old Gods,Spell,Priest,Rare,4,,,,,OG_100
+Shifting Shade,Whispers of the Old Gods,Minion,Priest,Rare,4,4,3,Deathrattle,,OG_335
+Southsea Squidface,Whispers of the Old Gods,Minion,Rogue,Common,4,4,4,Deathrattle,Pirate,OG_267
+Twilight Summoner,Whispers of the Old Gods,Minion,Neutral,Epic,4,1,1,Deathrattle,,OG_272
+"Xaril, Poisoned Mind",Whispers of the Old Gods,Minion,Rogue,Legendary,4,3,2,"Battlecry, Deathrattle",,OG_080
+Cabalist's Tome,Whispers of the Old Gods,Spell,Mage,Epic,5,,,,,OG_090
+Corrupted Healbot,Whispers of the Old Gods,Minion,Neutral,Rare,5,6,6,Deathrattle,Mech,OG_147
+Crazed Worshipper,Whispers of the Old Gods,Minion,Neutral,Epic,5,3,6,Taunt,,OG_321
+Cult Apothecary,Whispers of the Old Gods,Minion,Neutral,Common,5,4,4,Battlecry,,OG_295
+Darkshire Alchemist,Whispers of the Old Gods,Minion,Priest,Common,5,4,5,Battlecry,,OG_234
+Darkspeaker,Whispers of the Old Gods,Minion,Neutral,Epic,5,3,6,Battlecry,,OG_102
+Hallazeal the Ascended,Whispers of the Old Gods,Minion,Shaman,Legendary,5,4,6,,,OG_209
+Hammer of Twilight,Whispers of the Old Gods,Weapon,Shaman,Epic,5,4,2,Deathrattle,,OG_031
+Power Word: Tentacles,Whispers of the Old Gods,Spell,Priest,Common,5,,,,,OG_094
+Princess Huhuran,Whispers of the Old Gods,Minion,Hunter,Legendary,5,6,5,"Deathrattle, Battlecry",Beast,OG_309
+Psych-o-Tron,Whispers of the Old Gods,Minion,Neutral,Common,5,3,4,"Taunt, Divine Shield",Mech,OG_145
+Servant of Yogg-Saron,Whispers of the Old Gods,Minion,Mage,Rare,5,5,4,Battlecry,,OG_087
+Shadowcaster,Whispers of the Old Gods,Minion,Rogue,Epic,5,4,4,Battlecry,,OG_291
+Stand Against Darkness,Whispers of the Old Gods,Spell,Paladin,Common,5,,,,,OG_273
+Tentacles for Arms,Whispers of the Old Gods,Weapon,Warrior,Epic,5,2,2,Deathrattle,,OG_033
+Twilight Darkmender,Whispers of the Old Gods,Minion,Priest,Rare,5,6,5,Battlecry,,OG_096
+Usher of Souls,Whispers of the Old Gods,Minion,Warlock,Common,5,5,6,,,OG_302
+Validated Doomsayer,Whispers of the Old Gods,Minion,Neutral,Epic,5,0,7,,,OG_200
+Ancient Harbinger,Whispers of the Old Gods,Minion,Neutral,Epic,6,4,6,,,OG_290
+Corrupted Seer,Whispers of the Old Gods,Minion,Neutral,Rare,6,2,3,Battlecry,Murloc,OG_161
+Dark Arakkoa,Whispers of the Old Gods,Minion,Druid,Common,6,5,7,"Battlecry, Taunt",,OG_293
+Faceless Summoner,Whispers of the Old Gods,Minion,Mage,Common,6,5,5,Battlecry,,OG_207
+Herald Volazj,Whispers of the Old Gods,Minion,Priest,Legendary,6,5,5,Battlecry,,OG_316
+"Mukla, Tyrant of the Vale",Whispers of the Old Gods,Minion,Neutral,Legendary,6,5,5,Battlecry,Beast,OG_122
+Nerubian Prophet,Whispers of the Old Gods,Minion,Neutral,Common,6,4,4,,,OG_138
+Scaled Nightmare,Whispers of the Old Gods,Minion,Neutral,Epic,6,2,8,,Dragon,OG_271
+Skeram Cultist,Whispers of the Old Gods,Minion,Neutral,Rare,6,7,6,Battlecry,,OG_339
+Thing from Below,Whispers of the Old Gods,Minion,Shaman,Rare,6,5,5,Taunt,,OG_028
+Thistle Tea,Whispers of the Old Gods,Spell,Rogue,Rare,6,,,,,OG_073
+Ancient Shieldbearer,Whispers of the Old Gods,Minion,Warrior,Rare,7,6,6,Battlecry,,OG_301
+Bog Creeper,Whispers of the Old Gods,Minion,Neutral,Common,7,6,8,Taunt,,OG_153
+Cho'gall,Whispers of the Old Gods,Minion,Warlock,Legendary,7,7,7,Battlecry,,OG_121
+Grotesque Dragonhawk,Whispers of the Old Gods,Minion,Neutral,Common,7,5,5,Windfury,Beast,OG_152
+"Hogger, Doom of Elwynn",Whispers of the Old Gods,Minion,Neutral,Legendary,7,6,6,Taunt,,OG_318
+Malkorok,Whispers of the Old Gods,Minion,Warrior,Legendary,7,6,5,Battlecry,,OG_220
+Twin Emperor Vek'lor,Whispers of the Old Gods,Minion,Neutral,Legendary,7,4,6,"Battlecry, Taunt",,OG_131
+Wisps of the Old Gods,Whispers of the Old Gods,Spell,Druid,Epic,7,,,,,OG_195
+Anomalus,Whispers of the Old Gods,Minion,Mage,Legendary,8,8,6,Deathrattle,,OG_120
+Doomcaller,Whispers of the Old Gods,Minion,Neutral,Rare,8,7,9,Battlecry,,OG_255
+Eldritch Horror,Whispers of the Old Gods,Minion,Neutral,Common,8,6,10,,,OG_142
+Giant Sand Worm,Whispers of the Old Gods,Minion,Hunter,Epic,8,8,8,,Beast,OG_308
+"Ragnaros, Lightlord",Whispers of the Old Gods,Minion,Paladin,Legendary,8,8,8,,,OG_229
+The Boogeymonster,Whispers of the Old Gods,Minion,Neutral,Legendary,8,6,7,,,OG_300
+Blade of C'Thun,Whispers of the Old Gods,Minion,Rogue,Epic,9,4,4,Battlecry,,OG_282
+Blood of The Ancient One,Whispers of the Old Gods,Minion,Neutral,Epic,9,9,9,,,OG_173
+Call of the Wild,Whispers of the Old Gods,Spell,Hunter,Epic,9,,,,,OG_211
+Soggoth the Slitherer,Whispers of the Old Gods,Minion,Neutral,Legendary,9,5,9,Taunt,,OG_340
+C'Thun,Whispers of the Old Gods,Minion,Neutral,Legendary,10,6,6,Battlecry,,OG_280
+"Deathwing, Dragonlord",Whispers of the Old Gods,Minion,Neutral,Legendary,10,12,12,Deathrattle,Dragon,OG_317
+DOOM!,Whispers of the Old Gods,Spell,Warlock,Epic,10,,,,,OG_239
+Faceless Behemoth,Whispers of the Old Gods,Minion,Neutral,Common,10,10,10,,,OG_141
+"N'Zoth, the Corruptor",Whispers of the Old Gods,Minion,Neutral,Legendary,10,5,7,"Battlecry, Deathrattle",,OG_133
+"Y'Shaarj, Rage Unbound",Whispers of the Old Gods,Minion,Neutral,Legendary,10,10,10,,,OG_042
+"Yogg-Saron, Hope's End",Whispers of the Old Gods,Minion,Neutral,Legendary,10,7,5,Battlecry,,OG_134
+Arcane Anomaly,Karazhan,Minion,Neutral,Common,1,2,1,,,KAR_036
+Babbling Book,Karazhan,Minion,Mage,Rare,1,1,1,Battlecry,,KAR_009
+Enchanted Raven,Karazhan,Minion,Druid,Common,1,2,2,,Beast,KAR_300
+Malchezaar's Imp,Karazhan,Minion,Warlock,Common,1,1,3,,Demon,KAR_089
+Runic Egg,Karazhan,Minion,Neutral,Common,1,0,2,Deathrattle,,KAR_029
+Spirit Claws,Karazhan,Weapon,Shaman,Common,1,1,3,Spell Damage,,KAR_063
+Swashburglar,Karazhan,Minion,Rogue,Common,1,1,1,Battlecry,Pirate,KAR_069
+Cat Trick,Karazhan,Spell,Hunter,Rare,2,,,"Stealth, Secret",,KAR_004
+Kindly Grandmother,Karazhan,Minion,Hunter,Common,2,1,1,Deathrattle,Beast,KAR_005
+Maelstrom Portal,Karazhan,Spell,Shaman,Rare,2,,,,,KAR_073
+Medivh's Valet,Karazhan,Minion,Mage,Common,2,2,3,"Secret, Battlecry",,KAR_092
+Netherspite Historian,Karazhan,Minion,Neutral,Common,2,1,3,"Discover, Battlecry",,KAR_062
+Pompous Thespian,Karazhan,Minion,Neutral,Common,2,3,2,Taunt,,KAR_011
+Purify,Karazhan,Spell,Priest,Common,2,,,Silence,,KAR_013
+Cloaked Huntress,Karazhan,Minion,Hunter,Common,3,3,4,Secret,,KAR_006
+Deadly Fork,Karazhan,Minion,Rogue,Common,3,3,2,Deathrattle,,KAR_094
+Moroes,Karazhan,Minion,Neutral,Legendary,3,1,1,Stealth,,KAR_044
+Nightbane Templar,Karazhan,Minion,Paladin,Common,3,2,3,Battlecry,,KAR_010
+Pantry Spider,Karazhan,Minion,Neutral,Common,3,1,3,Battlecry,Beast,KAR_030a
+Protect the King!,Karazhan,Spell,Warrior,Rare,3,,,Taunt,,KAR_026
+Silverware Golem,Karazhan,Minion,Warlock,Rare,3,3,3,InvisibleDeathrattle,,KAR_205
+Violet Illusionist,Karazhan,Minion,Neutral,Common,3,4,3,Aura,,KAR_712
+Zoobot,Karazhan,Minion,Neutral,Common,3,3,3,Battlecry,Mech,KAR_095
+Arcanosmith,Karazhan,Minion,Neutral,Common,4,3,2,"Taunt, Battlecry",,KAR_710
+Barnes,Karazhan,Minion,Neutral,Legendary,4,3,4,Battlecry,,KAR_114
+Priest of the Feast,Karazhan,Minion,Priest,Common,4,3,6,,,KAR_035
+Silvermoon Portal,Karazhan,Spell,Paladin,Common,4,,,,,KAR_077
+Wicked Witchdoctor,Karazhan,Minion,Shaman,Common,4,3,4,,,KAR_021
+Avian Watcher,Karazhan,Minion,Neutral,Rare,5,3,6,"Taunt, Secret, Battlecry",,KAR_037
+Ethereal Peddler,Karazhan,Minion,Rogue,Rare,5,5,6,Battlecry,,KAR_070
+Fool's Bane,Karazhan,Weapon,Warrior,Common,5,3,4,,,KAR_028
+Ironforge Portal,Karazhan,Spell,Warrior,Common,5,,,,,KAR_091
+Kara Kazham!,Karazhan,Spell,Warlock,Common,5,,,,,KAR_025
+Menagerie Magician,Karazhan,Minion,Neutral,Common,5,4,4,Battlecry,,KAR_702
+Onyx Bishop,Karazhan,Minion,Priest,Rare,5,3,4,Battlecry,,KAR_204
+Prince Malchezaar,Karazhan,Minion,Neutral,Legendary,5,5,6,,Demon,KAR_096
+Book Wyrm,Karazhan,Minion,Neutral,Rare,6,3,6,Battlecry,Dragon,KAR_033
+Ivory Knight,Karazhan,Minion,Paladin,Rare,6,4,4,"Discover, Battlecry",,KAR_057
+Menagerie Warden,Karazhan,Minion,Druid,Common,6,5,5,Battlecry,,KAR_065
+Moat Lurker,Karazhan,Minion,Neutral,Rare,6,3,3,"Battlecry, Deathrattle",,KAR_041
+Moonglade Portal,Karazhan,Spell,Druid,Rare,6,,,,,KAR_075
+Firelands Portal,Karazhan,Spell,Mage,Common,7,,,,,KAR_076
+The Curator,Karazhan,Minion,Neutral,Legendary,7,4,6,"Battlecry, Taunt",Mech,KAR_061
+"Medivh, the Guardian",Karazhan,Minion,Neutral,Legendary,8,7,7,Battlecry,,KAR_097
+Arcane Giant,Karazhan,Minion,Neutral,Epic,12,8,8,,,KAR_711
+Counterfeit Coin,Mean Streets of Gadgetzan,Spell,Rogue,Rare,0,,,,,CFM_630
+Freezing Potion,Mean Streets of Gadgetzan,Spell,Mage,Common,0,,,Freeze,,CFM_021
+Alleycat,Mean Streets of Gadgetzan,Minion,Hunter,Common,1,1,1,Battlecry,Beast,CFM_315
+Finders Keepers,Mean Streets of Gadgetzan,Spell,Shaman,Epic,1,,,"Overload, Discover",,CFM_313
+Getaway Kodo,Mean Streets of Gadgetzan,Spell,Paladin,Rare,1,,,Secret,,CFM_800
+Grimscale Chum,Mean Streets of Gadgetzan,Minion,Paladin,Common,1,2,1,Battlecry,Murloc,CFM_650
+I Know a Guy,Mean Streets of Gadgetzan,Spell,Warrior,Common,1,,,"Discover, Taunt",,CFM_940
+Jade Idol,Mean Streets of Gadgetzan,Spell,Druid,Rare,1,,,,,CFM_602
+Kabal Lackey,Mean Streets of Gadgetzan,Minion,Mage,Common,1,2,1,"Secret, Battlecry",,CFM_066
+Mark of the Lotus,Mean Streets of Gadgetzan,Spell,Druid,Common,1,,,,,CFM_614
+Meanstreet Marshal,Mean Streets of Gadgetzan,Minion,Paladin,Epic,1,1,2,Deathrattle,,CFM_759
+Mistress of Mixtures,Mean Streets of Gadgetzan,Minion,Neutral,Common,1,2,2,Deathrattle,,CFM_120
+Patches the Pirate,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,1,1,1,Charge,Pirate,CFM_637
+Pint-Size Potion,Mean Streets of Gadgetzan,Spell,Priest,Rare,1,,,,,CFM_661
+Potion of Madness,Mean Streets of Gadgetzan,Spell,Priest,Common,1,,,,,CFM_603
+Small-Time Buccaneer,Mean Streets of Gadgetzan,Minion,Neutral,Rare,1,1,2,,Pirate,CFM_325
+Smuggler's Crate,Mean Streets of Gadgetzan,Spell,Hunter,Common,1,,,,,CFM_334
+Smuggler's Run,Mean Streets of Gadgetzan,Spell,Paladin,Common,1,,,,,CFM_305
+Weasel Tunneler,Mean Streets of Gadgetzan,Minion,Neutral,Epic,1,1,1,Deathrattle,Beast,CFM_095
+Blowgill Sniper,Mean Streets of Gadgetzan,Minion,Neutral,Common,2,2,1,Battlecry,Murloc,CFM_647
+Devolve,Mean Streets of Gadgetzan,Spell,Shaman,Rare,2,,,,,CFM_696
+Dirty Rat,Mean Streets of Gadgetzan,Minion,Neutral,Epic,2,2,6,"Taunt, Battlecry",,CFM_790
+Friendly Bartender,Mean Streets of Gadgetzan,Minion,Neutral,Common,2,2,3,,,CFM_654
+Gadgetzan Ferryman,Mean Streets of Gadgetzan,Minion,Rogue,Rare,2,2,3,Combo,,CFM_693
+Gadgetzan Socialite,Mean Streets of Gadgetzan,Minion,Neutral,Common,2,2,2,Battlecry,,CFM_659
+Grimestreet Informant,Mean Streets of Gadgetzan,Minion,Neutral,Rare,2,1,1,"Discover, Battlecry",,CFM_321
+Grimestreet Outfitter,Mean Streets of Gadgetzan,Minion,Paladin,Common,2,1,1,Battlecry,,CFM_753
+Hidden Cache,Mean Streets of Gadgetzan,Spell,Hunter,Rare,2,,,Secret,,CFM_026
+Hobart Grapplehammer,Mean Streets of Gadgetzan,Minion,Warrior,Legendary,2,2,2,Battlecry,,CFM_643
+Jade Claws,Mean Streets of Gadgetzan,Weapon,Shaman,Rare,2,2,2,"Overload, Battlecry",,CFM_717
+Jade Shuriken,Mean Streets of Gadgetzan,Spell,Rogue,Common,2,,,Combo,,CFM_690
+Jade Swarmer,Mean Streets of Gadgetzan,Minion,Rogue,Common,2,1,1,"Deathrattle, Stealth",,CFM_691
+Mana Geode,Mean Streets of Gadgetzan,Minion,Priest,Epic,2,2,3,,,CFM_606
+Public Defender,Mean Streets of Gadgetzan,Minion,Warrior,Common,2,0,7,Taunt,,CFM_300
+Sleep with the Fishes,Mean Streets of Gadgetzan,Spell,Warrior,Epic,2,,,,,CFM_716
+Stolen Goods,Mean Streets of Gadgetzan,Spell,Warrior,Rare,2,,,Taunt,,CFM_752
+Trogg Beastrager,Mean Streets of Gadgetzan,Minion,Hunter,Rare,2,3,2,Battlecry,,CFM_338
+Auctionmaster Beardo,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,3,3,4,,,CFM_807
+Backstreet Leper,Mean Streets of Gadgetzan,Minion,Neutral,Common,3,3,1,Deathrattle,,CFM_646
+Bloodfury Potion,Mean Streets of Gadgetzan,Spell,Warlock,Rare,3,,,,,CFM_611
+Blubber Baron,Mean Streets of Gadgetzan,Minion,Neutral,Epic,3,1,1,Battlecry,,CFM_064
+Celestial Dreamer,Mean Streets of Gadgetzan,Minion,Druid,Rare,3,3,3,Battlecry,,CFM_617
+Fel Orc Soulfiend,Mean Streets of Gadgetzan,Minion,Neutral,Epic,3,3,7,,,CFM_609
+Grimestreet Pawnbroker,Mean Streets of Gadgetzan,Minion,Warrior,Rare,3,3,3,Battlecry,,CFM_755
+Grimestreet Smuggler,Mean Streets of Gadgetzan,Minion,Neutral,Common,3,2,4,Battlecry,,CFM_853
+Hired Gun,Mean Streets of Gadgetzan,Minion,Neutral,Common,3,4,3,Taunt,,CFM_653
+Jade Blossom,Mean Streets of Gadgetzan,Spell,Druid,Common,3,,,,,CFM_713
+Kabal Courier,Mean Streets of Gadgetzan,Minion,Neutral,Rare,3,2,2,"Discover, Battlecry",,CFM_649
+Kabal Talonpriest,Mean Streets of Gadgetzan,Minion,Priest,Common,3,3,4,Battlecry,,CFM_626
+Manic Soulcaster,Mean Streets of Gadgetzan,Minion,Mage,Epic,3,3,4,Battlecry,,CFM_660
+Pilfered Power,Mean Streets of Gadgetzan,Spell,Druid,Epic,3,,,,,CFM_616
+Potion of Polymorph,Mean Streets of Gadgetzan,Spell,Mage,Rare,3,,,Secret,,CFM_620
+Rat Pack,Mean Streets of Gadgetzan,Minion,Hunter,Epic,3,2,2,Deathrattle,Beast,CFM_316
+Sergeant Sally,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,3,1,1,Deathrattle,,CFM_341
+Shadow Rager,Mean Streets of Gadgetzan,Minion,Rogue,Common,3,5,1,Stealth,,CFM_636
+"Shaku, the Collector",Mean Streets of Gadgetzan,Minion,Rogue,Legendary,3,2,3,Stealth,,CFM_781
+Shaky Zipgunner,Mean Streets of Gadgetzan,Minion,Hunter,Common,3,3,3,Deathrattle,,CFM_336
+Small-Time Recruits,Mean Streets of Gadgetzan,Spell,Paladin,Epic,3,,,,,CFM_905
+Street Trickster,Mean Streets of Gadgetzan,Minion,Neutral,Common,3,0,7,Spell Damage,Demon,CFM_039
+Toxic Sewer Ooze,Mean Streets of Gadgetzan,Minion,Neutral,Common,3,4,3,Battlecry,,CFM_655
+Unlicensed Apothecary,Mean Streets of Gadgetzan,Minion,Warlock,Epic,3,5,5,,Demon,CFM_900
+Volcanic Potion,Mean Streets of Gadgetzan,Spell,Mage,Rare,3,,,,,CFM_065
+Wickerflame Burnbristle,Mean Streets of Gadgetzan,Minion,Paladin,Legendary,3,2,2,"Divine Shield, Taunt",,CFM_815
+Backroom Bouncer,Mean Streets of Gadgetzan,Minion,Neutral,Rare,4,4,4,,,CFM_658
+Blastcrystal Potion,Mean Streets of Gadgetzan,Spell,Warlock,Common,4,,,,,CFM_608
+Brass Knuckles,Mean Streets of Gadgetzan,Weapon,Warrior,Epic,4,2,3,,,CFM_631
+Call in the Finishers,Mean Streets of Gadgetzan,Spell,Shaman,Common,4,,,,,CFM_310
+Crystalweaver,Mean Streets of Gadgetzan,Minion,Warlock,Common,4,5,4,Battlecry,,CFM_610
+Daring Reporter,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,3,3,,,CFM_851
+Dispatch Kodo,Mean Streets of Gadgetzan,Minion,Hunter,Rare,4,2,4,Battlecry,Beast,CFM_335
+"Genzo, the Shark",Mean Streets of Gadgetzan,Minion,Neutral,Legendary,4,5,4,,,CFM_808
+Greater Healing Potion,Mean Streets of Gadgetzan,Spell,Priest,Rare,4,,,,,CFM_604
+Grimy Gadgeteer,Mean Streets of Gadgetzan,Minion,Warrior,Common,4,4,3,,,CFM_754
+Hozen Healer,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,2,6,Battlecry,,CFM_067
+Jade Lightning,Mean Streets of Gadgetzan,Spell,Shaman,Common,4,,,,,CFM_707
+Jade Spirit,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,2,3,Battlecry,,CFM_715
+Jinyu Waterspeaker,Mean Streets of Gadgetzan,Minion,Shaman,Rare,4,3,6,"Overload, Battlecry",,CFM_061
+Kabal Chemist,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,3,3,Battlecry,,CFM_619
+Kazakus,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,4,3,3,Battlecry,,CFM_621
+Kooky Chemist,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,4,4,Battlecry,,CFM_063
+Lotus Illusionist,Mean Streets of Gadgetzan,Minion,Shaman,Epic,4,3,5,,,CFM_697
+Naga Corsair,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,5,4,Battlecry,Pirate,CFM_651
+Seadevil Stinger,Mean Streets of Gadgetzan,Minion,Warlock,Rare,4,4,2,Battlecry,Murloc,CFM_699
+Shadow Sensei,Mean Streets of Gadgetzan,Minion,Rogue,Rare,4,4,4,"Stealth, Battlecry",,CFM_694
+Tanaris Hogchopper,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,4,4,"Charge, Battlecry",,CFM_809
+Worgen Greaser,Mean Streets of Gadgetzan,Minion,Neutral,Common,4,6,3,,,CFM_665
+Alley Armorsmith,Mean Streets of Gadgetzan,Minion,Warrior,Rare,5,2,7,Taunt,,CFM_756
+Bomb Squad,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,2,2,"Battlecry, Deathrattle",,CFM_667
+Burgly Bully,Mean Streets of Gadgetzan,Minion,Neutral,Epic,5,4,6,,,CFM_669
+Cryomancer,Mean Streets of Gadgetzan,Minion,Mage,Common,5,5,5,"Freeze, Battlecry",,CFM_671
+Doppelgangster,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,2,2,Battlecry,,CFM_668
+Drakonid Operative,Mean Streets of Gadgetzan,Minion,Priest,Rare,5,5,6,"Discover, Battlecry",Dragon,CFM_605
+"Finja, the Flying Star",Mean Streets of Gadgetzan,Minion,Neutral,Legendary,5,2,4,Stealth,Murloc,CFM_344
+Grimestreet Enforcer,Mean Streets of Gadgetzan,Minion,Paladin,Rare,5,4,4,,,CFM_639
+Grook Fu Master,Mean Streets of Gadgetzan,Minion,Neutral,Common,5,3,5,Windfury,,CFM_666
+Kabal Songstealer,Mean Streets of Gadgetzan,Minion,Priest,Common,5,5,5,"Battlecry, Silence",,CFM_657
+Knuckles,Mean Streets of Gadgetzan,Minion,Hunter,Legendary,5,3,7,,Beast,CFM_333
+Lotus Agents,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,5,3,"Discover, Battlecry",,CFM_852
+Lotus Assassin,Mean Streets of Gadgetzan,Minion,Rogue,Epic,5,5,5,Stealth,,CFM_634
+Lunar Visions,Mean Streets of Gadgetzan,Spell,Druid,Epic,5,,,,,CFM_811
+Piranha Launcher,Mean Streets of Gadgetzan,Weapon,Hunter,Epic,5,2,4,,,CFM_337
+Raza the Chained,Mean Streets of Gadgetzan,Minion,Priest,Legendary,5,5,5,Battlecry,,CFM_020
+Red Mana Wyrm,Mean Streets of Gadgetzan,Minion,Neutral,Common,5,2,6,,,CFM_060
+Second-Rate Bruiser,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,4,5,Taunt,,CFM_652
+Spiked Hogrider,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,5,5,"Taunt, Charge, Battlecry",,CFM_688
+Streetwise Investigator,Mean Streets of Gadgetzan,Minion,Neutral,Common,5,4,6,"Stealth, Battlecry",,CFM_656
+Virmen Sensei,Mean Streets of Gadgetzan,Minion,Druid,Rare,5,4,5,Battlecry,,CFM_816
+White Eyes,Mean Streets of Gadgetzan,Minion,Shaman,Legendary,5,5,5,"Deathrattle, Taunt",,CFM_324
+Ancient of Blossoms,Mean Streets of Gadgetzan,Minion,Neutral,Common,6,3,8,Taunt,,CFM_854
+Aya Blackpaw,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,6,5,3,"Battlecry, Deathrattle",,CFM_902
+Big-Time Racketeer,Mean Streets of Gadgetzan,Minion,Neutral,Common,6,1,1,Battlecry,,CFM_648
+Defias Cleaner,Mean Streets of Gadgetzan,Minion,Neutral,Epic,6,5,7,"Deathrattle, Battlecry, Silence",,CFM_855
+Dragonfire Potion,Mean Streets of Gadgetzan,Spell,Priest,Epic,6,,,,,CFM_662
+Felfire Potion,Mean Streets of Gadgetzan,Spell,Warlock,Rare,6,,,,,CFM_094
+Fight Promoter,Mean Streets of Gadgetzan,Minion,Neutral,Epic,6,4,4,Battlecry,,CFM_328
+Jade Behemoth,Mean Streets of Gadgetzan,Minion,Druid,Common,6,3,6,"Battlecry, Taunt",,CFM_343
+Kabal Crystal Runner,Mean Streets of Gadgetzan,Minion,Mage,Rare,6,5,5,Secret,,CFM_760
+Kabal Trafficker,Mean Streets of Gadgetzan,Minion,Warlock,Epic,6,6,6,,,CFM_663
+Leatherclad Hogleader,Mean Streets of Gadgetzan,Minion,Neutral,Epic,6,6,6,"Charge, Battlecry",,CFM_810
+Luckydo Buccaneer,Mean Streets of Gadgetzan,Minion,Rogue,Epic,6,5,5,Battlecry,Pirate,CFM_342
+Madam Goya,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,6,4,3,Battlecry,,CFM_672
+Wind-up Burglebot,Mean Streets of Gadgetzan,Minion,Neutral,Epic,6,5,5,,Mech,CFM_025
+Wrathion,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,6,4,5,"Battlecry, Taunt",,CFM_806
+Abyssal Enforcer,Mean Streets of Gadgetzan,Minion,Warlock,Common,7,6,6,Battlecry,Demon,CFM_751
+Don Han'Cho,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,7,5,6,Battlecry,,CFM_685
+Greater Arcane Missiles,Mean Streets of Gadgetzan,Spell,Mage,Epic,7,,,,,CFM_623
+Grimestreet Protector,Mean Streets of Gadgetzan,Minion,Paladin,Rare,7,6,6,"Divine Shield, Battlecry, Taunt",,CFM_062
+Inkmaster Solia,Mean Streets of Gadgetzan,Minion,Mage,Legendary,7,5,5,Battlecry,,CFM_687
+Jade Chieftain,Mean Streets of Gadgetzan,Minion,Shaman,Common,7,5,5,"Taunt, Battlecry",,CFM_312
+Krul the Unshackled,Mean Streets of Gadgetzan,Minion,Warlock,Legendary,9,7,9,Battlecry,Demon,CFM_750
+Mayor Noggenfogger,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,9,5,4,,,CFM_670
+Kun the Forgotten King,Mean Streets of Gadgetzan,Minion,Druid,Legendary,10,7,7,,,CFM_308
+Avenge,Naxxramas,Spell,Paladin,Common,1,,,Secret,,FP1_020
+Undertaker,Naxxramas,Minion,Neutral,Common,1,1,2,Deathrattle,,FP1_028
+Webspinner,Naxxramas,Minion,Hunter,Common,1,1,1,Deathrattle,Beast,FP1_011
+Zombie Chow,Naxxramas,Minion,Neutral,Common,1,2,3,Deathrattle,,FP1_001
+Echoing Ooze,Naxxramas,Minion,Neutral,Epic,2,1,2,Battlecry,,FP1_003
+Haunted Creeper,Naxxramas,Minion,Neutral,Common,2,1,2,Deathrattle,Beast,FP1_002
+Mad Scientist,Naxxramas,Minion,Neutral,Common,2,2,2,"Secret, Deathrattle",,FP1_004
+Nerub'ar Weblord,Naxxramas,Minion,Neutral,Common,2,1,4,"Battlecry, Aura",,FP1_017
+Nerubian Egg,Naxxramas,Minion,Neutral,Rare,2,0,2,Deathrattle,,FP1_007
+Reincarnate,Naxxramas,Spell,Shaman,Common,2,,,,,FP1_025
+Unstable Ghoul,Naxxramas,Minion,Neutral,Common,2,1,3,"Taunt, Deathrattle",,FP1_024
+Dancing Swords,Naxxramas,Minion,Neutral,Common,3,4,4,Deathrattle,,FP1_029
+Dark Cultist,Naxxramas,Minion,Priest,Common,3,3,4,Deathrattle,,FP1_023
+Deathlord,Naxxramas,Minion,Neutral,Rare,3,2,8,"Deathrattle, Taunt",,FP1_009
+Duplicate,Naxxramas,Spell,Mage,Common,3,,,Secret,,FP1_018
+Shade of Naxxramas,Naxxramas,Minion,Neutral,Epic,3,2,2,Stealth,,FP1_005
+Stoneskin Gargoyle,Naxxramas,Minion,Neutral,Common,3,1,4,,,FP1_027
+Anub'ar Ambusher,Naxxramas,Minion,Rogue,Common,4,5,5,"Poisonous, Deathrattle",,FP1_026
+Baron Rivendare,Naxxramas,Minion,Neutral,Legendary,4,1,7,"Deathrattle, Aura",,FP1_031
+Death's Bite,Naxxramas,Weapon,Warrior,Common,4,4,2,Deathrattle,,FP1_021
+Poison Seeds,Naxxramas,Spell,Druid,Common,4,,,,,FP1_019
+Voidcaller,Naxxramas,Minion,Warlock,Common,4,3,4,Deathrattle,Demon,FP1_022
+Wailing Soul,Naxxramas,Minion,Neutral,Rare,4,3,5,"Silence, Battlecry",,FP1_016
+Feugen,Naxxramas,Minion,Neutral,Legendary,5,4,7,Deathrattle,,FP1_015
+Loatheb,Naxxramas,Minion,Neutral,Legendary,5,5,5,Battlecry,,FP1_030
+Sludge Belcher,Naxxramas,Minion,Neutral,Rare,5,3,5,"Taunt, Deathrattle",,FP1_012
+Spectral Knight,Naxxramas,Minion,Neutral,Common,5,4,6,,,FP1_008
+Stalagg,Naxxramas,Minion,Neutral,Legendary,5,7,4,Deathrattle,,FP1_014
+Maexxna,Naxxramas,Minion,Neutral,Legendary,6,2,8,Poisonous,Beast,FP1_010
+Kel'Thuzad,Naxxramas,Minion,Neutral,Legendary,8,6,8,,,FP1_013
+Target Dummy,Goblins vs Gnomes,Minion,Neutral,Rare,0,0,2,Taunt,Mech,GVG_093
+Clockwork Gnome,Goblins vs Gnomes,Minion,Neutral,Common,1,2,1,Deathrattle,Mech,GVG_082
+Cogmaster,Goblins vs Gnomes,Minion,Neutral,Common,1,1,2,Aura,,GVG_013
+Light of the Naaru,Goblins vs Gnomes,Spell,Priest,Rare,1,,,,,GVG_012
+Shadowbomber,Goblins vs Gnomes,Minion,Priest,Epic,1,2,1,Battlecry,,GVG_009
+Warbot,Goblins vs Gnomes,Minion,Warrior,Common,1,1,3,Enrage,Mech,GVG_051
+Annoy-o-Tron,Goblins vs Gnomes,Minion,Neutral,Common,2,1,2,"Taunt, Divine Shield",Mech,GVG_085
+Anodized Robo Cub,Goblins vs Gnomes,Minion,Druid,Common,2,2,2,Taunt,Mech,GVG_030
+Call Pet,Goblins vs Gnomes,Spell,Hunter,Rare,2,,,,,GVG_017
+Crackle,Goblins vs Gnomes,Spell,Shaman,Common,2,,,Overload,,GVG_038
+Darkbomb,Goblins vs Gnomes,Spell,Warlock,Common,2,,,,,GVG_015
+Explosive Sheep,Goblins vs Gnomes,Minion,Neutral,Common,2,1,1,Deathrattle,Mech,GVG_076
+Feign Death,Goblins vs Gnomes,Spell,Hunter,Epic,2,,,Deathrattle,,GVG_026
+Flamecannon,Goblins vs Gnomes,Spell,Mage,Common,2,,,,,GVG_001
+Gilblin Stalker,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,Stealth,,GVG_081
+Glaivezooka,Goblins vs Gnomes,Weapon,Hunter,Common,2,2,2,Battlecry,,GVG_043
+Goblin Auto-Barber,Goblins vs Gnomes,Minion,Rogue,Common,2,3,2,Battlecry,Mech,GVG_023
+Mechwarper,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,Aura,Mech,GVG_006
+Micro Machine,Goblins vs Gnomes,Minion,Neutral,Common,2,1,2,,Mech,GVG_103
+Mistress of Pain,Goblins vs Gnomes,Minion,Warlock,Rare,2,1,4,,Demon,GVG_018
+One-eyed Cheat,Goblins vs Gnomes,Minion,Rogue,Rare,2,4,1,Stealth,Pirate,GVG_025
+Puddlestomper,Goblins vs Gnomes,Minion,Neutral,Common,2,3,2,,Murloc,GVG_064
+Recombobulator,Goblins vs Gnomes,Minion,Neutral,Epic,2,3,2,Battlecry,,GVG_108
+Seal of Light,Goblins vs Gnomes,Spell,Paladin,Common,2,,,,,GVG_057
+Shadowboxer,Goblins vs Gnomes,Minion,Priest,Rare,2,2,3,,Mech,GVG_072
+Shielded Minibot,Goblins vs Gnomes,Minion,Paladin,Common,2,2,2,Divine Shield,Mech,GVG_058
+Ship's Cannon,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,,,GVG_075
+Shrinkmeister,Goblins vs Gnomes,Minion,Priest,Common,2,3,2,Battlecry,,GVG_011
+Snowchugger,Goblins vs Gnomes,Minion,Mage,Common,2,2,3,Freeze,Mech,GVG_002
+Steamwheedle Sniper,Goblins vs Gnomes,Minion,Hunter,Epic,2,2,3,,,GVG_087
+Stonesplinter Trogg,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,,,GVG_067
+Unstable Portal,Goblins vs Gnomes,Spell,Mage,Rare,2,,,,,GVG_003
+Vitality Totem,Goblins vs Gnomes,Minion,Shaman,Rare,2,0,3,,Totem,GVG_039
+Whirling Zap-o-matic,Goblins vs Gnomes,Minion,Shaman,Common,2,3,2,Windfury,Mech,GVG_037
+Bouncing Blade,Goblins vs Gnomes,Spell,Warrior,Epic,3,,,,,GVG_050
+Coghammer,Goblins vs Gnomes,Weapon,Paladin,Epic,3,2,3,"Divine Shield, Taunt, Battlecry",,GVG_059
+Cogmaster's Wrench,Goblins vs Gnomes,Weapon,Rogue,Epic,3,1,3,Aura,,GVG_024
+Flying Machine,Goblins vs Gnomes,Minion,Neutral,Common,3,1,4,Windfury,Mech,GVG_084
+Gnomeregan Infantry,Goblins vs Gnomes,Minion,Neutral,Common,3,1,4,"Charge, Taunt",,GVG_098
+Gnomish Experimenter,Goblins vs Gnomes,Minion,Neutral,Rare,3,3,2,Battlecry,,GVG_092
+Goblin Sapper,Goblins vs Gnomes,Minion,Neutral,Rare,3,2,4,Aura,,GVG_095
+Grove Tender,Goblins vs Gnomes,Minion,Druid,Rare,3,2,4,,,GVG_032
+Hobgoblin,Goblins vs Gnomes,Minion,Neutral,Epic,3,2,3,,,GVG_104
+Illuminator,Goblins vs Gnomes,Minion,Neutral,Rare,3,2,4,Secret,,GVG_089
+Iron Sensei,Goblins vs Gnomes,Minion,Rogue,Rare,3,2,2,,Mech,GVG_027
+Lil' Exorcist,Goblins vs Gnomes,Minion,Neutral,Rare,3,2,3,"Deathrattle, Taunt, Battlecry",,GVG_097
+Metaltooth Leaper,Goblins vs Gnomes,Minion,Hunter,Rare,3,3,3,Battlecry,Mech,GVG_048
+Muster for Battle,Goblins vs Gnomes,Spell,Paladin,Rare,3,,,,,GVG_061
+Ogre Brute,Goblins vs Gnomes,Minion,Neutral,Common,3,4,4,,,GVG_065
+Ogre Warmaul,Goblins vs Gnomes,Weapon,Warrior,Common,3,4,2,,,GVG_054
+Powermace,Goblins vs Gnomes,Weapon,Shaman,Rare,3,3,2,Deathrattle,,GVG_036
+Scarlet Purifier,Goblins vs Gnomes,Minion,Paladin,Rare,3,4,3,"Deathrattle, Battlecry",,GVG_101
+Soot Spewer,Goblins vs Gnomes,Minion,Mage,Rare,3,3,3,Spell Damage,Mech,GVG_123
+Spider Tank,Goblins vs Gnomes,Minion,Neutral,Common,3,3,4,,Mech,GVG_044
+Tinkertown Technician,Goblins vs Gnomes,Minion,Neutral,Common,3,3,3,Battlecry,,GVG_102
+Velen's Chosen,Goblins vs Gnomes,Spell,Priest,Common,3,,,Spell Damage,,GVG_010
+Ancestor's Call,Goblins vs Gnomes,Spell,Shaman,Epic,4,,,,,GVG_029
+Arcane Nullifier X-21,Goblins vs Gnomes,Minion,Neutral,Rare,4,2,5,Taunt,Mech,GVG_091
+Burly Rockjaw Trogg,Goblins vs Gnomes,Minion,Neutral,Common,4,3,5,,,GVG_068
+Dunemaul Shaman,Goblins vs Gnomes,Minion,Shaman,Rare,4,5,4,"Overload, Windfury",,GVG_066
+Echo of Medivh,Goblins vs Gnomes,Spell,Mage,Epic,4,,,,,GVG_005
+Enhance-o Mechano,Goblins vs Gnomes,Minion,Neutral,Epic,4,3,2,"Windfury, Taunt, Divine Shield, Battlecry",Mech,GVG_107
+Fel Cannon,Goblins vs Gnomes,Minion,Warlock,Rare,4,3,5,,Mech,GVG_020
+Goblin Blastmage,Goblins vs Gnomes,Minion,Mage,Rare,4,5,4,Battlecry,,GVG_004
+Imp-losion,Goblins vs Gnomes,Spell,Warlock,Rare,4,,,,,GVG_045
+Jeeves,Goblins vs Gnomes,Minion,Neutral,Rare,4,1,4,,Mech,GVG_094
+Kezan Mystic,Goblins vs Gnomes,Minion,Neutral,Rare,4,4,3,"Secret, Battlecry",,GVG_074
+Lost Tallstrider,Goblins vs Gnomes,Minion,Neutral,Common,4,5,4,,Beast,GVG_071
+Mechanical Yeti,Goblins vs Gnomes,Minion,Neutral,Common,4,4,5,Deathrattle,Mech,GVG_078
+Mini-Mage,Goblins vs Gnomes,Minion,Neutral,Epic,4,4,1,"Spell Damage, Stealth",,GVG_109
+Piloted Shredder,Goblins vs Gnomes,Minion,Neutral,Common,4,4,3,Deathrattle,Mech,GVG_096
+Sabotage,Goblins vs Gnomes,Spell,Rogue,Epic,4,,,Combo,,GVG_047
+Screwjank Clunker,Goblins vs Gnomes,Minion,Warrior,Rare,4,2,5,Battlecry,Mech,GVG_055
+Siltfin Spiritwalker,Goblins vs Gnomes,Minion,Shaman,Epic,4,2,5,Overload,Murloc,GVG_040
+Tinker's Sharpsword Oil,Goblins vs Gnomes,Spell,Rogue,Common,4,,,Combo,,GVG_022
+Wee Spellstopper,Goblins vs Gnomes,Minion,Mage,Epic,4,2,5,Aura,,GVG_122
+Antique Healbot,Goblins vs Gnomes,Minion,Neutral,Common,5,3,3,Battlecry,Mech,GVG_069
+Blingtron 3000,Goblins vs Gnomes,Minion,Neutral,Legendary,5,3,4,Battlecry,Mech,GVG_119
+Bolvar Fordragon,Goblins vs Gnomes,Minion,Paladin,Legendary,5,1,7,,,GVG_063
+Bomb Lobber,Goblins vs Gnomes,Minion,Neutral,Rare,5,3,3,Battlecry,,GVG_099
+Cobalt Guardian,Goblins vs Gnomes,Minion,Paladin,Rare,5,6,3,Divine Shield,Mech,GVG_062
+Cobra Shot,Goblins vs Gnomes,Spell,Hunter,Common,5,,,,,GVG_073
+Demonheart,Goblins vs Gnomes,Spell,Warlock,Epic,5,,,,,GVG_019
+Druid of the Fang,Goblins vs Gnomes,Minion,Druid,Common,5,4,4,Battlecry,,GVG_080
+Fel Reaver,Goblins vs Gnomes,Minion,Neutral,Epic,5,8,8,,Mech,GVG_016
+Floating Watcher,Goblins vs Gnomes,Minion,Warlock,Common,5,4,4,,Demon,GVG_100
+Hemet Nesingwary,Goblins vs Gnomes,Minion,Neutral,Legendary,5,6,3,Battlecry,,GVG_120
+Junkbot,Goblins vs Gnomes,Minion,Neutral,Epic,5,1,5,,Mech,GVG_106
+King of Beasts,Goblins vs Gnomes,Minion,Hunter,Rare,5,2,6,"Battlecry, Taunt",Beast,GVG_046
+Madder Bomber,Goblins vs Gnomes,Minion,Neutral,Rare,5,5,4,Battlecry,,GVG_090
+Mimiron's Head,Goblins vs Gnomes,Minion,Neutral,Legendary,5,4,5,,Mech,GVG_111
+Ogre Ninja,Goblins vs Gnomes,Minion,Rogue,Rare,5,6,6,Stealth,,GVG_088
+Quartermaster,Goblins vs Gnomes,Minion,Paladin,Epic,5,2,5,Battlecry,,GVG_060
+Salty Dog,Goblins vs Gnomes,Minion,Neutral,Common,5,7,4,,Pirate,GVG_070
+Siege Engine,Goblins vs Gnomes,Minion,Warrior,Rare,5,5,5,,Mech,GVG_086
+Upgraded Repair Bot,Goblins vs Gnomes,Minion,Priest,Rare,5,5,5,Battlecry,Mech,GVG_083
+Vol'jin,Goblins vs Gnomes,Minion,Priest,Legendary,5,6,2,Battlecry,,GVG_014
+Anima Golem,Goblins vs Gnomes,Minion,Warlock,Epic,6,9,9,,Mech,GVG_077
+Dark Wispers,Goblins vs Gnomes,Spell,Druid,Epic,6,,,Taunt,,GVG_041
+Gazlowe,Goblins vs Gnomes,Minion,Neutral,Legendary,6,3,6,,,GVG_117
+Iron Juggernaut,Goblins vs Gnomes,Minion,Warrior,Legendary,6,6,5,Battlecry,Mech,GVG_056
+Lightbomb,Goblins vs Gnomes,Spell,Priest,Epic,6,,,Affected by Spell Power,,GVG_008
+Mech-Bear-Cat,Goblins vs Gnomes,Minion,Druid,Rare,6,7,6,,Mech,GVG_034
+Mogor the Ogre,Goblins vs Gnomes,Minion,Neutral,Legendary,6,7,6,,,GVG_112
+Piloted Sky Golem,Goblins vs Gnomes,Minion,Neutral,Epic,6,6,4,Deathrattle,Mech,GVG_105
+Recycle,Goblins vs Gnomes,Spell,Druid,Rare,6,,,,,GVG_031
+Shieldmaiden,Goblins vs Gnomes,Minion,Warrior,Rare,6,5,5,Battlecry,,GVG_053
+Toshley,Goblins vs Gnomes,Minion,Neutral,Legendary,6,5,7,"Battlecry, Deathrattle",,GVG_115
+Trade Prince Gallywix,Goblins vs Gnomes,Minion,Rogue,Legendary,6,5,8,,,GVG_028
+Crush,Goblins vs Gnomes,Spell,Warrior,Epic,7,,,,,GVG_052
+Dr. Boom,Goblins vs Gnomes,Minion,Neutral,Legendary,7,7,7,Battlecry,,GVG_110
+Flame Leviathan,Goblins vs Gnomes,Minion,Mage,Legendary,7,7,7,,Mech,GVG_007
+Gahz'rilla,Goblins vs Gnomes,Minion,Hunter,Legendary,7,6,9,,Beast,GVG_049
+Malorne,Goblins vs Gnomes,Minion,Druid,Legendary,7,9,7,Deathrattle,Beast,GVG_035
+Neptulon,Goblins vs Gnomes,Minion,Shaman,Legendary,7,7,7,"Overload, Battlecry",,GVG_042
+Troggzor the Earthinator,Goblins vs Gnomes,Minion,Neutral,Legendary,7,6,6,,,GVG_118
+Foe Reaper 4000,Goblins vs Gnomes,Minion,Neutral,Legendary,8,6,9,,Mech,GVG_113
+Force-Tank MAX,Goblins vs Gnomes,Minion,Neutral,Common,8,7,7,Divine Shield,Mech,GVG_079
+Sneed's Old Shredder,Goblins vs Gnomes,Minion,Neutral,Legendary,8,5,7,Deathrattle,Mech,GVG_114
+Mal'Ganis,Goblins vs Gnomes,Minion,Warlock,Legendary,9,9,7,Aura,Demon,GVG_021
+Mekgineer Thermaplugg,Goblins vs Gnomes,Minion,Neutral,Legendary,9,9,7,,Mech,GVG_116
+Tree of Life,Goblins vs Gnomes,Spell,Druid,Epic,9,,,,,GVG_033
+Clockwork Giant,Goblins vs Gnomes,Minion,Neutral,Epic,12,8,8,,Mech,GVG_121
+Captain's Parrot,Reward,Minion,Neutral,Epic,2,1,1,Battlecry,Beast,NEW1_016
+Old Murk-Eye,Reward,Minion,Neutral,Legendary,4,2,4,Charge,Murloc,EX1_062
+Elite Tauren Chieftain,Promo,Minion,Neutral,Legendary,5,5,5,Battlecry,,PRO_001
+Gelbin Mekkatorque,Promo,Minion,Neutral,Legendary,6,6,6,Battlecry,,EX1_112
