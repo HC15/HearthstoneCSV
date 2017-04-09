@@ -146,14 +146,12 @@ Blessing of Wisdom,Classic,Spell,Paladin,Common,1,,,,,EX1_363
 Blood Imp,Classic,Minion,Warlock,Common,1,0,1,Stealth,Demon,CS2_059
 Bloodsail Corsair,Classic,Minion,Neutral,Rare,1,1,2,Battlecry,Pirate,NEW1_025
 Cold Blood,Classic,Spell,Rogue,Common,1,,,Combo,,CS2_073
-Conceal,Classic,Spell,Rogue,Common,1,,,Stealth,,EX1_128
 Dust Devil,Classic,Minion,Shaman,Common,1,3,1,"Overload, Windfury",Elemental,EX1_243
 Earth Shock,Classic,Spell,Shaman,Common,1,,,Silence,,EX1_245
 Eye for an Eye,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_132
 Flame Imp,Classic,Minion,Warlock,Common,1,3,2,Battlecry,Demon,EX1_319
 Forked Lightning,Classic,Spell,Shaman,Common,1,,,Overload,,EX1_251
 Hungry Crab,Classic,Minion,Neutral,Epic,1,1,2,Battlecry,Beast,NEW1_017
-Ice Lance,Classic,Spell,Mage,Common,1,,,Freeze,,CS2_031
 Inner Fire,Classic,Spell,Priest,Common,1,,,,,CS1_129
 Leper Gnome,Classic,Minion,Neutral,Common,1,1,1,Deathrattle,,EX1_029
 Lightning Bolt,Classic,Spell,Shaman,Common,1,,,Overload,,EX1_238
@@ -162,7 +160,6 @@ Mana Wyrm,Classic,Minion,Mage,Common,1,1,3,,,NEW1_012
 Murloc Tidecaller,Classic,Minion,Neutral,Rare,1,1,2,,Murloc,EX1_509
 Naturalize,Classic,Spell,Druid,Common,1,,,,,EX1_161
 Noble Sacrifice,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_130
-Power Overwhelming,Classic,Spell,Warlock,Common,1,,,,,EX1_316
 Redemption,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_136
 Repentance,Classic,Spell,Paladin,Common,1,,,Secret,,EX1_379
 Savagery,Classic,Spell,Druid,Rare,1,,,Affected by Spell Power,,EX1_578
@@ -305,7 +302,6 @@ Summoning Portal,Classic,Minion,Warlock,Common,4,0,4,Aura,,EX1_315
 Twilight Drake,Classic,Minion,Neutral,Rare,4,4,1,Battlecry,Dragon,EX1_043
 Violet Teacher,Classic,Minion,Neutral,Rare,4,3,5,,,NEW1_026
 Abomination,Classic,Minion,Neutral,Rare,5,4,4,"Taunt, Deathrattle",,EX1_097
-Azure Drake,Classic,Minion,Neutral,Rare,5,4,4,"Spell Damage, Battlecry",Dragon,EX1_284
 Bane of Doom,Classic,Spell,Warlock,Epic,5,,,,,EX1_320
 Big Game Hunter,Classic,Minion,Neutral,Epic,5,4,2,Battlecry,,EX1_005
 Blessed Champion,Classic,Spell,Paladin,Rare,5,,,,,EX1_355
@@ -344,7 +340,6 @@ Priestess of Elune,Classic,Minion,Neutral,Common,6,5,4,Battlecry,,EX1_583
 Savannah Highmane,Classic,Minion,Hunter,Rare,6,6,5,Deathrattle,Beast,EX1_534
 Siphon Soul,Classic,Spell,Warlock,Rare,6,,,,,EX1_309
 Sunwalker,Classic,Minion,Neutral,Rare,6,4,5,"Taunt, Divine Shield",,EX1_032
-Sylvanas Windrunner,Classic,Minion,Neutral,Legendary,6,5,5,Deathrattle,,EX1_016
 Temple Enforcer,Classic,Minion,Priest,Common,6,6,6,Battlecry,,EX1_623
 The Beast,Classic,Minion,Neutral,Legendary,6,9,7,Deathrattle,Beast,EX1_577
 The Black Knight,Classic,Minion,Neutral,Legendary,6,4,5,"Taunt, Battlecry",,EX1_002
@@ -361,7 +356,6 @@ Al'Akir the Windlord,Classic,Minion,Shaman,Legendary,8,3,5,"Charge, Divine Shiel
 Grommash Hellscream,Classic,Minion,Warrior,Legendary,8,4,9,"Charge, Enrage",,EX1_414
 Gruul,Classic,Minion,Neutral,Legendary,8,7,7,,,NEW1_038
 Lay on Hands,Classic,Spell,Paladin,Epic,8,,,,,EX1_354
-Ragnaros the Firelord,Classic,Minion,Neutral,Legendary,8,8,8,,Elemental,EX1_298
 Tirion Fordring,Classic,Minion,Paladin,Legendary,8,6,6,"Divine Shield, Taunt, Deathrattle",,EX1_383
 Twisting Nether,Classic,Spell,Warlock,Epic,8,,,,,EX1_312
 Alexstrasza,Classic,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon,EX1_561
@@ -690,29 +684,29 @@ Mayor Noggenfogger,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,9,5,4,,,CF
 Kun the Forgotten King,Mean Streets of Gadgetzan,Minion,Druid,Legendary,10,7,7,,,CFM_308
 Adaptation,Journey to Un'Goro,Spell,Paladin,Common,1,,,Adapt,,UNG_961
 Air Elemental,Journey to Un'Goro,Minion,Shaman,Common,1,2,1,,Elemental,UNG_019
-Awaken the Makers,Journey to Un'Goro,Spell,Priest,Legendary,1,,,Deathrattle,,UNG_940
+Awaken the Makers,Journey to Un'Goro,Spell,Priest,Legendary,1,,,"Quest, Deathrattle",,UNG_940
 Binding Heal,Journey to Un'Goro,Spell,Priest,Common,1,,,,,UNG_030
 Crystalline Oracle,Journey to Un'Goro,Minion,Priest,Rare,1,1,1,Deathrattle,Elemental,UNG_032
 Earthen Scales,Journey to Un'Goro,Spell,Druid,Rare,1,,,,,UNG_108
 Emerald Hive Queen,Journey to Un'Goro,Minion,Neutral,Epic,1,2,3,Aura,Beast,UNG_085
 Emerald Reaver,Journey to Un'Goro,Minion,Neutral,Common,1,2,1,Battlecry,Beast,UNG_803
 Fire Fly,Journey to Un'Goro,Minion,Neutral,Common,1,1,2,Battlecry,Elemental,UNG_809
-Fire Plume's Heart,Journey to Un'Goro,Spell,Warrior,Legendary,1,,,Taunt,,UNG_934
+Fire Plume's Heart,Journey to Un'Goro,Spell,Warrior,Legendary,1,,,"Quest, Taunt",,UNG_934
 Glacial Shard,Journey to Un'Goro,Minion,Neutral,Common,1,2,1,"Freeze, Battlecry",Elemental,UNG_205
 Hallucination,Journey to Un'Goro,Spell,Rogue,Common,1,,,Discover,,UNG_856
 Iron Hide,Journey to Un'Goro,Spell,Warrior,Common,1,,,,,UNG_923
 Jeweled Macaw,Journey to Un'Goro,Minion,Hunter,Common,1,1,1,Battlecry,Beast,UNG_912
-Jungle Giants,Journey to Un'Goro,Spell,Druid,Legendary,1,,,,,UNG_116
-Lakkari Sacrifice,Journey to Un'Goro,Spell,Warlock,Legendary,1,,,,,UNG_829
+Jungle Giants,Journey to Un'Goro,Spell,Druid,Legendary,1,,,Quest,,UNG_116
+Lakkari Sacrifice,Journey to Un'Goro,Spell,Warlock,Legendary,1,,,Quest,,UNG_829
 Lost in the Jungle,Journey to Un'Goro,Spell,Paladin,Common,1,,,,,UNG_960
 Molten Blade,Journey to Un'Goro,Weapon,Warrior,Rare,1,1,1,,,UNG_929
-Open the Waygate,Journey to Un'Goro,Spell,Mage,Legendary,1,,,,,UNG_028
+Open the Waygate,Journey to Un'Goro,Spell,Mage,Legendary,1,,,Quest,,UNG_028
 Raptor Hatchling,Journey to Un'Goro,Minion,Hunter,Rare,1,2,1,Deathrattle,Beast,UNG_914
 Stampede,Journey to Un'Goro,Spell,Hunter,Epic,1,,,,,UNG_916
-The Caverns Below,Journey to Un'Goro,Spell,Rogue,Legendary,1,,,,,UNG_067
-The Last Kaleidosaur,Journey to Un'Goro,Spell,Paladin,Legendary,1,,,,,UNG_954
-The Marsh Queen,Journey to Un'Goro,Spell,Hunter,Legendary,1,,,,,UNG_920
-Unite the Murlocs,Journey to Un'Goro,Spell,Shaman,Legendary,1,,,,,UNG_942
+The Caverns Below,Journey to Un'Goro,Spell,Rogue,Legendary,1,,,Quest,,UNG_067
+The Last Kaleidosaur,Journey to Un'Goro,Spell,Paladin,Legendary,1,,,Quest,,UNG_954
+The Marsh Queen,Journey to Un'Goro,Spell,Hunter,Legendary,1,,,Quest,,UNG_920
+Unite the Murlocs,Journey to Un'Goro,Spell,Shaman,Legendary,1,,,Quest,,UNG_942
 Arcanologist,Journey to Un'Goro,Minion,Mage,Common,2,2,3,"Secret, Battlecry",,UNG_020
 Biteweed,Journey to Un'Goro,Minion,Rogue,Epic,2,1,1,Combo,,UNG_063
 Bloodbloom,Journey to Un'Goro,Spell,Warlock,Epic,2,,,,,UNG_832
@@ -823,10 +817,16 @@ King Mosh,Journey to Un'Goro,Minion,Warrior,Legendary,9,9,7,Battlecry,Beast,UNG_
 Ozruk,Journey to Un'Goro,Minion,Neutral,Legendary,9,5,5,"Battlecry, Taunt",Elemental,UNG_907
 Tyrantus,Journey to Un'Goro,Minion,Druid,Legendary,10,12,12,,Beast,UNG_852
 Ultrasaur,Journey to Un'Goro,Minion,Neutral,Common,10,7,14,,Beast,UNG_806
+Conceal,Hall of Fame,Spell,Rogue,Common,1,,,Stealth,,EX1_128
+Ice Lance,Hall of Fame,Spell,Mage,Common,1,,,Freeze,,CS2_031
+Power Overwhelming,Hall of Fame,Spell,Warlock,Common,1,,,,,EX1_316
 Captain's Parrot,Hall of Fame,Minion,Neutral,Epic,2,1,1,Battlecry,Beast,NEW1_016
 Old Murk-Eye,Hall of Fame,Minion,Neutral,Legendary,4,2,4,Charge,Murloc,EX1_062
+Azure Drake,Hall of Fame,Minion,Neutral,Rare,5,4,4,"Spell Damage, Battlecry",Dragon,EX1_284
 Elite Tauren Chieftain,Hall of Fame,Minion,Neutral,Legendary,5,5,5,Battlecry,,PRO_001
 Gelbin Mekkatorque,Hall of Fame,Minion,Neutral,Legendary,6,6,6,Battlecry,,EX1_112
+Sylvanas Windrunner,Hall of Fame,Minion,Neutral,Legendary,6,5,5,Deathrattle,,EX1_016
+Ragnaros the Firelord,Hall of Fame,Minion,Neutral,Legendary,8,8,8,,Elemental,EX1_298
 Avenge,Naxxramas,Spell,Paladin,Common,1,,,Secret,,FP1_020
 Undertaker,Naxxramas,Minion,Neutral,Common,1,1,2,Deathrattle,,FP1_028
 Webspinner,Naxxramas,Minion,Hunter,Common,1,1,1,Deathrattle,Beast,FP1_011
