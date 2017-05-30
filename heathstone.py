@@ -2,10 +2,10 @@ import csv
 import requests
 
 headers = {"X-Mashape-Key": "NcRwezHwkamshpfs6yqjQfFhtDmip19NUG9jsnqWHT3KfRcM0g"}
-cards = requests.get("https://omgvamp-hearthstone-v1.p.mashape.com/cards" + "?collectible=1", headers=headers)
+cards = requests.get("https://omgvamp-hearthstone-v1.p.mashape.com/cards" + "?collectible=0", headers=headers)
 cardInfo = cards.json()
 
-standardSet = ["Basic", "Classic", "Whispers of the Old Gods", "Karazhan",
+standardSet = ["Basic", "Classic", "Whispers of the Old Gods", "One Night in Karazhan",
                "Mean Streets of Gadgetzan", "Journey to Un'Goro"]
 wildSet = ["Hall of Fame", "Naxxramas", "Goblins vs Gnomes",
            "Blackrock Mountain", "The Grand Tournament", "The League of Explorers"]
