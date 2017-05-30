@@ -1,2 +1,2 @@
 # HearthstoneCSV
-Generates a CSV file of all collectible Hearthstone cards with different pieces of information
+Generates a CSV file of all Hearthstone cards with information about each card
