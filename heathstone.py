@@ -69,3 +69,9 @@ with open('hearthstone.csv', 'w', newline = '') as csvfile:
                                  "Rarity": card.get("rarity"), "Mana Cost": card.get("cost"),
                                  "Attack": str(card.get("attack")), "Health": str(card.get("durability")),
                                  "Card Mechanics": cardMechanicsStr, "Card ID": card.get("cardId")})
+            if card["type"] == "Hero":
+                writer.writerow({"Card Name": card.get("name"), "Card Set": card.get("cardSet"),
+                                 "Card Type": card.get("type"), "Class": card.get("playerClass"),
+                                 "Rarity": card.get("rarity"), "Mana Cost": card.get("cost"),
+                                 "Health": str(card.get("health")),
+                                 "Card Mechanics": cardMechanicsStr, "Card ID": card.get("cardId")})

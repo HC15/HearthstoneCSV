@@ -1,5 +1,14 @@
 Card Name,Card Set,Card Type,Class,Rarity,Mana Cost,Attack,Health,Card Mechanics,Race,Card ID
+Anduin Wrynn,Basic,Hero,Priest,Free,,,30,,,HERO_09
 Frog,Basic,Minion,Neutral,Common,,0,1,Taunt,Beast,hexfrog
+Garrosh Hellscream,Basic,Hero,Warrior,Free,,,30,,,HERO_01
+Gul'dan,Basic,Hero,Warlock,Free,,,30,,,HERO_07
+Jaina Proudmoore,Basic,Hero,Mage,Free,,,30,,,HERO_08
+Malfurion Stormrage,Basic,Hero,Druid,Free,,,30,,,HERO_06
+Rexxar,Basic,Hero,Hunter,Free,,,30,,,HERO_05
+Thrall,Basic,Hero,Shaman,Free,,,30,,,HERO_02
+Uther Lightbringer,Basic,Hero,Paladin,Free,,,30,,,HERO_04
+Valeera Sanguinar,Basic,Hero,Rogue,Free,,,30,,,HERO_03
 Ancestral Healing,Basic,Spell,Shaman,Free,0,,,Taunt,,CS2_041
 Avatar of the Coin,Basic,Minion,Neutral,Free,0,1,1,,,GAME_002
 Backstab,Basic,Spell,Rogue,Free,0,,,,,CS2_072
@@ -162,6 +171,7 @@ Dispel,Classic,Spell,Druid,,0,,,Silence,,EX1_166b
 Dream,Classic,Spell,Dream,,0,,,,,DREAM_04
 Inner Rage,Classic,Spell,Warrior,Common,0,,,,,EX1_607
 Leader of the Pack,Classic,Spell,Druid,,0,,,,,EX1_160b
+Lord Jaraxxus,Classic,Hero,Warlock,Legendary,0,,15,,,EX1_323h
 Mark of Nature,Classic,Spell,Druid,,0,,,,,EX1_155a
 Mark of Nature,Classic,Spell,Druid,,0,,,,,EX1_155b
 Moonfire,Classic,Spell,Druid,,0,,,,,EX1_166a
@@ -614,6 +624,41 @@ Faceless Behemoth,Whispers of the Old Gods,Minion,Neutral,Common,10,10,10,,,OG_1
 "N'Zoth, the Corruptor",Whispers of the Old Gods,Minion,Neutral,Legendary,10,5,7,"Battlecry, Deathrattle",,OG_133
 "Y'Shaarj, Rage Unbound",Whispers of the Old Gods,Minion,Neutral,Legendary,10,10,10,,,OG_042
 "Yogg-Saron, Hope's End",Whispers of the Old Gods,Minion,Neutral,Legendary,10,7,5,Battlecry,,OG_134
+Big Bad Wolf,One Night in Karazhan,Hero,Neutral,Common,,,20,,,KARA_05_01hheroic
+Big Bad Wolf,One Night in Karazhan,Hero,Neutral,Common,,,20,,,KARA_05_01h
+Black King,One Night in Karazhan,Hero,Neutral,,,,20,,,KAR_a10_Boss2H
+Black King,One Night in Karazhan,Hero,Neutral,,,,20,,,KAR_a10_Boss2
+Curator,One Night in Karazhan,Hero,Neutral,,,,40,,,KARA_07_01heroic
+Curator,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_07_01
+Curator,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_09_02
+Julianne,One Night in Karazhan,Hero,Neutral,,,,15,,,KARA_06_02heroic
+Julianne,One Night in Karazhan,Hero,Neutral,,,,15,,,KARA_06_02
+Kindly Grandmother,One Night in Karazhan,Hero,Neutral,Common,,,20,,,KARA_05_01b
+Magic Mirror,One Night in Karazhan,Hero,Neutral,,,,30,,,KAR_A01_01H
+Magic Mirror,One Night in Karazhan,Hero,Neutral,,,,30,,,KAR_A01_01
+Medivh,One Night in Karazhan,Hero,Mage,,,,30,,,KARA_00_03
+Medivh,One Night in Karazhan,Hero,Mage,,,,30,,,KARA_00_03H
+Medivh,One Night in Karazhan,Hero,Neutral,,,,None,,,KARA_00_03c
+Nazra Wildaxe,One Night in Karazhan,Hero,Warrior,,,,15,,,KARA_13_01
+Nazra Wildaxe,One Night in Karazhan,Hero,Warrior,,,,15,,,KARA_13_01H
+Netherspite,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_08_01H
+Netherspite,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_08_01
+Nightbane,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_11_01heroic
+Nightbane,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_11_01
+Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_00_01
+Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_13_06
+Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_13_06H
+Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,60,,,KARA_00_01H
+Shade of Aran,One Night in Karazhan,Hero,Mage,,,,30,,,KARA_12_01H
+Shade of Aran,One Night in Karazhan,Hero,Mage,,,,30,,,KARA_12_01
+Silverware Golem,One Night in Karazhan,Hero,Neutral,,,,30,,,KAR_A02_12
+Silverware Golem,One Night in Karazhan,Hero,Neutral,,,,30,,,KAR_A02_12H
+Terestian Illhoof,One Night in Karazhan,Hero,Neutral,,,,40,,,KARA_09_01heroic
+Terestian Illhoof,One Night in Karazhan,Hero,Neutral,,,,30,,,KARA_09_01
+The Crone,One Night in Karazhan,Hero,Neutral,,,,50,,,KARA_04_01heroic
+The Crone,One Night in Karazhan,Hero,Neutral,Common,,,30,,,KARA_04_01h
+White King,One Night in Karazhan,Hero,Neutral,,,,20,,,KAR_a10_Boss1H
+White King,One Night in Karazhan,Hero,Neutral,,,,20,,,KAR_a10_Boss1
 Evocation,One Night in Karazhan,Spell,Mage,,0,,,,,KARA_00_11
 Arcane Anomaly,One Night in Karazhan,Minion,Neutral,Common,1,2,1,,Elemental,KAR_036
 Astral Portal,One Night in Karazhan,Spell,Mage,,1,,,,,KARA_00_07
@@ -1148,6 +1193,17 @@ Tyrantus,Journey to Un'Goro,Minion,Druid,Legendary,10,12,12,,Beast,UNG_852
 Ultrasaur,Journey to Un'Goro,Minion,Neutral,Common,10,7,14,,Beast,UNG_806
 Nether Portal,Journey to Un'Goro,Minion,Warlock,Legendary,11,None,1,,,UNG_829t2
 "Sherazin, Seed",Journey to Un'Goro,Minion,Rogue,,11,0,1,,,UNG_065t
+Blood-Queen Lana'thel,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA05_001
+Deathbringer Saurfang,Knights of the Frozen Throne,Hero,Neutral,,,,20,,,ICCA09_002
+Lady Deathwhisper,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA10_009
+Lord Marrowgar,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA06_001
+Professor Putricide,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA07_001
+Professor Putricide,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA07_001h2
+Professor Putricide,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA07_001h3
+Secrets of the Citadel,Knights of the Frozen Throne,Hero,Neutral,,,,100,,,ICCA03_001
+Sindragosa,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA04_001
+The Lich King,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA01_001
+The Lich King,Knights of the Frozen Throne,Hero,Neutral,,,,30,,,ICCA08_001
 Decay,Knights of the Frozen Throne,Spell,Druid,,0,,,,,ICC_047b
 Growth,Knights of the Frozen Throne,Spell,Druid,,0,,,,,ICC_047a
 Scarab Form,Knights of the Frozen Throne,Spell,Druid,,0,,,,,ICC_051b
@@ -1158,6 +1214,7 @@ Snowflipper Penguin,Knights of the Frozen Throne,Minion,Neutral,Common,0,1,1,,Be
 Spider Fangs,Knights of the Frozen Throne,Spell,Druid,,0,,,,,ICC_832pb
 Spider Form,Knights of the Frozen Throne,Spell,Druid,,0,,,,,ICC_051a
 Spider Plague,Knights of the Frozen Throne,Spell,Druid,,0,,,,,ICC_832b
+Tirion Fordring,Knights of the Frozen Throne,Hero,Paladin,,0,,30,,,ICCA01_013
 Zombeast,Knights of the Frozen Throne,Minion,Hunter,,0,1,1,,Beast,ICC_828t
 Acherus Veteran,Knights of the Frozen Throne,Minion,Neutral,Common,1,2,1,Battlecry,,ICC_092
 Animated Berserker,Knights of the Frozen Throne,Minion,Warrior,Common,1,1,3,,,ICC_238
@@ -1311,6 +1368,7 @@ Ghoul Infestor,Knights of the Frozen Throne,Minion,Druid,,5,5,5,,,ICC_085t
 Skelemancer,Knights of the Frozen Throne,Minion,Neutral,Common,5,2,2,Deathrattle,,ICC_019
 Skeletal Enforcer,Knights of the Frozen Throne,Minion,Neutral,,5,5,5,,,ICC_025t
 Sunborne Val'kyr,Knights of the Frozen Throne,Minion,Neutral,Common,5,5,4,Battlecry,,ICC_028
+"Thrall, Deathseer",Knights of the Frozen Throne,Hero,Shaman,Legendary,5,,30,Battlecry,,ICC_481
 Tomb Lurker,Knights of the Frozen Throne,Minion,Neutral,Epic,5,5,3,"Battlecry, Deathrattle",,ICC_098
 Valithria Dreamwalker,Knights of the Frozen Throne,Minion,Neutral,,5,30,5,,Dragon,ICCA10_001
 Venomancer,Knights of the Frozen Throne,Minion,Neutral,Common,5,2,5,Poisonous,,ICC_032
@@ -1321,6 +1379,7 @@ Army of the Dead,Knights of the Frozen Throne,Spell,Death Knight,,6,,,,,ICC_314t
 Blackguard,Knights of the Frozen Throne,Minion,Paladin,Epic,6,3,9,,,ICC_245
 Bone Drake,Knights of the Frozen Throne,Minion,Neutral,Rare,6,6,5,Deathrattle,Dragon,ICC_027
 "Bryn'troll, the Bone Arbiter",Knights of the Frozen Throne,Weapon,Neutral,,6,3,6,Windfury,,ICCA06_003
+Deathstalker Rexxar,Knights of the Frozen Throne,Hero,Hunter,Legendary,6,,30,Battlecry,,ICC_828
 Embrace Darkness,Knights of the Frozen Throne,Spell,Priest,Epic,6,,,,,ICC_849
 Furnacefire Colossus,Knights of the Frozen Throne,Minion,Neutral,Epic,6,6,6,Battlecry,,ICC_096
 Moorabi,Knights of the Frozen Throne,Minion,Shaman,Legendary,6,4,4,Freeze,,ICC_289
@@ -1337,16 +1396,23 @@ Archbishop Benedictus,Knights of the Frozen Throne,Minion,Priest,Legendary,7,4,6
 Bonemare,Knights of the Frozen Throne,Minion,Neutral,Common,7,5,5,"Battlecry, Taunt",,ICC_705
 Frostmourne,Knights of the Frozen Throne,Weapon,Death Knight,,7,5,3,Deathrattle,,ICC_314t1
 Frostmourne,Knights of the Frozen Throne,Weapon,Death Knight,,7,5,3,"Battlecry, AIMustPlay",,ICCA08_020
+Malfurion the Pestilent,Knights of the Frozen Throne,Hero,Druid,Legendary,7,,30,"Poisonous, Taunt",,ICC_832
 Glacial Mysteries,Knights of the Frozen Throne,Spell,Mage,Epic,8,,,Secret,,ICC_086
 Grave Vengeance,Knights of the Frozen Throne,Weapon,Paladin,,8,5,3,Lifesteal,,ICC_829t
 Rotface,Knights of the Frozen Throne,Minion,Warrior,Legendary,8,4,6,,,ICC_405
+Scourgelord Garrosh,Knights of the Frozen Throne,Hero,Warrior,Legendary,8,,30,Battlecry,,ICC_834
 Shadowmourne,Knights of the Frozen Throne,Weapon,Warrior,,8,4,3,,,ICC_834w
+Shadowreaper Anduin,Knights of the Frozen Throne,Hero,Priest,Legendary,8,,30,Battlecry,,ICC_830
 Sindragosa,Knights of the Frozen Throne,Minion,Mage,Legendary,8,8,8,Battlecry,Dragon,ICC_838
 Skeletal Flayer,Knights of the Frozen Throne,Minion,Neutral,,8,8,8,,,ICC_019t
 The Lich King,Knights of the Frozen Throne,Minion,Neutral,Legendary,8,8,8,Taunt,,ICC_314
+Frost Lich Jaina,Knights of the Frozen Throne,Hero,Mage,Legendary,9,,30,"Battlecry, Lifesteal",,ICC_833
 Hadronox,Knights of the Frozen Throne,Minion,Druid,Legendary,9,3,7,"Deathrattle, Taunt",Beast,ICC_835
 Obsidian Statue,Knights of the Frozen Throne,Minion,Priest,Epic,9,4,8,"Taunt, Lifesteal, Deathrattle",,ICC_214
+Uther of the Ebon Blade,Knights of the Frozen Throne,Hero,Paladin,Legendary,9,,30,"Battlecry, Lifesteal",,ICC_829
+Valeera the Hollow,Knights of the Frozen Throne,Hero,Rogue,Legendary,9,,30,"Battlecry, Stealth",,ICC_827
 Army of the Dead,Knights of the Frozen Throne,Spell,Death Knight,,10,,,,,ICCA01_004
+Bloodreaver Gul'dan,Knights of the Frozen Throne,Hero,Warlock,Legendary,10,,30,Battlecry,,ICC_831
 Ultimate Infestation,Knights of the Frozen Throne,Spell,Druid,Epic,10,,,,,ICC_085
 Snowfury Giant,Knights of the Frozen Throne,Minion,Shaman,Epic,11,8,8,Overload,Elemental,ICC_090
 Chicken,Hall of Fame,Minion,Neutral,,0,1,1,,Beast,Mekka4t
@@ -1368,6 +1434,36 @@ Elite Tauren Chieftain,Hall of Fame,Minion,Neutral,Legendary,5,5,5,Battlecry,,PR
 Gelbin Mekkatorque,Hall of Fame,Minion,Neutral,Legendary,6,6,6,Battlecry,,EX1_112
 Sylvanas Windrunner,Hall of Fame,Minion,Neutral,Legendary,6,5,5,Deathrattle,,EX1_016
 Ragnaros the Firelord,Hall of Fame,Minion,Neutral,Legendary,8,8,8,,Elemental,EX1_298
+Anub'Rekhan,Naxxramas,Hero,Neutral,,,,30,,,NAX1_01
+Anub'Rekhan,Naxxramas,Hero,Neutral,,,,45,,,NAX1h_01
+Baron Rivendare,Naxxramas,Hero,Neutral,,,,7,,,NAX9_01
+Baron Rivendare,Naxxramas,Hero,Neutral,,,,14,,,NAX9_01H
+Gluth,Naxxramas,Hero,Neutral,,,,30,,,NAX12_01
+Gluth,Naxxramas,Hero,Neutral,,,,45,,,NAX12_01H
+Gothik the Harvester,Naxxramas,Hero,Neutral,,,,30,,,NAX8_01
+Gothik the Harvester,Naxxramas,Hero,Neutral,,,,45,,,NAX8_01H
+Grand Widow Faerlina,Naxxramas,Hero,Neutral,,,,30,,,NAX2_01
+Grand Widow Faerlina,Naxxramas,Hero,Neutral,,,,45,,,NAX2_01H
+Grobbulus,Naxxramas,Hero,Neutral,,,,30,,,NAX11_01
+Grobbulus,Naxxramas,Hero,Neutral,,,,45,,,NAX11_01H
+Heigan the Unclean,Naxxramas,Hero,Warlock,,,,30,,,NAX5_01
+Heigan the Unclean,Naxxramas,Hero,Warlock,,,,45,,,NAX5_01H
+Instructor Razuvious,Naxxramas,Hero,Neutral,,,,40,,,NAX7_01
+Instructor Razuvious,Naxxramas,Hero,Neutral,,,,55,,,NAX7_01H
+Kel'Thuzad,Naxxramas,Hero,Neutral,,,,30,,,NAX15_01
+Kel'Thuzad,Naxxramas,Hero,Neutral,,,,45,,,NAX15_01H
+Loatheb,Naxxramas,Hero,Neutral,,,,75,,,NAX6_01
+Loatheb,Naxxramas,Hero,Neutral,,,,99,,,NAX6_01H
+Maexxna,Naxxramas,Hero,Neutral,,,,30,,,NAX3_01
+Maexxna,Naxxramas,Hero,Neutral,,,,45,,,NAX3_01H
+Noth the Plaguebringer,Naxxramas,Hero,Mage,,,,30,,,NAX4_01
+Noth the Plaguebringer,Naxxramas,Hero,Mage,,,,45,,,NAX4_01H
+Patchwerk,Naxxramas,Hero,Neutral,,,,30,AIMustPlay,,NAX10_01
+Patchwerk,Naxxramas,Hero,Neutral,,,,45,AIMustPlay,,NAX10_01H
+Sapphiron,Naxxramas,Hero,Neutral,,,,30,,,NAX14_01
+Sapphiron,Naxxramas,Hero,Neutral,,,,45,,,NAX14_01H
+Thaddius,Naxxramas,Hero,Neutral,,,,30,,,NAX13_01
+Thaddius,Naxxramas,Hero,Neutral,,,,45,,,NAX13_01H
 Mr. Bigglesworth,Naxxramas,Minion,Neutral,Legendary,0,1,1,InvisibleDeathrattle,Beast,NAX15_05
 Spore,Naxxramas,Minion,Neutral,,0,0,1,Deathrattle,,NAX6_03t
 Avenge,Naxxramas,Spell,Paladin,Common,1,,,Secret,,FP1_020
@@ -1596,6 +1692,48 @@ Mal'Ganis,Goblins vs Gnomes,Minion,Warlock,Legendary,9,9,7,Aura,Demon,GVG_021
 Mekgineer Thermaplugg,Goblins vs Gnomes,Minion,Neutral,Legendary,9,9,7,,Mech,GVG_116
 Tree of Life,Goblins vs Gnomes,Spell,Druid,Epic,9,,,,,GVG_033
 Clockwork Giant,Goblins vs Gnomes,Minion,Neutral,Epic,12,8,8,,Mech,GVG_121
+Atramedes,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA16_1
+Atramedes,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA16_1H
+Baron Geddon,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA05_1
+Baron Geddon,Blackrock Mountain,Hero,Neutral,,,,50,,,BRMA05_1H
+Chromaggus,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA12_1
+Chromaggus,Blackrock Mountain,Hero,Neutral,,,,60,,,BRMA12_1H
+Chromatic Dragonkin,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA12_9
+Coren Direbrew,Blackrock Mountain,Hero,Neutral,,,,30,AIMustPlay,,BRMA01_1
+Coren Direbrew,Blackrock Mountain,Hero,Neutral,,,,30,AIMustPlay,,BRMA01_1H
+Emperor Thaurissan,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA03_1
+Emperor Thaurissan,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA03_1H
+Garr,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA04_1
+Garr,Blackrock Mountain,Hero,Neutral,,,,45,,,BRMA04_1H
+General Drakkisath,Blackrock Mountain,Hero,Neutral,,,,50,,,BRMA08_1
+General Drakkisath,Blackrock Mountain,Hero,Neutral,,,,50,,,BRMA08_1H
+High Justice Grimstone,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA02_1
+High Justice Grimstone,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA02_1H
+Highlord Omokk,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA07_1
+Highlord Omokk,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA07_1H
+Lord Victor Nefarius,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA13_1
+Lord Victor Nefarius,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA13_1H
+Majordomo Executus,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA06_1
+Majordomo Executus,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA06_1H
+Maloriak,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA15_1
+Maloriak,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA15_1H
+Nefarian,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA17_2H
+Nefarian,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA13_3
+Nefarian,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA17_2
+Nefarian,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA13_3H
+Omnotron Defense System,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA14_1
+Omnotron Defense System,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA14_1H
+Onyxia,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA17_3H
+Onyxia,Blackrock Mountain,Hero,Neutral,,,,15,,,BRMA17_3
+Ragnaros the Firelord,Blackrock Mountain,Hero,Neutral,,,,8,,,BRM_027h
+Ragnaros the Firelord,Blackrock Mountain,Hero,Neutral,,,,8,,,BRMA06_3
+Ragnaros the Firelord,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA06_3H
+Razorgore the Untamed,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA10_1
+Razorgore the Untamed,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA10_1H
+Rend Blackhand,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA09_1H
+Rend Blackhand,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA09_1
+Vaelastrasz the Corrupt,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA11_1
+Vaelastrasz the Corrupt,Blackrock Mountain,Hero,Neutral,,,,30,,,BRMA11_1H
 Arcanotron,Blackrock Mountain,Minion,Neutral,Legendary,0,2,2,Spell Damage,Mech,BRMA14_3
 Burning Adrenaline,Blackrock Mountain,Spell,Neutral,,0,,,,,BRMA11_3
 "DIE, INSECT!",Blackrock Mountain,Spell,Neutral,,0,,,Affected by Spell Power,,BRMA13_8
@@ -1852,8 +1990,35 @@ Icehowl,The Grand Tournament,Minion,Neutral,Legendary,9,10,10,Charge,,AT_125
 North Sea Kraken,The Grand Tournament,Minion,Neutral,Common,9,9,7,Battlecry,,AT_103
 Frost Giant,The Grand Tournament,Minion,Neutral,Epic,10,8,8,,,AT_120
 Varian Wrynn,The Grand Tournament,Minion,Warrior,Legendary,10,7,7,Battlecry,,AT_072
+Archaedas,The League of Explorers,Hero,Neutral,,,,30,,,LOEA08_01h
+Archaedas,The League of Explorers,Hero,Neutral,,,,30,,,LOEA08_01
+Chieftain Scarvash,The League of Explorers,Hero,Neutral,,,,30,,,LOEA05_01h
+Chieftain Scarvash,The League of Explorers,Hero,Neutral,,,,30,,,LOEA05_01
+Giantfin,The League of Explorers,Hero,Neutral,,,,30,,,LOEA10_1
+Giantfin,The League of Explorers,Hero,Neutral,,,,30,,,LOEA10_1H
+Lady Naz'jar,The League of Explorers,Hero,Neutral,,,,30,,,LOEA12_1H
+Lady Naz'jar,The League of Explorers,Hero,Neutral,,,,30,,,LOEA12_1
 Leokk,The League of Explorers,Minion,Hunter,,,2,4,,Beast,LOEA02_10a
+Lord Slitherspear,The League of Explorers,Hero,Neutral,,,,30,,,LOEA09_1H
+Lord Slitherspear,The League of Explorers,Hero,Neutral,,,,30,,,LOEA09_1
+Mine Cart,The League of Explorers,Hero,Neutral,,,,30,,,LOEA07_01
+Mine Shaft,The League of Explorers,Hero,Neutral,,,,80,,,LOEA07_02
+Mine Shaft,The League of Explorers,Hero,Neutral,,,,80,,,LOEA07_02h
 Misha,The League of Explorers,Minion,Hunter,,,4,4,,Beast,LOEA02_10c
+Rafaam,The League of Explorers,Hero,Neutral,,,,30,,,LOEA15_1
+Rafaam,The League of Explorers,Hero,Neutral,,,,30,,,LOEA16_1
+Rafaam,The League of Explorers,Hero,Neutral,,,,30,,,LOEA15_1H
+Rafaam,The League of Explorers,Hero,Neutral,,,,30,,,LOEA16_1H
+Skelesaurus Hex,The League of Explorers,Hero,Neutral,,,,30,,,LOEA13_1
+Skelesaurus Hex,The League of Explorers,Hero,Neutral,,,,30,,,LOEA13_1h
+Sun Raider Phaerix,The League of Explorers,Hero,Neutral,,,,30,,,LOEA01_01h
+Sun Raider Phaerix,The League of Explorers,Hero,Neutral,,,,30,,,LOEA01_01
+Temple Escape,The League of Explorers,Hero,Neutral,,,,100,,,LOEA04_01h
+Temple Escape,The League of Explorers,Hero,Neutral,,,,100,,,LOEA04_01
+The Steel Sentinel,The League of Explorers,Hero,Neutral,,,,30,,,LOEA14_1
+The Steel Sentinel,The League of Explorers,Hero,Neutral,,,,30,,,LOEA14_1H
+Zinaar,The League of Explorers,Hero,Neutral,,,,30,,,LOEA02_01h
+Zinaar,The League of Explorers,Hero,Neutral,,,,30,,,LOEA02_01
 A Glowing Pool,The League of Explorers,Spell,Neutral,,0,,,,,LOEA04_28
 Ancient Curse,The League of Explorers,Spell,Neutral,,0,,,Immune to Spell Power,,LOE_110t
 Benediction Splinter,The League of Explorers,Spell,Neutral,,0,,,,,LOEA16_7
