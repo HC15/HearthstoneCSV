@@ -6,7 +6,7 @@ cards = requests.get("https://omgvamp-hearthstone-v1.p.mashape.com/cards" + "?co
 cardInfo = cards.json()
 
 standardSet = ["Basic", "Classic", "Whispers of the Old Gods", "One Night in Karazhan",
-               "Mean Streets of Gadgetzan", "Journey to Un'Goro"]
+               "Mean Streets of Gadgetzan", "Journey to Un'Goro", "Knights of the Frozen Throne"]
 wildSet = ["Hall of Fame", "Naxxramas", "Goblins vs Gnomes",
            "Blackrock Mountain", "The Grand Tournament", "The League of Explorers"]
 allSet = standardSet + wildSet
