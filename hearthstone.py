@@ -1,17 +1,18 @@
 import csv
 import requests
 
-headers = {"X-Mashape-Key": "NcRwezHwkamshpfs6yqjQfFhtDmip19NUG9jsnqWHT3KfRcM0g"}
+headers = {"X-Mashape-Key": "INSERT hearthstoneapi.com KEY HERE"}
 cards = requests.get("https://omgvamp-hearthstone-v1.p.mashape.com/cards", headers=headers)
 cards_info = cards.json()
 
 standard_set = ["Basic", "Classic",
-                "Journey to Un'Goro", "Knights of the Frozen Throne", "Kobolds & Catacombs",
-                "The Witchwood", "The Boomsday Project", "Rastakhan's Rumble"]
+                "The Witchwood", "The Boomsday Project", "Rastakhan's Rumble",
+                "Rise of Shadows"]
 wild_set = ["Hall of Fame",
             "Naxxramas", "Goblins vs Gnomes",
             "Blackrock Mountain", "The Grand Tournament", "The League of Explorers",
-            "Whispers of the Old Gods", "One Night in Karazhan", "Mean Streets of Gadgetzan"]
+            "Whispers of the Old Gods", "One Night in Karazhan", "Mean Streets of Gadgetzan",
+            "Journey to Un'Goro", "Knights of the Frozen Throne", "Kobolds & Catacombs"]
 all_set = standard_set + wild_set
 
 with open('hearthstone.csv', 'w', newline='') as csv_file:
