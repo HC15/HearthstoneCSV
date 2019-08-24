@@ -7,7 +7,7 @@ cards_info = cards.json()
 
 standard_set = ["Basic", "Classic",
                 "The Witchwood", "The Boomsday Project", "Rastakhan's Rumble",
-                "Rise of Shadows"]
+                "Rise of Shadows", "Saviors of Uldum"]
 wild_set = ["Hall of Fame",
             "Naxxramas", "Goblins vs Gnomes",
             "Blackrock Mountain", "The Grand Tournament", "The League of Explorers",

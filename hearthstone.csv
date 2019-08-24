@@ -15,11 +15,16 @@ CS2_072,Backstab,Basic,Spell,Rogue,Free,0,,,,,True
 BCON_024,Bottled Madness,Basic,Spell,Warlock,Free,0,,,,,False
 BCON_021,Crackling Doom,Basic,Spell,Shaman,Free,0,,,Overload,,False
 CS2_013t,Excess Mana,Basic,Spell,Druid,,0,,,,,False
+DFX_001,Fast Spawn to Deck Dummy FX,Basic,Spell,Neutral,,0,,,,,False
+DFX_005,Flamestrike Dummy FX,Basic,Spell,Neutral,,0,,,,,False
+DFX_003,Frost Nova Dummy FX,Basic,Spell,Neutral,,0,,,,,False
+DFX_004,Holy Healing Dummy FX,Basic,Spell,Neutral,,0,,,,,False
 EX1_169,Innervate,Basic,Spell,Druid,Free,0,,,,,True
 CS2_mirror,Mirror Image,Basic,Minion,Mage,Common,0,0,2,Taunt,,False
 CS2_008,Moonfire,Basic,Spell,Druid,Free,0,,,,,True
 NEW1_003,Sacrificial Pact,Basic,Spell,Warlock,Free,0,,,,,True
 GAME_005,The Coin,Basic,Spell,Neutral,,0,,,,,False
+DFX_002,Time Warp Dummy FX,Basic,Spell,Neutral,,0,,,,,False
 EX1_244,Totemic Might,Basic,Spell,Shaman,Free,0,,,,,True
 EX1_277,Arcane Missiles,Basic,Spell,Mage,Free,1,,,Immune to Spell Power,,True
 DS1_185,Arcane Shot,Basic,Spell,Hunter,Free,1,,,,,True
@@ -47,6 +52,7 @@ CS2_168,Murloc Raider,Basic,Minion,Neutral,Free,1,2,1,,Murloc,True
 EX1_506a,Murloc Scout,Basic,Minion,Neutral,Common,1,1,1,,Murloc,False
 CS2_235,Northshire Cleric,Basic,Minion,Priest,Free,1,1,3,,,True
 CS2_004,Power Word: Shield,Basic,Spell,Priest,Free,1,,,,,True
+EX1_192,Radiance,Basic,Spell,Priest,Free,1,,,,,True
 CS2_050,Searing Totem,Basic,Minion,Shaman,Free,1,1,1,,Totem,False
 CS2_tk1,Sheep,Basic,Minion,Neutral,Common,1,1,1,,Beast,False
 CS2_101t,Silver Hand Recruit,Basic,Minion,Paladin,Free,1,1,1,,,False
@@ -73,6 +79,7 @@ CS2_083b,Dagger Mastery,Basic,Hero Power,Rogue,Free,2,,,,,False
 BCON_001,Deadeye,Basic,Spell,Hunter,Free,2,,,,,False
 CS2_236,Divine Spirit,Basic,Spell,Priest,Free,2,,,,,True
 CS2_108,Execute,Basic,Spell,Warrior,Free,2,,,,,True
+EX1_306,Felstalker,Basic,Minion,Warlock,Free,2,4,3,Battlecry,Demon,True
 CS2_034,Fireblast,Basic,Hero Power,Mage,Free,2,,,,,False
 CS2_024,Frostbolt,Basic,Spell,Mage,Free,2,,,Freeze,,True
 CS2_121,Frostwolf Grunt,Basic,Minion,Neutral,Free,2,2,2,Taunt,,True
@@ -84,7 +91,6 @@ CS2_142,Kobold Geomancer,Basic,Minion,Neutral,Free,2,2,2,Spell Damage,,True
 CS1h_001,Lesser Heal,Basic,Hero Power,Priest,Free,2,,,,,False
 CS2_056,Life Tap,Basic,Hero Power,Warlock,Free,2,,,,,False
 CS2_009,Mark of the Wild,Basic,Spell,Druid,Free,2,,,Taunt,,True
-DS1_233,Mind Blast,Basic,Spell,Priest,Free,2,,,,,True
 EX1_506,Murloc Tidehunter,Basic,Minion,Neutral,Free,2,2,1,Battlecry,Murloc,True
 GAME_006,NOOOOOOOOOOOO,Basic,Spell,Neutral,,2,,,,,False
 EX1_015,Novice Engineer,Basic,Minion,Neutral,Free,2,1,1,Battlecry,,True
@@ -96,7 +102,6 @@ CS2_234,Shadow Word: Pain,Basic,Spell,Priest,Free,2,,,,,True
 CS2_017,Shapeshift,Basic,Hero Power,Druid,Free,2,,,,,False
 EX1_278,Shiv,Basic,Spell,Rogue,Free,2,,,,,True
 DS1h_292,Steady Shot,Basic,Hero Power,Hunter,Free,2,,,,,False
-EX1_306,Succubus,Basic,Minion,Warlock,Free,2,4,3,Battlecry,Demon,True
 CS2_049,Totemic Call,Basic,Hero Power,Shaman,Free,2,,,,,False
 CS2_039,Windfury,Basic,Spell,Shaman,Free,2,,,Windfury,,True
 NEW1_031,Animal Companion,Basic,Spell,Hunter,Free,3,,,,,True
@@ -142,6 +147,7 @@ NEW1_011,Kor'kron Elite,Basic,Minion,Warrior,Free,4,4,3,Charge,,True
 DS1_183,Multi-Shot,Basic,Spell,Hunter,Free,4,,,,,True
 CS2_119,Oasis Snapjaw,Basic,Minion,Neutral,Free,4,2,7,,Beast,True
 CS2_197,Ogre Magi,Basic,Minion,Neutral,Free,4,4,4,Spell Damage,,True
+EX1_191,Plaguebringer,Basic,Minion,Rogue,Free,4,3,3,"Battlecry, Poisonous",,True
 CS2_022,Polymorph,Basic,Spell,Mage,Free,4,,,,,True
 CS2_179,Sen'jin Shieldmasta,Basic,Minion,Neutral,Free,4,3,5,Taunt,,True
 CS2_131,Stormwind Knight,Basic,Minion,Neutral,Free,4,2,5,Charge,,True
@@ -159,7 +165,7 @@ CS2_226,Frostwolf Warlord,Basic,Minion,Neutral,Free,5,4,4,Battlecry,,True
 EX1_399,Gurubashi Berserker,Basic,Minion,Neutral,Free,5,2,7,,,True
 CS1_112,Holy Nova,Basic,Spell,Priest,Free,5,,,,,True
 EX1_593,Nightblade,Basic,Minion,Neutral,Free,5,4,4,Battlecry,,True
-BCON_004,Polymorph: ???,Basic,Spell,Mage,Free,5,,,,,False
+BCON_004,Polymorph: ???,Basic,Spell,Mage,Free,5,,,Discover,,False
 CS2_237,Starving Buzzard,Basic,Minion,Hunter,Free,5,3,2,,Beast,True
 CS2_150,Stormpike Commando,Basic,Minion,Neutral,Free,5,4,2,Battlecry,,True
 DS1_178,Tundra Rhino,Basic,Minion,Hunter,Free,5,2,5,"Charge, Aura",Beast,True
@@ -170,7 +176,6 @@ CS2_042,Fire Elemental,Basic,Minion,Shaman,Free,6,6,5,Battlecry,Elemental,True
 CS2_162,Lord of the Arena,Basic,Minion,Neutral,Free,6,6,5,Taunt,,True
 CS2_213,Reckless Rocketeer,Basic,Minion,Neutral,Free,6,5,2,Charge,,True
 EX1_173,Starfire,Basic,Spell,Druid,Free,6,,,,,True
-NEW1_004,Vanish,Basic,Spell,Rogue,Free,6,,,,,True
 CS2_201,Core Hound,Basic,Minion,Neutral,Free,7,9,5,,Beast,True
 CS2_032,Flamestrike,Basic,Spell,Mage,Free,7,,,,,True
 CS2_088,Guardian of Kings,Basic,Minion,Paladin,Free,7,5,6,Battlecry,,True
@@ -179,33 +184,15 @@ CS2_222,Stormwind Champion,Basic,Minion,Neutral,Free,7,6,6,Aura,,True
 CS2_186,War Golem,Basic,Minion,Neutral,Free,7,7,7,,,True
 CS2_232,Ironbark Protector,Basic,Minion,Druid,Free,8,8,8,Taunt,,True
 CS1_113,Mind Control,Basic,Spell,Priest,Free,10,,,,,True
-NEW1_008b,Ancient Secrets,Classic,Spell,Druid,,0,,,,,False
-NEW1_008a,Ancient Teachings,Classic,Spell,Druid,,0,,,,,False
 EX1_621,Circle of Healing,Classic,Spell,Priest,Common,0,,,,,True
-EX1_573a,Demigod's Favor,Classic,Spell,Druid,,0,,,,,False
-EX1_166b,Dispel,Classic,Spell,Druid,,0,,,Silence,,False
 DREAM_04,Dream,Classic,Spell,Dream,,0,,,,,False
-EX1_164b,Enrich,Classic,Spell,Druid,,0,,,,,False
 EX1_607,Inner Rage,Classic,Spell,Warrior,Common,0,,,,,True
-EX1_160b,Leader of the Pack,Classic,Spell,Druid,,0,,,,,False
 EX1_323h,Lord Jaraxxus,Classic,Hero,Warlock,Legendary,0,,15,,Demon,False
-EX1_166a,Moonfire,Classic,Spell,Druid,,0,,,,,False
-EX1_154b,Nature's Wrath,Classic,Spell,Druid,,0,,,,,False
 DREAM_05,Nightmare,Classic,Spell,Dream,,0,,,,,False
 EX1_145,Preparation,Classic,Spell,Rogue,Epic,0,,,,,True
-EX1_164a,Rampant Growth,Classic,Spell,Druid,,0,,,,,False
-EX1_178a,Rooted,Classic,Spell,Druid,,0,,,,,False
-EX1_345t,Shadow of Nothing,Classic,Minion,Priest,Epic,0,0,1,,,False
+EX1_345t,Shadow of Nothing,Classic,Minion,Priest,,0,0,1,,,False
 EX1_144,Shadowstep,Classic,Spell,Rogue,Common,0,,,,,True
-EX1_573b,Shan'do's Lesson,Classic,Spell,Druid,,0,,,,,False
 EX1_332,Silence,Classic,Spell,Priest,Common,0,,,Silence,,True
-EX1_154a,Solar Wrath,Classic,Spell,Druid,,0,,,,,False
-NEW1_007b,Starlord,Classic,Spell,Druid,,0,,,,,False
-NEW1_007a,Stellar Drift,Classic,Spell,Druid,,0,,,,,False
-EX1_160a,Summon a Panther,Classic,Spell,Druid,,0,,,,,False
-EX1_155b,Thick Hide,Classic,Spell,Druid,,0,,,,,False
-EX1_155a,Tiger's Fury,Classic,Spell,Druid,,0,,,,,False
-EX1_178b,Uproot,Classic,Spell,Druid,,0,,,,,False
 CS2_231,Wisp,Classic,Minion,Neutral,Common,0,1,1,,,True
 CS2_188,Abusive Sergeant,Classic,Minion,Neutral,Common,1,1,1,Battlecry,,True
 EX1_009,Angry Chicken,Classic,Minion,Neutral,Rare,1,1,1,,Beast,True
@@ -245,14 +232,14 @@ EX1_410,Shield Slam,Classic,Spell,Warrior,Epic,1,,,Affected by Spell Power,,True
 EX1_405,Shieldbearer,Classic,Minion,Neutral,Common,1,0,4,Taunt,,True
 EX1_554t,Snake,Classic,Minion,Hunter,,1,1,1,,Beast,False
 CS2_146,Southsea Deckhand,Classic,Minion,Neutral,Common,1,2,1,Charge,Pirate,True
-tt_010a,Spellbender,Classic,Minion,Mage,Epic,1,1,3,,,False
+tt_010a,Spellbender,Classic,Minion,Mage,,1,1,3,,,False
 CS2_152,Squire,Classic,Minion,Neutral,,1,2,2,,,False
 EX1_tk28,Squirrel,Classic,Minion,Neutral,,1,1,1,,Beast,False
 EX1_180,Tome of Intellect,Classic,Spell,Mage,Common,1,,,,,True
 EX1_409,Upgrade!,Classic,Spell,Warrior,Rare,1,,,,,True
 NEW1_026t,Violet Apprentice,Classic,Minion,Neutral,,1,1,1,,,False
-EX1_116t,Whelp,Classic,Minion,Neutral,,1,1,1,,Dragon,False
 ds1_whelptoken,Whelp,Classic,Minion,Neutral,,1,1,1,,Dragon,False
+EX1_116t,Whelp,Classic,Minion,Neutral,,1,1,1,,Dragon,False
 EX1_010,Worgen Infiltrator,Classic,Minion,Neutral,Common,1,2,1,Stealth,,True
 EX1_317t,Worthless Imp,Classic,Minion,Warlock,,1,1,1,,Demon,False
 CS2_169,Young Dragonhawk,Classic,Minion,Neutral,Common,1,1,1,Windfury,Beast,True
@@ -284,6 +271,7 @@ EX1_534t,Hyena,Classic,Minion,Hunter,,2,2,2,,Beast,False
 EX1_179,Icicle,Classic,Spell,Mage,Epic,2,,,Freeze,,True
 EX1_tk33,INFERNO!,Classic,Hero Power,Warlock,,2,,,,,False
 NEW1_019,Knife Juggler,Classic,Minion,Neutral,Rare,2,2,2,,,True
+EX1_160b,Leader of the Pack,Classic,Spell,Druid,,2,,,,,False
 EX1_341,Lightwell,Classic,Minion,Priest,Rare,2,0,5,,,True
 EX1_096,Loot Hoarder,Classic,Minion,Neutral,Common,2,2,1,Deathrattle,,True
 EX1_100,Lorewalker Cho,Classic,Minion,Neutral,Legendary,2,0,4,,,True
@@ -297,6 +285,7 @@ EX1_625t2,Mind Shatter,Classic,Hero Power,Priest,,2,,,,,False
 EX1_625t,Mind Spike,Classic,Hero Power,Priest,,2,,,,,False
 EX1_533,Misdirection,Classic,Spell,Hunter,Rare,2,,,Secret,,True
 EX1_557,Nat Pagle,Classic,Minion,Neutral,Legendary,2,0,4,,,True
+EX1_154b,Nature's Wrath,Classic,Spell,Druid,,2,,,,,False
 EX1_160t,Panther,Classic,Minion,Druid,,2,3,2,,Beast,False
 EX1_522,Patient Assassin,Classic,Minion,Rogue,Epic,2,1,1,"Stealth, Poisonous",,True
 EX1_076,Pint-Sized Summoner,Classic,Minion,Neutral,Rare,2,2,2,Aura,,True
@@ -306,13 +295,15 @@ EX1_531,Scavenging Hyena,Classic,Minion,Hunter,Common,2,2,2,,Beast,True
 EX1_391,Slam,Classic,Spell,Warrior,Common,2,,,,,True
 EX1_554,Snake Trap,Classic,Spell,Hunter,Epic,2,,,Secret,,True
 EX1_609,Snipe,Classic,Spell,Hunter,Common,2,,,Secret,,True
+EX1_154a,Solar Wrath,Classic,Spell,Druid,,2,,,,,False
 EX1_608,Sorcerer's Apprentice,Classic,Minion,Mage,Common,2,3,2,Aura,,True
 EX1_tk11,Spirit Wolf,Classic,Minion,Shaman,,2,2,3,Taunt,,False
 EX1_247,Stormforged Axe,Classic,Weapon,Shaman,Common,2,2,3,Overload,,True
+EX1_160a,Summon a Panther,Classic,Spell,Druid,,2,,,,,False
 EX1_058,Sunfury Protector,Classic,Minion,Neutral,Rare,2,2,3,"Taunt, Battlecry",,True
-EX1_158t,Treant,Classic,Minion,Druid,,2,2,2,,,False
 EX1_573t,Treant,Classic,Minion,Druid,,2,2,2,Taunt,,False
 EX1_tk9,Treant,Classic,Minion,Druid,,2,2,2,,,False
+EX1_158t,Treant,Classic,Minion,Druid,,2,2,2,,,False
 NEW1_020,Wild Pyromancer,Classic,Minion,Neutral,Rare,2,3,2,,,True
 EX1_154,Wrath,Classic,Spell,Druid,Common,2,,,,,True
 EX1_049,Youthful Brewmaster,Classic,Minion,Neutral,Common,2,3,2,Battlecry,,True
@@ -323,6 +314,7 @@ EX1_382,Aldor Peacekeeper,Classic,Minion,Paladin,Rare,3,3,3,Battlecry,,True
 EX1_089,Arcane Golem,Classic,Minion,Neutral,Rare,3,4,4,Battlecry,,True
 EX1_323w,Blood Fury,Classic,Weapon,Warlock,,3,3,8,,,False
 EX1_590,Blood Knight,Classic,Minion,Neutral,Epic,3,3,3,"Divine Shield, Battlecry",,True
+EX1_189,Brightwing,Classic,Minion,Neutral,Legendary,3,3,2,Battlecry,Dragon,True
 EX1_103,Coldlight Seer,Classic,Minion,Neutral,Rare,3,2,3,Battlecry,Murloc,True
 EX1_287,Counterspell,Classic,Spell,Mage,Rare,3,,,Secret,,True
 EX1_617,Deadly Shot,Classic,Spell,Hunter,Common,3,,,,,True
@@ -365,8 +357,10 @@ NEW1_027,Southsea Captain,Classic,Minion,Neutral,Epic,3,3,3,Aura,Pirate,True
 tt_010,Spellbender,Classic,Spell,Mage,Epic,3,,,Secret,,True
 EX1_366,Sword of Justice,Classic,Weapon,Paladin,Epic,3,1,5,,,True
 EX1_390,Tauren Warrior,Classic,Minion,Neutral,Common,3,2,3,Taunt,,True
+EX1_155b,Thick Hide,Classic,Spell,Druid,,3,,,,,False
 EX1_339,Thoughtsteal,Classic,Spell,Priest,Common,3,,,,,True
 EX1_021,Thrallmar Farseer,Classic,Minion,Neutral,Common,3,2,3,Windfury,,True
+EX1_155a,Tiger's Fury,Classic,Spell,Druid,,3,,,,,False
 EX1_083,Tinkmaster Overspark,Classic,Minion,Neutral,Legendary,3,3,3,Battlecry,,True
 EX1_258,Unbound Elemental,Classic,Minion,Shaman,Common,3,2,4,Overload,Elemental,True
 EX1_538,Unleash the Hounds,Classic,Spell,Hunter,Common,3,,,Charge,,True
@@ -383,6 +377,7 @@ EX1_275,Cone of Cold,Classic,Spell,Mage,Common,4,,,Freeze,,True
 EX1_595,Cult Master,Classic,Minion,Neutral,Common,4,4,2,,,True
 EX1_046,Dark Iron Dwarf,Classic,Minion,Neutral,Common,4,4,4,Battlecry,,True
 EX1_093,Defender of Argus,Classic,Minion,Neutral,Rare,4,2,3,"Taunt, Battlecry",,True
+EX1_166b,Dispel,Classic,Spell,Druid,,4,,,Silence,,False
 NEW1_022,Dread Corsair,Classic,Minion,Neutral,Common,4,3,3,Taunt,Pirate,True
 DREAM_03,Emerald Drake,Classic,Minion,Dream,,4,7,6,,Dragon,False
 EX1_619,Equality,Classic,Spell,Paladin,Rare,4,,,,,True
@@ -393,10 +388,12 @@ EX1_626,Mass Dispel,Classic,Spell,Priest,Rare,4,,,Silence,,True
 NEW1_014,Master of Disguise,Classic,Minion,Rogue,Rare,4,4,4,"Stealth, Battlecry",,True
 EX1_345,Mindgames,Classic,Spell,Priest,Epic,4,,,,,True
 EX1_396,Mogu'shan Warden,Classic,Minion,Neutral,Common,4,1,7,Taunt,,True
+EX1_166a,Moonfire,Classic,Spell,Druid,,4,,,,,False
 EX1_408,Mortal Strike,Classic,Spell,Warrior,Rare,4,,,,,True
 EX1_313,Pit Lord,Classic,Minion,Warlock,Epic,4,5,6,Battlecry,Demon,True
 EX1_334,Shadow Madness,Classic,Spell,Priest,Rare,4,,,,,True
 EX1_303,Shadowflame,Classic,Spell,Warlock,Rare,4,,,Affected by Spell Power,,True
+EX1_186,SI:7 Infiltrator,Classic,Minion,Neutral,Rare,4,5,4,"Battlecry, Secret",,True
 EX1_023,Silvermoon Guardian,Classic,Minion,Neutral,Common,4,3,3,Divine Shield,,True
 EX1_158,Soul of the Forest,Classic,Spell,Druid,Common,4,,,Deathrattle,,True
 EX1_048,Spellbreaker,Classic,Minion,Neutral,Common,4,4,3,"Silence, Battlecry",,True
@@ -426,10 +423,13 @@ EX1_571,Force of Nature,Classic,Spell,Druid,Epic,5,,,,,True
 EX1_558,Harrison Jones,Classic,Minion,Neutral,Legendary,5,5,4,Battlecry,,True
 EX1_365,Holy Wrath,Classic,Spell,Paladin,Rare,5,,,Affected by Spell Power,,True
 EX1_116,Leeroy Jenkins,Classic,Minion,Neutral,Legendary,5,6,2,"Charge, Battlecry",,True
+EX1_184,Righteousness,Classic,Spell,Paladin,Rare,5,,,Divine Shield,,True
 CS2_151,Silver Hand Knight,Classic,Minion,Neutral,Common,5,4,4,Battlecry,,True
 CS2_221,Spiteful Smith,Classic,Minion,Neutral,Common,5,4,6,,,True
 NEW1_041,Stampeding Kodo,Classic,Minion,Neutral,Rare,5,3,5,Battlecry,Beast,True
 NEW1_007,Starfall,Classic,Spell,Druid,Rare,5,,,,,True
+NEW1_007b,Starlord,Classic,Spell,Druid,,5,,,,,False
+NEW1_007a,Stellar Drift,Classic,Spell,Druid,,5,,,,,False
 EX1_028,Stranglethorn Tiger,Classic,Minion,Neutral,Common,5,5,5,Stealth,Beast,True
 CS2_227,Venture Co. Mercenary,Classic,Minion,Neutral,Common,5,7,6,Aura,,True
 EX1_067,Argent Commander,Classic,Minion,Neutral,Rare,6,4,2,"Charge, Divine Shield",,True
@@ -437,6 +437,7 @@ EX1_384,Avenging Wrath,Classic,Spell,Paladin,Epic,6,,,Immune to Spell Power,,Tru
 CS2_028,Blizzard,Classic,Spell,Mage,Rare,6,,,Freeze,,True
 EX1_091,Cabal Shadow Priest,Classic,Minion,Priest,Epic,6,4,5,Battlecry,,True
 EX1_110,Cairne Bloodhoof,Classic,Minion,Neutral,Legendary,6,4,5,Deathrattle,,True
+EX1_164b,Enrich,Classic,Spell,Druid,,6,,,,,False
 EX1_283,Frost Elemental,Classic,Minion,Neutral,Common,6,5,5,"Battlecry, Freeze",Elemental,True
 EX1_095,Gadgetzan Auctioneer,Classic,Minion,Neutral,Rare,6,4,4,,,True
 NEW1_040,Hogger,Classic,Minion,Neutral,Legendary,6,4,4,Taunt,,True
@@ -446,6 +447,7 @@ EX1_tk34,Infernal,Classic,Minion,Warlock,,6,6,6,,Demon,False
 NEW1_005,Kidnapper,Classic,Minion,Rogue,Epic,6,5,3,Combo,,True
 EX1_164,Nourish,Classic,Spell,Druid,Rare,6,,,,,True
 EX1_583,Priestess of Elune,Classic,Minion,Neutral,Common,6,5,4,Battlecry,,True
+EX1_164a,Rampant Growth,Classic,Spell,Druid,,6,,,,,False
 EX1_534,Savannah Highmane,Classic,Minion,Hunter,Rare,6,6,5,Deathrattle,Beast,True
 EX1_309,Siphon Soul,Classic,Spell,Warlock,Rare,6,,,,,True
 EX1_032,Sunwalker,Classic,Minion,Neutral,Rare,6,4,5,"Taunt, Divine Shield",,True
@@ -455,13 +457,22 @@ EX1_002,The Black Knight,Classic,Minion,Neutral,Legendary,6,4,5,"Taunt, Battlecr
 EX1_033,Windfury Harpy,Classic,Minion,Neutral,Common,6,4,5,Windfury,,True
 NEW1_008,Ancient of Lore,Classic,Minion,Druid,Epic,7,5,5,,,True
 EX1_178,Ancient of War,Classic,Minion,Druid,Epic,7,5,5,Taunt,,True
+NEW1_008b,Ancient Secrets,Classic,Spell,Druid,,7,,,,,False
+NEW1_008a,Ancient Teachings,Classic,Spell,Druid,,7,,,,,False
 EX1_559,Archmage Antonidas,Classic,Minion,Mage,Legendary,7,5,7,,,True
 EX1_249,Baron Geddon,Classic,Minion,Neutral,Legendary,7,7,5,,Elemental,True
+EX1_188,Barrens Stablehand,Classic,Minion,Neutral,Epic,7,4,4,Battlecry,,True
 DS1_188,Gladiator's Longbow,Classic,Weapon,Hunter,Epic,7,5,2,,,True
 EX1_411,Gorehowl,Classic,Weapon,Warrior,Epic,7,7,1,,,True
+EX1_190,High Inquisitor Whitemane,Classic,Minion,Neutral,Legendary,7,6,8,Battlecry,,True
 EX1_350,Prophet Velen,Classic,Minion,Priest,Legendary,7,7,7,,,True
 CS2_161,Ravenholdt Assassin,Classic,Minion,Neutral,Rare,7,7,5,Stealth,,True
+EX1_178a,Rooted,Classic,Spell,Druid,,7,,,,,False
+EX1_185,Siegebreaker,Classic,Minion,Warlock,Rare,7,5,8,"Taunt, Aura",Demon,True
+EX1_178b,Uproot,Classic,Spell,Druid,,7,,,,,False
 NEW1_010,Al'Akir the Windlord,Classic,Minion,Shaman,Legendary,8,3,5,"Charge, Divine Shield, Windfury, Taunt",Elemental,True
+EX1_187,Arcane Devourer,Classic,Minion,Neutral,Rare,8,5,5,,Elemental,True
+EX1_183,Gift of the Wild,Classic,Spell,Druid,Common,8,,,Taunt,,True
 EX1_414,Grommash Hellscream,Classic,Minion,Warrior,Legendary,8,4,9,Charge,,True
 NEW1_038,Gruul,Classic,Minion,Neutral,Legendary,8,7,7,,,True
 EX1_354,Lay on Hands,Classic,Spell,Paladin,Epic,8,,,,,True
@@ -469,11 +480,13 @@ EX1_383,Tirion Fordring,Classic,Minion,Paladin,Legendary,8,6,6,"Divine Shield, T
 EX1_312,Twisting Nether,Classic,Spell,Warlock,Epic,8,,,,,True
 EX1_561,Alexstrasza,Classic,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon,True
 EX1_573,Cenarius,Classic,Minion,Druid,Legendary,9,5,8,Taunt,,True
+EX1_573a,Demigod's Favor,Classic,Spell,Druid,,9,,,,,False
 EX1_543,King Krush,Classic,Minion,Hunter,Legendary,9,8,8,Charge,Beast,True
 EX1_323,Lord Jaraxxus,Classic,Minion,Warlock,Legendary,9,3,15,Battlecry,Demon,True
 EX1_563,Malygos,Classic,Minion,Neutral,Legendary,9,4,12,Spell Damage,Dragon,True
 EX1_560,Nozdormu,Classic,Minion,Neutral,Legendary,9,8,8,,Dragon,True
 EX1_562,Onyxia,Classic,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon,True
+EX1_573b,Shan'do's Lesson,Classic,Spell,Druid,,9,,,,,False
 EX1_572,Ysera,Classic,Minion,Neutral,Legendary,9,4,12,,Dragon,True
 NEW1_030,Deathwing,Classic,Minion,Neutral,Legendary,10,12,12,Battlecry,Dragon,True
 EX1_279,Pyroblast,Classic,Spell,Mage,Epic,10,,,,,True
@@ -654,9 +667,9 @@ GIL_816,Swamp Dragon Egg,The Witchwood,Minion,Neutral,Common,1,0,3,Deathrattle,,
 GIL_558,Swamp Leech,The Witchwood,Minion,Neutral,Common,1,2,1,Lifesteal,Beast,True
 GIL_580,Town Crier,The Witchwood,Minion,Warrior,Epic,1,1,2,"Battlecry, Rush",,True
 GILA_BOSS_32p,Unstable Growth,The Witchwood,Hero Power,Neutral,,1,,,,,False
-GILA_817t,Weeping Ghost,The Witchwood,Minion,Neutral,,1,1,1,,,False
 GILA_818t,Weeping Ghost,The Witchwood,Minion,Neutral,,1,2,2,,,False
 GILA_819t,Weeping Ghost,The Witchwood,Minion,Neutral,,1,3,3,Lifesteal,,False
+GILA_817t,Weeping Ghost,The Witchwood,Minion,Neutral,,1,1,1,,,False
 GIL_531,Witch's Apprentice,The Witchwood,Minion,Shaman,Common,1,0,1,"Taunt, Battlecry",Beast,True
 GIL_608,Witchwood Imp,The Witchwood,Minion,Warlock,Common,1,1,1,"Deathrattle, Stealth",Demon,True
 GIL_616t2,Woodchip,The Witchwood,Minion,Neutral,,1,1,1,,,False
@@ -704,7 +717,7 @@ GIL_155,Redband Wasp,The Witchwood,Minion,Warrior,Rare,2,1,3,Rush,Beast,True
 GILA_BOSS_61t,Ritual Dagger,The Witchwood,Weapon,Neutral,,2,3,4,Lifesteal,,False
 GILA_816b,Sack of Coins,The Witchwood,Spell,Neutral,,2,,,,,False
 GILA_608,Safe Harbor,The Witchwood,Spell,Neutral,,2,,,,,False
-GILA_500p2,Scavenge,The Witchwood,Hero Power,Neutral,,2,,,,,False
+GILA_500p2,Scavenge,The Witchwood,Hero Power,Neutral,,2,,,Discover,,False
 GILA_BOSS_22p,Shank,The Witchwood,Hero Power,Neutral,,2,,,,,False
 GIL_801,Snap Freeze,The Witchwood,Spell,Mage,Common,2,,,Freeze,,True
 GIL_145,Sound the Bells!,The Witchwood,Spell,Paladin,Common,2,,,Echo,,True
@@ -736,10 +749,10 @@ GILA_BOSS_49t,Crowskin Faithful,The Witchwood,Minion,Neutral,,3,6,3,Deathrattle,
 GIL_902,Cutthroat Buccaneer,The Witchwood,Minion,Rogue,Common,3,2,4,Combo,Pirate,True
 GIL_188a,Dire Panther Form,The Witchwood,Minion,Druid,Common,3,4,2,,Beast,False
 GIL_188b,Dire Wolf Form,The Witchwood,Minion,Druid,Common,3,2,4,,,False
-GIL_188,Druid of the Scythe,The Witchwood,Minion,Druid,Common,3,2,2,"Rush, Taunt",,True
 GIL_188t,Druid of the Scythe,The Witchwood,Minion,Druid,Common,3,4,2,Rush,Beast,False
 GIL_188t2,Druid of the Scythe,The Witchwood,Minion,Druid,Common,3,2,4,Taunt,Beast,False
 GIL_188t3,Druid of the Scythe,The Witchwood,Minion,Druid,Common,3,4,4,"Rush, Taunt",Beast,False
+GIL_188,Druid of the Scythe,The Witchwood,Minion,Druid,Common,3,2,2,"Rush, Taunt",,True
 GIL_508,Duskbat,The Witchwood,Minion,Warlock,Common,3,2,4,Battlecry,Beast,True
 GIL_200,Duskhaven Hunter,The Witchwood,Minion,Hunter,Rare,3,2,5,Stealth,,True
 GIL_200t,Duskhaven Hunter,The Witchwood,Minion,Hunter,Rare,3,5,2,Stealth,,False
@@ -756,11 +769,11 @@ GILA_507,Hunter of Old,The Witchwood,Minion,Neutral,,3,3,6,,,False
 GILA_503,Hunter's Insight,The Witchwood,Spell,Neutral,,3,,,,,False
 GILA_906,Impetuous Companion,The Witchwood,Minion,Neutral,,3,5,5,Battlecry,,False
 GIL_683,Marsh Drake,The Witchwood,Minion,Neutral,Common,3,5,4,"Battlecry, Poisonous",Dragon,True
+GILA_BOSS_37t,Murloc Infestation,The Witchwood,Spell,Neutral,,3,,,,,False
 GIL_681,Nightmare Amalgam,The Witchwood,Minion,Neutral,Epic,3,3,4,,All,True
 GIL_190t,Nightscale Whelp,The Witchwood,Minion,Priest,,3,3,3,,Dragon,False
 GIL_685,Paragon of Light,The Witchwood,Minion,Paladin,Rare,3,2,5,"Taunt, Lifesteal",,True
 GIL_207,Phantom Militia,The Witchwood,Minion,Neutral,Rare,3,2,4,"Taunt, Echo",,True
-GILA_BOSS_37t,Plague of Murlocs,The Witchwood,Spell,Neutral,,3,,,,,False
 GILA_853b,Pristine Compass,The Witchwood,Spell,Neutral,,3,,,,,False
 GIL_201,Pumpkin Peasant,The Witchwood,Minion,Neutral,Common,3,2,4,Lifesteal,,True
 GIL_201t,Pumpkin Peasant,The Witchwood,Minion,Neutral,Common,3,4,2,Lifesteal,,False
@@ -894,8 +907,8 @@ BOTA_BOSS_18h,Crystalsmith Kangor,The Boomsday Project,Hero,Neutral,,,,30,,,Fals
 BOTA_BOSS_20p4,Death Ray,The Boomsday Project,Hero Power,Neutral,,,,,,,False
 BOTA_BOSS_08h,Demonologist Draan,The Boomsday Project,Hero,Neutral,,,,30,,,False
 BOTA_BOSS_06h,Dexter the Dendrologist,The Boomsday Project,Hero,Neutral,,,,30,,,False
-BOTA_BOSS_20h2,Dr. Boom,The Boomsday Project,Hero,Neutral,,,,30,,,False
 BOTA_BOSS_20h,Dr. Boom,The Boomsday Project,Hero,Neutral,,,,30,,,False
+BOTA_BOSS_20h2,Dr. Boom,The Boomsday Project,Hero,Neutral,,,,30,,,False
 BOTA_BOSS_09h,Dr. Morrigan,The Boomsday Project,Hero,Neutral,,,,30,,,False
 BOTA_BOSS_04p,Duality,The Boomsday Project,Hero Power,Neutral,,,,,,,False
 BOTA_BOSS_13h,Electra Stormsurge,The Boomsday Project,Hero,Neutral,,,,30,,,False
@@ -926,8 +939,6 @@ BOTA_203,Breakout,The Boomsday Project,Spell,Neutral,,0,,,Charge,,False
 BOTA_232,Cosmic Projection,The Boomsday Project,Spell,Neutral,,0,,,,,False
 BOTA_702,Lethal,The Boomsday Project,Spell,Neutral,,0,,,,,False
 BOTA_700,Mirror,The Boomsday Project,Spell,Neutral,,0,,,,,False
-BOT_422b,New Growth,The Boomsday Project,Spell,Druid,,0,,,,,False
-BOT_422a,Old Growth,The Boomsday Project,Spell,Druid,,0,,,,,False
 BOTA_601,Phasing Portal,The Boomsday Project,Spell,Warlock,,0,,,,,False
 BOTA_701,Survival,The Boomsday Project,Spell,Neutral,,0,,,Immune to Spell Power,,False
 BOTA_207,The Swap,The Boomsday Project,Spell,Neutral,,0,,,,,False
@@ -938,9 +949,11 @@ BOTA_444,Airborne Assault,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOT_908,Autodefense Matrix,The Boomsday Project,Spell,Paladin,Common,1,,,"Secret, Divine Shield",,True
 BOTA_240,Back-up Plan,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOT_054,Biology Project,The Boomsday Project,Spell,Druid,Common,1,,,,,True
+BOT_435,Cloning Device,The Boomsday Project,Spell,Priest,Common,1,,,Discover,,True
 BOTA_301,Cold Blooded,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOTA_516,Cruel Souls,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOT_447,Crystallizer,The Boomsday Project,Minion,Neutral,Epic,1,1,3,Battlecry,,True
+BOT_909,Crystology,The Boomsday Project,Spell,Paladin,Rare,1,,,,,True
 BOTA_611,Don't Panic,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOT_059,Eternium Rover,The Boomsday Project,Minion,Warrior,Common,1,1,3,,Mech,True
 BOT_079,Faithful Lumi,The Boomsday Project,Minion,Neutral,Common,1,1,1,Battlecry,Mech,True
@@ -960,6 +973,7 @@ BOT_312t,Microbot,The Boomsday Project,Minion,Neutral,,1,1,1,,Mech,False
 BOTA_529,Noble Sacrifices,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOTA_333,Of Pirates and Patrons,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOT_299,Omega Assembly,The Boomsday Project,Spell,Warrior,Rare,1,,,Discover,,True
+BOT_283,Pogo-Hopper,The Boomsday Project,Minion,Rogue,Rare,1,1,1,Battlecry,Mech,True
 BOTA_309,Quick and Quiet,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOTA_420,Quick Attack,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOT_565t,Radioactive Ooze,The Boomsday Project,Minion,Rogue,,1,1,1,"Poisonous, Rush",,False
@@ -968,6 +982,7 @@ BOT_453,Shooting Star,The Boomsday Project,Spell,Mage,Common,1,,,,,True
 BOT_020,Skaterbot,The Boomsday Project,Minion,Neutral,Common,1,1,1,"Rush, Magnetic",Mech,True
 BOT_263,Soul Infusion,The Boomsday Project,Spell,Warlock,Rare,1,,,,,True
 BOT_102t,Spark,The Boomsday Project,Minion,Neutral,,1,1,1,Rush,Elemental,False
+BOT_222,Spirit Bomb,The Boomsday Project,Spell,Warlock,Common,1,,,,,True
 BOT_558,Test Subject,The Boomsday Project,Minion,Priest,Rare,1,0,2,Deathrattle,,True
 BOTA_631,That's the Spirit,The Boomsday Project,Spell,Neutral,,1,,,,,False
 BOTA_520,The Ol' Switcheroo,The Boomsday Project,Spell,Neutral,,1,,,,,False
@@ -984,10 +999,8 @@ BOT_238p2,Blast Shield,The Boomsday Project,Hero Power,Warrior,,2,,,,,False
 BOT_033,Bomb Toss,The Boomsday Project,Spell,Hunter,Common,2,,,Affected by Spell Power,,True
 BOT_531,Celestial Emissary,The Boomsday Project,Minion,Mage,Rare,2,2,1,"Battlecry, Spell Damage",Elemental,True
 BOT_414,Cloakscale Chemist,The Boomsday Project,Minion,Neutral,Common,2,1,2,"Divine Shield, Stealth",,True
-BOT_435,Cloning Device,The Boomsday Project,Spell,Priest,Common,2,,,Discover,,True
 BOTA_241,Contamination,The Boomsday Project,Spell,Druid,,2,,,Poisonous,,False
 BOT_236,Crystalsmith Kangor,The Boomsday Project,Minion,Paladin,Legendary,2,1,2,"Lifesteal, Divine Shield",,True
-BOT_909,Crystology,The Boomsday Project,Spell,Paladin,Rare,2,,,,,True
 BOT_438,Cybertech Chip,The Boomsday Project,Spell,Hunter,Rare,2,,,Deathrattle,,True
 BOT_509,Dead Ringer,The Boomsday Project,Minion,Priest,Common,2,2,1,Deathrattle,Mech,True
 BOTA_438,Defiling Demons,The Boomsday Project,Spell,Neutral,,2,,,,,False
@@ -999,6 +1012,7 @@ BOTA_445,Dog Days,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOT_093,Elementary Reaction,The Boomsday Project,Spell,Shaman,Common,2,,,,,True
 BOTA_334,Erratic Explosive,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOTA_510,Explosive Assault,The Boomsday Project,Spell,Neutral,,2,,,,,False
+BOT_219,Extra Arms,The Boomsday Project,Spell,Priest,Rare,2,,,,,True
 BOT_038,Fireworks Tech,The Boomsday Project,Minion,Hunter,Rare,2,2,1,"Battlecry, Deathrattle",,True
 BOTA_302,Frostbite,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOT_907,Galvanizer,The Boomsday Project,Minion,Neutral,Rare,2,1,2,Battlecry,Mech,True
@@ -1012,10 +1026,10 @@ BOT_238p3,KABOOM!,The Boomsday Project,Hero Power,Warrior,,2,,,,,False
 BOT_288,Lab Recruiter,The Boomsday Project,Minion,Rogue,Common,2,3,2,Battlecry,,True
 BOT_533,Menacing Nimbus,The Boomsday Project,Minion,Shaman,Common,2,2,2,Battlecry,Elemental,True
 BOT_238p6,Micro-Squad,The Boomsday Project,Hero Power,Warrior,,2,,,,,False
+BOT_219t,More Arms!,The Boomsday Project,Spell,Priest,,2,,,,,False
 BOTA_430,No More N'Zoth,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOT_543,Omega Mind,The Boomsday Project,Minion,Shaman,Epic,2,2,3,"Battlecry, Lifesteal",,True
 BOTA_451,Plugging Away,The Boomsday Project,Spell,Neutral,,2,,,,,False
-BOT_283,Pogo-Hopper,The Boomsday Project,Minion,Rogue,Rare,2,1,1,Battlecry,Mech,True
 BOTA_328,Pride's Fall,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOT_600,Research Project,The Boomsday Project,Spell,Mage,Common,2,,,,,True
 BOTA_517,Ride the Wave,The Boomsday Project,Spell,Neutral,,2,,,,,False
@@ -1025,7 +1039,6 @@ BOTA_530,Shrinking Solutions,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOTA_501,Smoldering Shield,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOTA_622,Sowing Seeds,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOT_538,Spark Engine,The Boomsday Project,Minion,Neutral,Rare,2,2,1,"Battlecry, Rush",Mech,True
-BOT_222,Spirit Bomb,The Boomsday Project,Spell,Warlock,Common,2,,,,,True
 BOTA_242,Steel Rattler,The Boomsday Project,Minion,Neutral,,2,1,2,"Magnetic, Poisonous",Mech,False
 BOTA_642,Strike Me Down,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOT_083,Toxicologist,The Boomsday Project,Minion,Neutral,Common,2,2,2,Battlecry,,True
@@ -1034,6 +1047,7 @@ BOTA_632,Underhanded Dealing,The Boomsday Project,Spell,Neutral,,2,,,,,False
 BOT_098,Unpowered Mauler,The Boomsday Project,Minion,Neutral,Rare,2,2,4,,Mech,True
 BOT_309,Upgradeable Framebot,The Boomsday Project,Minion,Neutral,Common,2,1,5,,Mech,True
 BOT_035,Venomizer,The Boomsday Project,Minion,Hunter,Common,2,2,2,"Magnetic, Poisonous",Mech,True
+BOT_084,Violet Haze,The Boomsday Project,Spell,Rogue,Common,2,,,Deathrattle,,True
 BOT_443,Void Analyst,The Boomsday Project,Minion,Warlock,Rare,2,2,2,Deathrattle,Demon,True
 BOT_042,Weapons Project,The Boomsday Project,Spell,Warrior,Common,2,,,,,True
 BOT_431,Whirliglider,The Boomsday Project,Minion,Neutral,Common,2,2,1,Battlecry,,True
@@ -1051,7 +1065,6 @@ BOT_224,Doubling Imp,The Boomsday Project,Minion,Warlock,Common,3,2,2,Battlecry,
 BOTA_511,Dragonslayer,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOT_411,Electra Stormsurge,The Boomsday Project,Minion,Shaman,Legendary,3,3,3,Battlecry,Elemental,True
 BOT_550,Electrowright,The Boomsday Project,Minion,Neutral,Common,3,3,3,Battlecry,,True
-BOT_219,Extra Arms,The Boomsday Project,Spell,Priest,Rare,3,,,,,True
 BOTA_643,For Me?,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOTA_210,Galvanized Golem,The Boomsday Project,Minion,Neutral,,3,5,2,Aura,,False
 BOTA_446,Grumble's Rumble,The Boomsday Project,Spell,Neutral,,3,,,,,False
@@ -1064,7 +1077,6 @@ BOTA_329,Keepers of the Gate,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOT_420,Landscaping,The Boomsday Project,Spell,Druid,Common,3,,,,,True
 BOTA_623,Mechanical Medic,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOT_535,Microtech Controller,The Boomsday Project,Minion,Neutral,Common,3,2,1,Battlecry,,True
-BOT_219t,More Arms!,The Boomsday Project,Spell,Priest,,3,,,,,False
 BOT_286,Necrium Blade,The Boomsday Project,Weapon,Rogue,Rare,3,3,2,Deathrattle,,True
 BOTA_522,Nether Side Up,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOT_226,Nethersoul Buster,The Boomsday Project,Minion,Warlock,Rare,3,1,5,Battlecry,Demon,True
@@ -1072,6 +1084,7 @@ BOTA_336,Never Go Full Northshire,The Boomsday Project,Spell,Neutral,,3,,,,,Fals
 BOT_216,Omega Medic,The Boomsday Project,Minion,Priest,Rare,3,3,4,Battlecry,,True
 BOTA_531,Perfect Patrons,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOTA_633,Pesky Priest,The Boomsday Project,Spell,Neutral,,3,,,,,False
+BOT_700,SN1P-SN4P,The Boomsday Project,Minion,Neutral,Legendary,3,2,3,"Magnetic, Echo, Deathrattle",Mech,True
 BOTA_603,Soul Repressor,The Boomsday Project,Minion,Warlock,,3,None,4,Deathrattle,Mech,False
 BOT_251,Spider Bomb,The Boomsday Project,Minion,Hunter,Rare,3,2,2,"Magnetic, Deathrattle",Mech,True
 BOT_308,Spring Rocket,The Boomsday Project,Minion,Neutral,Common,3,2,1,Battlecry,Mech,True
@@ -1080,8 +1093,8 @@ BOTA_422,Stomp the Snail,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOTA_211,Super Soldier,The Boomsday Project,Minion,Neutral,,3,2,3,Charge,,False
 BOTA_651,The Path to Victory,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOTA_234,The Stars Align,The Boomsday Project,Spell,Neutral,,3,,,,,False
+BOT_254,Unexpected Results,The Boomsday Project,Spell,Mage,Epic,3,,,,,True
 BOTA_202,Uplink,The Boomsday Project,Spell,Neutral,,3,,,,,False
-BOT_084,Violet Haze,The Boomsday Project,Spell,Rogue,Common,3,,,Deathrattle,,True
 BOTA_452,Warlock's Apprentice,The Boomsday Project,Spell,Neutral,,3,,,,,False
 BOTA_312,A Dim Flame,The Boomsday Project,Spell,Neutral,,4,,,,,False
 BOTA_614,A Dire Situation,The Boomsday Project,Spell,Neutral,,4,,,,,False
@@ -1104,6 +1117,7 @@ BOT_555,Harbinger Celestia,The Boomsday Project,Minion,Neutral,Legendary,4,5,6,S
 BOT_404,Juicy Psychmelon,The Boomsday Project,Spell,Druid,Epic,4,,,,,True
 BOTA_624,Lifesteel,The Boomsday Project,Spell,Neutral,,4,,,,,False
 BOTA_512,Nature's Wispers,The Boomsday Project,Spell,Neutral,,4,,,,,False
+BOT_039,Necromechanic,The Boomsday Project,Minion,Hunter,Epic,4,3,6,"Deathrattle, Aura",,True
 BOT_296,Omega Defender,The Boomsday Project,Minion,Neutral,Epic,4,2,6,"Battlecry, Taunt",,True
 BOT_267,Piloted Reaper,The Boomsday Project,Minion,Neutral,Common,4,4,3,Deathrattle,Mech,True
 BOTA_440,Poultry Provoked,The Boomsday Project,Spell,Neutral,,4,,,,,False
@@ -1117,10 +1131,9 @@ BOT_291,Storm Chaser,The Boomsday Project,Minion,Shaman,Rare,4,3,4,Battlecry,Ele
 BOTA_321,The Best Offense,The Boomsday Project,Spell,Neutral,,4,,,,,False
 BOTA_519,The Ray of Roasting,The Boomsday Project,Spell,Neutral,,4,,,,,False
 BOTA_453,The Test,The Boomsday Project,Spell,Neutral,,4,,,,,False
-BOT_407,Thunderhead,The Boomsday Project,Minion,Shaman,Epic,4,3,5,"Overload, Rush",Elemental,True
+BOT_407,Thunderhead,The Boomsday Project,Minion,Shaman,Epic,4,3,6,"Overload, Rush",Elemental,True
 BOTA_447,Toxic Treants,The Boomsday Project,Spell,Neutral,,4,,,,,False
 BOTA_214,Turret Sentinel,The Boomsday Project,Minion,Neutral,,4,4,8,Deathrattle,Mech,False
-BOT_254,Unexpected Results,The Boomsday Project,Spell,Mage,Epic,4,,,,,True
 BOT_401,Weaponized Piñata,The Boomsday Project,Minion,Neutral,Epic,4,4,3,Deathrattle,Mech,True
 BOT_914,Whizbang the Wonderful,The Boomsday Project,Minion,Neutral,Legendary,4,4,5,,,True
 BOTA_448,A Dance with Death,The Boomsday Project,Spell,Neutral,,5,,,,,False
@@ -1135,17 +1148,18 @@ BOTA_625,Double Trouble,The Boomsday Project,Spell,Neutral,,5,,,,,False
 BOT_104,Dyn-o-matic,The Boomsday Project,Minion,Warrior,Rare,5,3,4,Battlecry,Mech,True
 BOT_540,E.M.P. Operative,The Boomsday Project,Minion,Neutral,Epic,5,3,3,Battlecry,,True
 BOTA_305,Frothing Fighters,The Boomsday Project,Spell,Neutral,,5,,,,,False
+BOT_910,Glowstone Technician,The Boomsday Project,Minion,Paladin,Epic,5,3,4,Battlecry,,True
 BOTA_322,Healing Hammers,The Boomsday Project,Spell,Neutral,,5,,,,,False
 BOT_280,Holomancer,The Boomsday Project,Minion,Neutral,Epic,5,3,3,,,True
 BOTA_433,Hurricane of Horrors,The Boomsday Project,Spell,Neutral,,5,,,,,False
 BOTA_533,Infestation!,The Boomsday Project,Spell,Neutral,,5,,,,,False
 BOTA_313,Lethal Lepers,The Boomsday Project,Spell,Neutral,,5,,,,,False
 BOT_544,Loose Specimen,The Boomsday Project,Minion,Neutral,Epic,5,6,6,Battlecry,Beast,True
+BOT_257,Luna's Pocket Galaxy,The Boomsday Project,Spell,Mage,Legendary,5,,,,,True
 BOT_537,Mechano-Egg,The Boomsday Project,Minion,Paladin,Common,5,0,5,Deathrattle,Mech,True
 BOT_243,Myra Rotspring,The Boomsday Project,Minion,Rogue,Legendary,5,4,2,"Deathrattle, Battlecry, Discover",,True
 BOT_242,Myra's Unstable Element,The Boomsday Project,Spell,Rogue,Legendary,5,,,,,True
 BOT_508,Necrium Vial,The Boomsday Project,Spell,Rogue,Epic,5,,,Deathrattle,,True
-BOT_039,Necromechanic,The Boomsday Project,Minion,Hunter,Epic,5,3,6,"Deathrattle, Aura",,True
 BOT_536,Omega Agent,The Boomsday Project,Minion,Warlock,Epic,5,4,5,Battlecry,,True
 BOT_529,Power Word: Replicate,The Boomsday Project,Spell,Priest,Epic,5,,,,,True
 BOTA_635,Primal Investment,The Boomsday Project,Spell,Neutral,,5,,,,,False
@@ -1169,60 +1183,60 @@ BOTA_525,Chilling Winds,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOTA_434,Curious Crustacean,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOT_448,Damaged Stegotron,The Boomsday Project,Minion,Neutral,Common,6,5,12,"Battlecry, Taunt",Mech,True
 BOTA_514,Divine Alignment,The Boomsday Project,Spell,Neutral,,6,,,,,False
+BOT_433,Dr. Morrigan,The Boomsday Project,Minion,Warlock,Legendary,6,5,5,Deathrattle,,True
 BOT_521,Ectomancy,The Boomsday Project,Spell,Warlock,Epic,6,,,,,True
 BOT_099,Eureka!,The Boomsday Project,Spell,Shaman,Rare,6,,,,,True
 BOTA_654,Fungal Frugality,The Boomsday Project,Spell,Neutral,,6,,,,,False
-BOT_910,Glowstone Technician,The Boomsday Project,Minion,Paladin,Epic,6,3,4,Battlecry,,True
 BOTA_636,Healing Hands,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOTA_306,Leeroy Returns,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOT_066,Mechanical Whelp,The Boomsday Project,Minion,Neutral,Rare,6,2,2,Deathrattle,Mech,True
 BOT_601,Meteorologist,The Boomsday Project,Minion,Mage,Rare,6,3,3,Battlecry,,True
 BOT_107,Missile Launcher,The Boomsday Project,Minion,Neutral,Rare,6,4,4,Magnetic,Mech,True
+BOT_422b,New Growth,The Boomsday Project,Spell,Druid,,6,,,,,False
+BOT_422a,Old Growth,The Boomsday Project,Spell,Druid,,6,,,,,False
 BOTA_425,Position Perfection,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOTA_626,Revived and Refreshed,The Boomsday Project,Spell,Neutral,,6,,,,,False
-BOT_218,Security Rover,The Boomsday Project,Minion,Warrior,Rare,6,2,5,Taunt,Mech,True
+BOT_218,Security Rover,The Boomsday Project,Minion,Warrior,Rare,6,2,6,Taunt,Mech,True
 BOT_102,Spark Drill,The Boomsday Project,Minion,Neutral,Rare,6,5,1,"Deathrattle, Rush",Mech,True
 BOTA_332,Spell Addiction,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOT_422,Tending Tauren,The Boomsday Project,Minion,Druid,Rare,6,3,4,,,True
+BOT_245,The Storm Bringer,The Boomsday Project,Spell,Shaman,Legendary,6,,,,,True
 BOTA_316,The Wall,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOTA_323,Toasted Hydra,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOTA_235,Unbeakered Lightning,The Boomsday Project,Spell,Neutral,,6,,,,,False
 BOT_258,"Zerek, Master Cloner",The Boomsday Project,Minion,Priest,Legendary,6,5,5,Deathrattle,,True
 BOTA_515,Aha!,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOT_256,Astromancer,The Boomsday Project,Minion,Mage,Epic,7,5,5,Battlecry,,True
-BOT_237,Beryllium Nullifier,The Boomsday Project,Minion,Warrior,Epic,7,3,8,Magnetic,Mech,True
+BOT_237,Beryllium Nullifier,The Boomsday Project,Minion,Warrior,Epic,7,4,8,Magnetic,Mech,True
 BOT_034,Boommaster Flark,The Boomsday Project,Minion,Hunter,Legendary,7,5,5,Battlecry,,True
 BOTA_324,C'Thun! C'Thun! C'THUN!,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOTA_307,Cosmic Fire,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOT_238,"Dr. Boom, Mad Genius",The Boomsday Project,Hero,Warrior,Legendary,7,,30,"Battlecry, Rush",,True
 BOT_423,Dreampetal Florist,The Boomsday Project,Minion,Druid,Epic,7,4,4,,,True
+BOT_429,Flark's Boom-Zooka,The Boomsday Project,Spell,Hunter,Legendary,7,,,,,True
 BOTA_317,Four Horsemen,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOT_270,Giggling Inventor,The Boomsday Project,Minion,Neutral,Rare,7,2,1,"Battlecry, Taunt, Divine Shield",,True
+BOT_507,Gloop Sprayer,The Boomsday Project,Minion,Druid,Common,7,4,4,Battlecry,,True
 BOT_912,Kangor's Endless Army,The Boomsday Project,Spell,Paladin,Legendary,7,,,Magnetic,,True
-BOT_257,Luna's Pocket Galaxy,The Boomsday Project,Spell,Mage,Legendary,7,,,,,True
 BOT_066t,Mechanical Dragon,The Boomsday Project,Minion,Neutral,,7,7,7,,Mech,False
 BOTA_426,Scorched Earth,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOTA_506,Shields Up!,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOTA_435,Shocking Spells,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOTA_617,Splash!,The Boomsday Project,Spell,Neutral,,7,,,,,False
 BOT_552,Star Aligner,The Boomsday Project,Minion,Neutral,Epic,7,7,7,Battlecry,,True
-BOT_245,The Storm Bringer,The Boomsday Project,Spell,Shaman,Legendary,7,,,,,True
 BOTA_208,Demonic Research,The Boomsday Project,Spell,Neutral,,8,,,,,False
-BOT_433,Dr. Morrigan,The Boomsday Project,Minion,Warlock,Legendary,8,5,5,Deathrattle,,True
 BOTA_427,Dragon Removal Service,The Boomsday Project,Spell,Neutral,,8,,,,,False
-BOT_429,Flark's Boom-Zooka,The Boomsday Project,Spell,Hunter,Legendary,8,,,,,True
 BOTA_314,Full Draw,The Boomsday Project,Spell,Neutral,,8,,,,,False
-BOT_507,Gloop Sprayer,The Boomsday Project,Minion,Druid,Common,8,4,4,Battlecry,,True
 BOT_537t,Robosaur,The Boomsday Project,Minion,Paladin,,8,8,8,,Mech,False
 BOTA_507,Three Odd Yetis,The Boomsday Project,Spell,Neutral,,8,,,,,False
 BOTA_655,Visions of Vitality,The Boomsday Project,Spell,Neutral,,8,,,,,False
 BOT_534,Bull Dozer,The Boomsday Project,Minion,Neutral,Common,9,9,7,Divine Shield,Mech,True
+BOT_523,Mulchmuncher,The Boomsday Project,Minion,Druid,Rare,9,8,8,Rush,Mech,True
 BOTA_315,Plan B,The Boomsday Project,Spell,Neutral,,9,,,,,False
 BOT_069,The Boomship,The Boomsday Project,Spell,Warrior,Legendary,9,,,Rush,,True
 BOT_567,Zerek's Cloning Gallery,The Boomsday Project,Spell,Priest,Legendary,9,,,,,True
 BOTA_229,Boom-in-a-Box,The Boomsday Project,Minion,Neutral,,10,0,10,"Deathrattle, Stealth",,False
 BOT_424,Mecha'thun,The Boomsday Project,Minion,Neutral,Legendary,10,10,10,Deathrattle,Mech,True
-BOT_523,Mulchmuncher,The Boomsday Project,Minion,Druid,Rare,10,8,8,Rush,Mech,True
 BOTA_244,Ray of Roasting,The Boomsday Project,Spell,Neutral,,10,,,,,False
 TRLA_104t,Akali's Champion,Rastakhan's Rumble,Minion,Warrior,,,None,None,,,False
 TRLA_104,Akali's Champion,Rastakhan's Rumble,Minion,Warrior,,,None,8,InvisibleDeathrattle,,False
@@ -1254,12 +1268,12 @@ TRLA_155,Krag'wa's Grace,Rastakhan's Rumble,Minion,Shaman,,,None,10,InvisibleDea
 TRLA_155t,Krag'wa's Grace,Rastakhan's Rumble,Minion,Shaman,,,None,None,,,False
 TRLA_109t,Krag'wa's Lure,Rastakhan's Rumble,Minion,Shaman,,,None,None,,,False
 TRLA_187t,Pirate's Mark,Rastakhan's Rumble,Minion,Rogue,,,None,None,,,False
-TRLA_138,Shirvallah's Grace,Rastakhan's Rumble,Minion,Paladin,,,None,5,InvisibleDeathrattle,,False
 TRLA_138t,Shirvallah's Grace,Rastakhan's Rumble,Minion,Paladin,,,None,None,,,False
-TRLA_105,Shirvallah's Protection,Rastakhan's Rumble,Minion,Paladin,,,None,4,"InvisibleDeathrattle, Divine Shield",,False
+TRLA_138,Shirvallah's Grace,Rastakhan's Rumble,Minion,Paladin,,,None,5,InvisibleDeathrattle,,False
 TRLA_105t,Shirvallah's Protection,Rastakhan's Rumble,Minion,Paladin,,,None,None,,,False
-TRLA_137,Shirvallah's Vengeance,Rastakhan's Rumble,Minion,Paladin,,,None,5,InvisibleDeathrattle,,False
+TRLA_105,Shirvallah's Protection,Rastakhan's Rumble,Minion,Paladin,,,None,4,"InvisibleDeathrattle, Divine Shield",,False
 TRLA_137t,Shirvallah's Vengeance,Rastakhan's Rumble,Minion,Paladin,,,None,None,,,False
+TRLA_137,Shirvallah's Vengeance,Rastakhan's Rumble,Minion,Paladin,,,None,5,InvisibleDeathrattle,,False
 TRLA_186t,Treasure from Below,Rastakhan's Rumble,Minion,Rogue,,,None,None,,,False
 TRLA_107t,Tribal Shrine,Rastakhan's Rumble,Minion,Neutral,,,None,None,,,False
 TRLA_154,Tribute from the Tides,Rastakhan's Rumble,Minion,Shaman,,,None,3,"InvisibleDeathrattle, Battlecry",,False
@@ -1316,7 +1330,6 @@ TRLA_Hunter_01,Fresh Meat,Rastakhan's Rumble,Spell,Hunter,,0,,,,,False
 TRLA_Mage_05,Frost,Rastakhan's Rumble,Spell,Mage,,0,,,,,False
 TRLA_129s,Frostfire,Rastakhan's Rumble,Spell,Mage,,0,,,,,False
 TRLA_Druid_14,Going Wild,Rastakhan's Rumble,Spell,Druid,,0,,,,,False
-TRL_254a,Gonk's Resilience,Rastakhan's Rumble,Spell,Druid,,0,,,,,False
 TRLA_Mage_09,Gurubashi Legends,Rastakhan's Rumble,Spell,Mage,,0,,,,,False
 TRLA_163,Halazzi's Guise,Rastakhan's Rumble,Minion,Hunter,,0,None,6,"InvisibleDeathrattle, Rush, Poisonous, Taunt",,False
 TRLA_162,Halazzi's Hunt,Rastakhan's Rumble,Minion,Hunter,,0,None,5,"InvisibleDeathrattle, Overkill",,False
@@ -1360,12 +1373,10 @@ TRLA_Rogue_02,Pirates,Rastakhan's Rumble,Spell,Rogue,,0,,,,,False
 TRL_243,Pounce,Rastakhan's Rumble,Spell,Druid,Common,0,,,,,True
 TRLA_208h,Princess Talanji,Rastakhan's Rumble,Hero,Priest,,0,,10,,,False
 TRLA_Warrior_08,Protection,Rastakhan's Rumble,Spell,Warrior,,0,,,,,False
-TRL_254b,Raptor Pack,Rastakhan's Rumble,Spell,Druid,,0,,,,,False
 TRLA_Paladin_03,Recruits,Rastakhan's Rumble,Spell,Paladin,,0,,,,,False
 TRL_128,Regenerate,Rastakhan's Rumble,Spell,Priest,Common,0,,,,,True
 TRLA_Paladin_06,Reinforce,Rastakhan's Rumble,Spell,Paladin,,0,,,,,False
 TRLA_Priest_07,Resilient,Rastakhan's Rumble,Spell,Priest,,0,,,,,False
-TRLA_209h,Rikkar,Rastakhan's Rumble,Hero,Neutral,,0,,20,,,False
 TRLA_209h_Mage,Rikkar,Rastakhan's Rumble,Hero,Mage,,0,,20,,,False
 TRLA_209h_Druid,Rikkar,Rastakhan's Rumble,Hero,Druid,,0,,20,,,False
 TRLA_209h_Hunter,Rikkar,Rastakhan's Rumble,Hero,Hunter,,0,,20,,,False
@@ -1375,6 +1386,7 @@ TRLA_209h_Rogue,Rikkar,Rastakhan's Rumble,Hero,Rogue,,0,,20,,,False
 TRLA_209h_Warrior,Rikkar,Rastakhan's Rumble,Hero,Warrior,,0,,20,,,False
 TRLA_209h_Shaman,Rikkar,Rastakhan's Rumble,Hero,Shaman,,0,,20,,,False
 TRLA_209h_Warlock,Rikkar,Rastakhan's Rumble,Hero,Warlock,,0,,20,,,False
+TRLA_209h,Rikkar,Rastakhan's Rumble,Hero,Neutral,,0,,20,,,False
 TRLA_808,Roaring Edifice,Rastakhan's Rumble,Spell,Neutral,,0,,,Deathrattle,,False
 TRLA_Druid_13,Rumble Kings,Rastakhan's Rumble,Spell,Druid,,0,,,,,False
 TRLA_Warrior_06,Rush,Rastakhan's Rumble,Spell,Warrior,,0,,,,,False
@@ -1497,7 +1509,6 @@ TRLA_188,Pesky Rascal,Rastakhan's Rumble,Minion,Rogue,,3,1,1,,,False
 TRL_343ct1,Pterrordax,Rastakhan's Rumble,Minion,Druid,Legendary,3,1,4,Spell Damage,Beast,False
 TRL_315,Pyromaniac,Rastakhan's Rumble,Minion,Mage,Rare,3,3,4,,,True
 TRLA_167,Rabid Saurolisk,Rastakhan's Rumble,Minion,Hunter,,3,4,1,"Poisonous, Deathrattle",Beast,False
-TRL_124,Raiding Party,Rastakhan's Rumble,Spell,Rogue,Rare,3,,,Combo,,True
 TRL_343dt1,Ravasaur,Rastakhan's Rumble,Minion,Druid,Legendary,3,1,2,"Poisonous, Stealth",Beast,False
 TRL_551,Reckless Diretroll,Rastakhan's Rumble,Minion,Warlock,Common,3,2,6,"Battlecry, Taunt",,True
 TRL_343bt1,Sabertusk,Rastakhan's Rumble,Minion,Druid,Legendary,3,4,2,Rush,Beast,False
@@ -1530,6 +1541,7 @@ TRLA_151,Bwonsamdi's Keeper,Rastakhan's Rumble,Minion,Priest,,4,4,5,Battlecry,,F
 TRLA_184,Dark Diviner,Rastakhan's Rumble,Minion,Warlock,,4,4,5,Battlecry,,False
 TRLA_143,Gloryseeker,Rastakhan's Rumble,Minion,Paladin,,4,3,1,,,False
 TRLA_131,Glyph Guardian,Rastakhan's Rumble,Minion,Mage,,4,4,6,"Spell Damage, Freeze",Dragon,False
+TRL_254a,Gonk's Resilience,Rastakhan's Rumble,Spell,Druid,,4,,,,,False
 TRL_096,Griftah,Rastakhan's Rumble,Minion,Neutral,Legendary,4,4,5,"Battlecry, Discover",,True
 TRL_010,Half-Time Scavenger,Rastakhan's Rumble,Minion,Neutral,Common,4,3,5,"Overkill, Stealth",,True
 TRLA_176,Herald of Flame,Rastakhan's Rumble,Minion,Warrior,,4,7,7,Rush,Dragon,False
@@ -1540,6 +1552,8 @@ TRLA_192,Lobstrok Tastetester,Rastakhan's Rumble,Minion,Rogue,,4,3,3,,Beast,Fals
 TRL_254,Mark of the Loa,Rastakhan's Rumble,Spell,Druid,Rare,4,,,,,True
 TRL_520,Murloc Tastyfin,Rastakhan's Rumble,Minion,Neutral,Rare,4,3,2,Deathrattle,Murloc,True
 TRL_244,Predatory Instincts,Rastakhan's Rumble,Spell,Druid,Rare,4,,,,,True
+TRL_124,Raiding Party,Rastakhan's Rumble,Spell,Rogue,Rare,4,,,Combo,,True
+TRL_254b,Raptor Pack,Rastakhan's Rumble,Spell,Druid,,4,,,,,False
 TRLA_130,Razzle Dazzler,Rastakhan's Rumble,Minion,Mage,,4,2,5,"Taunt, Battlecry",,False
 TRL_508,Regeneratin' Thug,Rastakhan's Rumble,Minion,Neutral,Common,4,3,5,,,True
 TRL_531,Rumbletusk Shaker,Rastakhan's Rumble,Minion,Neutral,Common,4,3,2,Deathrattle,,True
@@ -1599,7 +1613,7 @@ TRL_257,Blood Troll Sapper,Rastakhan's Rumble,Minion,Warlock,Common,7,5,8,,,True
 TRL_260,"Bwonsamdi, the Dead",Rastakhan's Rumble,Minion,Priest,Legendary,7,7,7,Battlecry,,True
 TRL_569,Crowd Roaster,Rastakhan's Rumble,Minion,Neutral,Epic,7,7,4,Battlecry,Dragon,True
 TRL_241,"Gonk, the Raptor",Rastakhan's Rumble,Minion,Druid,Legendary,7,4,9,,Beast,True
-TRL_077,Gurubashi Hypemon,Rastakhan's Rumble,Minion,Rogue,Epic,7,5,7,Battlecry,,True
+TRL_077,Gurubashi Hypemon,Rastakhan's Rumble,Minion,Rogue,Epic,7,5,7,"Battlecry, Discover",,True
 TRL_232,Ironhide Direhorn,Rastakhan's Rumble,Minion,Druid,Common,7,7,7,Overkill,Beast,True
 TRL_316,"Jan'alai, the Dragonhawk",Rastakhan's Rumble,Minion,Mage,Legendary,7,4,4,Battlecry,Beast,True
 TRL_528,Linecracker,Rastakhan's Rumble,Minion,Neutral,Epic,7,5,10,Overkill,,True
@@ -1620,110 +1634,577 @@ TRL_541,"Hakkar, the Soulflayer",Rastakhan's Rumble,Minion,Neutral,Legendary,10,
 TRL_065,Zul'jin,Rastakhan's Rumble,Hero,Hunter,Legendary,10,,30,Battlecry,,True
 TRL_408,Grave Horror,Rastakhan's Rumble,Minion,Priest,Rare,12,7,8,Taunt,,True
 TRL_300,"Shirvallah, the Tiger",Rastakhan's Rumble,Minion,Paladin,Legendary,25,7,5,"Divine Shield, Rush, Lifesteal",Beast,True
+DALA_BOSS_75p,A Quest!,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_39h,Aki the Brilliant,Rise of Shadows,Hero,Paladin,,,,30,,,False
+DALA_BOSS_13h,Albin Eastoft,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_BOSS_16h,Alchemist Wendy,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_71h,Anarii Duskgrove,Rise of Shadows,Hero,Druid,,,,30,,,False
+DALA_BOSS_08h,Applebough,Rise of Shadows,Hero,Druid,,,,30,,,False
+DALA_BOSS_24px,Ar'ha's Call,Rise of Shadows,Hero Power,Neutral,,,,,"AIMustPlay, Battlecry",,False
+DALA_BOSS_67p,Arcane Runes,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_09h,Archivist Oshi,Rise of Shadows,Hero,Priest,,,,30,,,False
+DALA_BOSS_69h,Archmage Kalec,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_60h,Archmage Khadgar,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_67h,Archmage Vargoth,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_25p,Assembly,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_25px,Assembly,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_02h,"Awilo, Cooking Trainer",Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_11px,Backstabber,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_11p,Backstabber,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_64h,Banker Biggs,Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_59px,Blackmail,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_15p,Blessing of Elune,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_22h,Bookmaster Bae Chao,Rise of Shadows,Hero,Priest,,,,30,,,False
+DALA_BOSS_58h,Boommaster Flark,Rise of Shadows,Hero,Hunter,,,,30,,,False
+DALA_Eudora,Captain Eudora,Rise of Shadows,Hero,Rogue,,,,15,,,False
+DALA_BOSS_55h,Captain Hannigan,Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_34h,Carousel Gryphon,Rise of Shadows,Hero,Druid,,,,30,,,False
+DALA_BOSS_01h,Chomper,Rise of Shadows,Hero,Hunter,,,,10,,,False
+DALA_BOSS_26p,Cold Water,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_26px,Cold Water,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_75h,Commander Bolan,Rise of Shadows,Hero,Paladin,,,,30,,,False
+DALA_BOSS_12h,Cravitz Lorent,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_BOSS_49h,Cyanigosa,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_63h,Dagg Cruelmight,Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_26h,Dalaran Fountain Golem,Rise of Shadows,Hero,Shaman,,,,30,,,False
+DALA_BOSS_53h,Dancin' Deryl,Rise of Shadows,Hero,Shaman,,,,30,,,False
+DALA_BOSS_62px,Darken,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_06h,"Dazzik ""Hellscream""",Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_18h,Disidra Stormglory,Rise of Shadows,Hero,Shaman,,,,30,,,False
+DALA_BOSS_36h,Draemus,Rise of Shadows,Hero,Hunter,,,,30,,,False
+DALA_BOSS_16px,Equivalent Exchange,Rise of Shadows,Hero Power,Neutral,,,,,AIMustPlay,,False
+DALA_BOSS_44h,Erekem,Rise of Shadows,Hero,Shaman,,,,30,,,False
+DALA_BOSS_07h,Flight Master Belnaara,Rise of Shadows,Hero,Hunter,,,,30,,,False
+DALA_BOSS_07p2,Flying!,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_George,George the Fallen,Rise of Shadows,Hero,Paladin,,,,15,,,False
+DALA_BOSS_57p,Greed is Good,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_62h,Haro Setting-Sun,Rise of Shadows,Hero,Priest,,,,30,,,False
+DALA_BOSS_73h,Hesutu Stonewind,Rise of Shadows,Hero,Shaman,,,,30,,,False
+DALA_BOSS_46h,Ichoron,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_40px,Immolation Aura,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_40p,Immolation Aura,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_65p,Impervious,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_25h,Jepetto Joybuzz,Rise of Shadows,Hero,Hunter,,,,30,,,False
+DALA_BOSS_43p,Kaironomaly,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_74h,Kara Stamper,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_BOSS_04h,Kaye Toogie,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_BOSS_72h,Kazamon Steelskin,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_Kriziki,Kriziki,Rise of Shadows,Hero,Priest,,,,15,,,False
+DALA_BOSS_47px,Lava Belch,Rise of Shadows,Hero Power,Neutral,,,,,AIMustPlay,,False
+DALA_BOSS_47h,Lavanthor,Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_52h,Lieutenant Sinclari,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_68h,Lilayell Suntear,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_19h,Linzi Redgrin,Rise of Shadows,Hero,Rogue,,,,10,,,False
+DALA_BOSS_54h,Locksmith Zibb,Rise of Shadows,Hero,Shaman,,,,30,,,False
+DALA_BOSS_59h,Madam Goya,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_BOSS_33p,Made of Coins,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_43h,Magistrix Norroa,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_66h,Marei Loom,Rise of Shadows,Hero,Warlock,,,,10,,,False
+DALA_BOSS_27p,Masterpiece!,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_68px,Mega Portal,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_51h,Millificent Manastorm,Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_68p,Mini Portal,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_10h,Mo Eniwhiskers,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_BOSS_15h,Moon Priestess Nici,Rise of Shadows,Hero,Priest,,,,30,,,False
+DALA_BOSS_45h,Moragg,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_Chu,Mr. Chu,Rise of Shadows,Hero,Warrior,,,,15,,,False
+DALA_BOSS_66p,Next...,Rise of Shadows,Hero Power,Neutral,,,,,AIMustPlay,,False
+DALA_BOSS_11h,Noz Timbertail,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_BOSS_50h,Nozari,Rise of Shadows,Hero,Paladin,,,,30,,,False
+DALA_Barkeye,Ol' Barkeye,Rise of Shadows,Hero,Hunter,,,,15,,,False
+DALA_BOSS_37h,Ol' Toomba,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_BOSS_40h,Oxana Demonslay,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_BOSS_42h,P.O.G.O.,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_BOSS_03px,Prestidigitation,Rise of Shadows,Hero Power,Neutral,,,,,AIMustPlay,,False
+DALA_BOSS_56h,Queen Wagtoggle,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_Rakanishu,Rakanishu,Rise of Shadows,Hero,Mage,,,,15,,,False
+DALA_BOSS_24h,Ranger Ar'ha,Rise of Shadows,Hero,Hunter,,,,30,,,False
+DALA_BOSS_27h,Rasil Fireborne,Rise of Shadows,Hero,Paladin,,,,30,,,False
+DALA_BOSS_61h,Sael'orn,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_BOSS_23h,Sharky McFin,Rise of Shadows,Hero,Druid,,,,30,,,False
+DALA_BOSS_22px,Shhh!,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_70h,Sky Captain Smiggs,Rise of Shadows,Hero,Hunter,,,,30,,,False
+DALA_BOSS_35h,Soothsayer Zoie,Rise of Shadows,Hero,Priest,,,,30,,,False
+DALA_BOSS_74px,Soul Weave,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_54p,Spell Lock,Rise of Shadows,Hero Power,Neutral,,,,,Overload,,False
+DALA_Squeamlish,Squeamlish,Rise of Shadows,Hero,Druid,,,,15,,,False
+DALA_BOSS_72p,Steelskin,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_20p,Stormswell,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_20px,Stormswell,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_07p,Take Flight!,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_17h,Tala Stonerage,Rise of Shadows,Hero,Druid,,,,30,,,False
+DALA_Tekahn,Tekahn,Rise of Shadows,Hero,Warlock,,,,15,,,False
+DALA_BOSS_05h,"The Amazing ""Bonepaw""",Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_02px,The Feast,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_02p,The Feast,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_03h,The Great Akazamzarak,Rise of Shadows,Hero,Mage,,,,10,,,False
+DALA_BOSS_30h,The Rat King,Rise of Shadows,Hero,Druid,,,,10,,,False
+DALA_BOSS_14h,Tierra Blythe,Rise of Shadows,Hero,Warrior,,,,30,,,False
+DALA_BOSS_31h,Timothy Jones,Rise of Shadows,Hero,Paladin,,,,30,,,False
+DALA_BOSS_38h,Tipsi Wobblerune,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_57h,Trade Prince Gallywix,Rise of Shadows,Hero,Rogue,,,,30,,,False
+DALA_BOSS_17p,Twin Paths,Rise of Shadows,Hero Power,Neutral,,,,,Aura,,False
+DALA_BOSS_41h,Ungan Oddkind,Rise of Shadows,Hero,Hunter,,,,30,,,False
+DALA_BOSS_65h,Valdera Highborne,Rise of Shadows,Hero,Paladin,,,,30,,,False
+DALA_BOSS_20h,Vas'no,Rise of Shadows,Hero,Shaman,,,,30,,,False
+DALA_Vessina,Vessina,Rise of Shadows,Hero,Shaman,,,,15,,,False
+DALA_832t,Violet Prison,Rise of Shadows,Minion,Neutral,,,None,None,,,False
+DALA_BOSS_61p,Web Grab,Rise of Shadows,Hero Power,Neutral,,,,,,,False
+DALA_BOSS_21h,Whirt the All-Knowing,Rise of Shadows,Hero,Mage,,,,30,,,False
+DALA_BOSS_28h,Xur'ios,Rise of Shadows,Hero,Mage,,,,30,,,False
+DAL_800h,"Zayle, Shadow Cloak",Rise of Shadows,Hero,Whizbang,Free,,,30,,,False
+DALA_BOSS_48h,Zuramat the Obliterator,Rise of Shadows,Hero,Warlock,,,,30,,,False
+DALA_738,A Prince's Ring,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Priest_02,Afterlife,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Hunter_08,Aggression,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Druid_04,All Bark,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Warrior_10,All Might,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_850,Anomaly - Arcane,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_852,Anomaly - Crying,Rise of Shadows,Spell,Neutral,,0,,,Battlecry,,False
+DALA_860,Anomaly - Dragon Soul,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_865,Anomaly - Explosive,Rise of Shadows,Spell,Neutral,,0,,,Deathrattle,,False
+DALA_858,Anomaly - Fishy,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_857,Anomaly - Glittering,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_859,Anomaly - Gorged,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_864,Anomaly - Growing,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_863,Anomaly - Hallucinating,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_867,Anomaly - Infused,Rise of Shadows,Spell,Neutral,,0,,,"Taunt, Divine Shield, Rush, Windfury",,False
+DALA_854,Anomaly - Nesting,Rise of Shadows,Spell,Neutral,,0,,,Deathrattle,,False
+DALA_861,Anomaly - Ogreish,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_853,Anomaly - Rattling,Rise of Shadows,Spell,Neutral,,0,,,Deathrattle,,False
+DALA_862,Anomaly - Reductive,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_855,Anomaly - Refreshing,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_866,Anomaly - Rejuvenating,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_851,Anomaly - Summons,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_856,Anomaly - Wild Magic,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Warrior_08,Armored Up,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Warrior_09,Arsenal,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_BOSS_99h,Bartender Bob,Rise of Shadows,Hero,Paladin,,0,,40,,,False
+DALA_BOSS_98h,Bartendotron,Rise of Shadows,Hero,Paladin,,0,,40,,,False
+DALA_Hunter_11,Battlecry,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Rogue_10,Battlecry,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Shaman_07,Battlecry,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Druid_10,Beasts and Buffs,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Hunter_05,Big Beasts,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_724d,Big Boomba Dummy Effects,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Warlock_01,Big Demons,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Druid_11,Big Friends,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Warrior_03,Big Minions,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Shaman_05,Big Shaman,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Warrior_04,Bombs Away!,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_739,Book of Wonders,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_912,Brood,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Mage_06,BURN!,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Shaman_09,Carvings,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Druid_03,"Choices, Choices",Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Rogue_06,Cogs and Gears,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Mage_02,Coldsnap,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Rogue_01,Combo,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Warlock_11,Curatives,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Priest_01,Curatives,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Rogue_08,Cutthroat,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Warrior_02,Damaged,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Hunter_03,Deathrattle,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Rogue_05,Deathrattle,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Warlock_08,Destruction,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Warlock_06,Discard,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_902,Dismiss,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_743,Dr. Boom's Remote,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Warrior_07,Dragon,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Priest_08,Dragonfire,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Paladin_03,Dragons,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_Warlock_03,Draw,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Rogue_09,Draw!,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Shaman_06,Elemental Wrath,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Mage_07,Elements,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_746,Elixir of Vigor,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_746d,Elixir of Vigor Dummy,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_748,Elixir of Vile,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_747,Elixir of Vim,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_733,Emerald Goggles,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Hunter_07,Empowering,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Warlock_10,Empowering,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Mage_09,Fate's Hand,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Druid_06,Feral Bite,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Shaman_03,Fishy,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Shaman_01,Flood,Rise of Shadows,Spell,Shaman,,0,,,,,False
 DAL_723,Forbidden Words,Rise of Shadows,Spell,Priest,Rare,0,,,,,True
+DALA_Priest_03,From the Graves,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Mage_05,Go Big,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_BOSS_33h,Gold Elemental,Rise of Shadows,Hero,Warlock,,0,,40,,,False
+DALA_744,Hagatha's Embrace,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_744d,Hagatha's Embrace Dummy Effects,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Paladin_06,Handbuff,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_BOSS_35p,Healing Hands,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_BOSS_35px,Healing Hands,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_Paladin_05,Healing Hands,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_Paladin_04,Holy Infusions,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_Warlock_07,In Control,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Mage_11,Inspired,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Warrior_06,Iron and Steel,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Paladin_11,Judgment,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_911,Kindle,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Rogue_04,Kingslayer,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_BOSS_32h,Kizi Copperclip,Rise of Shadows,Hero,Warrior,,0,,10,,,False
 DAL_011,Lazul's Scheme,Rise of Shadows,Spell,Priest,Epic,0,,,,,True
+DALA_Warlock_12,Legend,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Shaman_12,Legends,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Hunter_12,Legends,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Mage_12,Legends,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Priest_12,Legends,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Rogue_12,Legends,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Druid_12,Legends,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Paladin_12,Legends,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_Warrior_12,Legends,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Warlock_09,Lil' Demons,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_BOSS_29h,Mama Diggs,Rise of Shadows,Hero,Shaman,,0,,40,,,False
+DALA_Warrior_01,Mercenaries,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_BOSS_34p,Merry Go Round,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_Priest_11,Miracles,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Mage_01,Multi-Cast,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Paladin_07,Murglgglgl,Rise of Shadows,Spell,Paladin,,0,,,,,False
 DAL_071,Mutate,Rise of Shadows,Spell,Shaman,Common,0,,,,,True
+DALA_Druid_05,Nature's Wrath,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Druid_07,Nurture and Grow,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Priest_06,Old God,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Shaman_04,Overload,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_715,Overpowered,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Hunter_09,Overwhelm,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Warlock_05,Pain,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Priest_07,Pint-Sized,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Mage_04,Powered Up,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Hunter_10,Professional,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Druid_09,Protectors,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Paladin_10,Protectors,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_801,Random Druid Deck,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_802,Random Hunter Deck,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_800,Random Mage Deck,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_803,Random Paladin Deck,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_804,Random Priest Deck,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_805,Random Rogue Deck,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_806,Random Shaman Deck,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_807,Random Warlock Deck,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_808,Random Warrior Deck,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Druid_02,Recovery,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_728,Recycling,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_728d,Recycling Dummy Effects,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Shaman_10,Regeneration,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_737,Resourcefulness,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Druid_08,Roar!,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_735,Robes of Gaudiness,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Paladin_08,Robotic,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_731,Rocket Backpacks,Rise of Shadows,Spell,Neutral,,0,,,Rush,,False
+DALA_Warrior_05,Rush,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Warlock_04,Sacrifice,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Rogue_07,Scallywags,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_BOSS_28p,Scroll Savvy,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_Paladin_01,Secret Whispers,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_Hunter_02,Secretive,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Priest_04,Shadows,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Shaman_11,Shifting Scales,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Paladin_02,Small Army,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_Hunter_01,Spells,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Rogue_11,Spellslinger,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Shaman_02,Spirits,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_Shaman_08,Sssspells,Rise of Shadows,Spell,Shaman,,0,,,,,False
+DALA_736,Stargazing,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_BOSS_10p,Street Smarts,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_BOSS_10px,Street Smarts,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_Priest_10,Strength Within,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_Mage_03,Summoning,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Druid_01,Swarm,Rise of Shadows,Spell,Druid,,0,,,,,False
+DALA_Warlock_02,Swarming,Rise of Shadows,Spell,Warlock,,0,,,,,False
+DALA_Warrior_11,Taunt,Rise of Shadows,Spell,Warrior,,0,,,,,False
+DALA_Hunter_04,Technological,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_Mage_08,Technology,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_701,The Box,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_745,The Hand of Rafaam,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Paladin_09,The Silver Hand,Rise of Shadows,Spell,Paladin,,0,,,,,False
+DALA_Rogue_02,Thief,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_Hunter_06,Tiny Trouble,Rise of Shadows,Spell,Hunter,,0,,,,,False
+DALA_741,Togwaggle's Dice,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Mage_10,Trade Secrets,Rise of Shadows,Spell,Mage,,0,,,,,False
+DALA_Rogue_03,Trickery,Rise of Shadows,Spell,Rogue,,0,,,,,False
+DALA_833,Twist - The Carts,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_829,Twist - The Coffers,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_830,Twist - The Finale,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_832,Twist - The Prisons,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_831,Twist - The Stench,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_Priest_09,Twisted,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_BOSS_49p,Uncontrollable Energy,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_BOSS_49px,Uncontrollable Energy,Rise of Shadows,Hero Power,Neutral,,0,,,,,False
+DALA_Priest_05,What's Mind is Mine,Rise of Shadows,Spell,Priest,,0,,,,,False
+DALA_740,Wondrous Wisdomball,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_740ts,Wondrous Wisdomball Copy Cards Tokenspell,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_740ts2,Wondrous Wisdomball Empty Hand Tokenspell,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_740ts3,Wondrous Wisdomball Free Minions Tokenspell,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_740ts4,Wondrous Wisdomball Random Legendary Tokenspell,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_740ts5,Wondrous Wisdomball Summon Taunts Tokenspell,Rise of Shadows,Spell,Neutral,,0,,,,,False
+DALA_909,You're All Fired!,Rise of Shadows,Spell,Neutral,,0,,,,,False
 DAL_354,Acornbearer,Rise of Shadows,Minion,Druid,Common,1,2,1,Deathrattle,,True
 DAL_087t,Amalgam,Rise of Shadows,Minion,Neutral,,1,1,1,,All,False
+DAL_087tw,Amalgam,Rise of Shadows,Weapon,Neutral,,1,1,1,,All,False
+DALA_BOSS_03t2,Bunnifitronus,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_Mage_HP1,Burning Wit,Rise of Shadows,Hero Power,Mage,,1,,,,,False
+DALA_829t,Cache of Cash,Rise of Shadows,Minion,Neutral,,1,None,3,Deathrattle,,False
+DALA_717,Case Study,Rise of Shadows,Spell,Neutral,,1,,,"Discover, Quest",,False
 DAL_733t,Crystal Dryad,Rise of Shadows,Minion,Druid,,1,1,2,Lifesteal,,False
 DAL_350,Crystal Power,Rise of Shadows,Spell,Druid,Common,1,,,,,True
 DAL_728,Daring Escape,Rise of Shadows,Spell,Rogue,Common,1,,,,,True
+DALA_BOSS_44p,Dark Tidings,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
+DALA_BOSS_44px,Dark Tidings,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
 DAL_141ts,Desperate Measures,Rise of Shadows,Spell,Paladin,Rare,1,,,Secret,,False
 DAL_141,Desperate Measures,Rise of Shadows,Spell,Paladin,Rare,1,,,"Twinspell, Secret",,True
+DALA_833t4,Dessert Cart,Rise of Shadows,Minion,Neutral,,1,0,1,,,False
+DALA_BOSS_69px,Dragonwrath,Rise of Shadows,Hero Power,Neutral,,1,,,Spell Damage,,False
+DALA_BOSS_16p,Equivalent Exchange,Rise of Shadows,Hero Power,Neutral,,1,,,AIMustPlay,,False
 DAL_741,Ethereal Lackey,Rise of Shadows,Minion,Neutral,,1,1,1,"Battlecry, Discover",,False
+DALA_BOSS_29p,Excavate,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
+DALA_BOSS_36t,Exotic Pet,Rise of Shadows,Minion,Neutral,,1,1,1,,Beast,False
 DAL_613,Faceless Lackey,Rise of Shadows,Minion,Neutral,,1,1,1,Battlecry,,False
+DALA_833t2,Fish Cart,Rise of Shadows,Minion,Neutral,,1,0,1,,,False
+DALA_833t,Fruit Cart,Rise of Shadows,Minion,Neutral,,1,0,1,,,False
 DAL_739,Goblin Lackey,Rise of Shadows,Minion,Neutral,,1,1,1,"Battlecry, Rush",,False
+DALA_904,Good Food,Rise of Shadows,Spell,Neutral,,1,,,,,False
 DAL_350b,Healing Blossom,Rise of Shadows,Spell,Druid,,1,,,,,False
 DAL_743t,Hench-Clan Squire,Rise of Shadows,Minion,Neutral,,1,1,1,,Murloc,False
 DAL_751t,Imp,Rise of Shadows,Minion,Neutral,,1,1,1,,Demon,False
+DALA_BOSS_36px,"Import ""Pet""",Rise of Shadows,Hero Power,Neutral,,1,,,,,False
 DAL_769,Improve Morale,Rise of Shadows,Spell,Warrior,Common,1,,,,,True
+DALA_716t,Kadoom Bot,Rise of Shadows,Spell,Neutral,,1,,,"Immune to Spell Power, Casts When Drawn",,False
 DAL_614,Kobold Lackey,Rise of Shadows,Minion,Neutral,,1,1,1,Battlecry,,False
+DALA_BOSS_47p,Lava Belch,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
+DALA_BOSS_19px,Lil' Eviscerate,Rise of Shadows,Hero Power,Neutral,,1,,,Combo,,False
+DALA_707,Loyal Henchman,Rise of Shadows,Minion,Neutral,,1,1,1,Taunt,,False
 DAL_608,Magic Trick,Rise of Shadows,Spell,Mage,Rare,1,,,Discover,,True
+DALA_BOSS_32p,Makeover,Rise of Shadows,Hero Power,Rogue,,1,,,AIMustPlay,,False
+DALA_833t3,Meat Cart,Rise of Shadows,Minion,Neutral,,1,0,1,,,False
+DALA_BOSS_47t,Molten Rock,Rise of Shadows,Minion,Neutral,,1,None,3,,,False
 DAL_570,Never Surrender!,Rise of Shadows,Spell,Paladin,Common,1,,,Secret,,True
+DALA_Hunter_HP2,Pet Training,Rise of Shadows,Hero Power,Hunter,,1,,,,,False
 DAL_350a,Piercing Thorns,Rise of Shadows,Spell,Druid,,1,,,,,False
+DALA_BOSS_38px,Portal Party,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
 DAL_544,Potion Vendor,Rise of Shadows,Minion,Neutral,Common,1,1,1,Battlecry,,True
+DALA_BOSS_21p,Prediction,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
+DALA_BOSS_03p,Prestidigitation,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
+DALA_BOSS_03t3,Presto Legendaro,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_BOSS_46p,Protective Bubble,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
+DALA_BOSS_46px,Protective Bubble,Rise of Shadows,Hero Power,Neutral,,1,,,AIMustPlay,,False
+DALA_BOSS_55px,Raise the Alarm,Rise of Shadows,Hero Power,Neutral,,1,,,AIMustPlay,,False
 DAL_373,Rapid Fire,Rise of Shadows,Spell,Hunter,Common,1,,,Twinspell,,True
 DAL_373ts,Rapid Fire,Rise of Shadows,Spell,Hunter,Common,1,,,,,False
 DAL_577ts,Ray of Frost,Rise of Shadows,Spell,Mage,Common,1,,,Freeze,,False
 DAL_577,Ray of Frost,Rise of Shadows,Spell,Mage,Common,1,,,"Twinspell, Freeze",,True
+DALA_901,Recruit,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_907,Recruit a Veteran,Rise of Shadows,Spell,Neutral,,1,,,Discover,,False
+DALA_BOSS_03t,Reductomara,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_Shaman_HP2,Refresh,Rise of Shadows,Hero Power,Shaman,,1,,,Overload,,False
+DALA_905,Right Hand Man,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_906,Round of Drinks,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_BOSS_50px,Sand Breath,Rise of Shadows,Hero Power,Neutral,,1,,,AIMustPlay,,False
+DALA_Hunter_HP2t,Shifting Chameleon,Rise of Shadows,Minion,Hunter,,1,1,1,,Beast,False
 DAL_587,Shimmerfly,Rise of Shadows,Minion,Hunter,Rare,1,1,1,Deathrattle,Beast,True
 DAL_433,Sludge Slurper,Rise of Shadows,Minion,Shaman,Rare,1,2,1,"Battlecry, Overload",Murloc,True
+DALA_Priest_HP2,Soothe,Rise of Shadows,Hero Power,Priest,,1,,,,,False
 DAL_354t,Squirrel,Rise of Shadows,Minion,Druid,,1,1,1,,Beast,False
+DALA_903,Take a Chance,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_BOSS_37px,Tales of Fortune,Rise of Shadows,Hero Power,Neutral,,1,,,,,False
+DALA_913,Tall Tales,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_908,Tell a Story,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_910,The Gang's All Here!,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_914,The Upper Hand,Rise of Shadows,Spell,Neutral,,1,,,,,False
 DAL_010,Togwaggle's Scheme,Rise of Shadows,Spell,Rogue,Rare,1,,,,,True
+DALA_BOSS_18px,Totemic Summons,Rise of Shadows,Hero Power,Neutral,,1,,,AIMustPlay,,False
 DAL_077,Toxfin,Rise of Shadows,Minion,Neutral,Common,1,1,2,"Battlecry, Poisonous",Murloc,True
+DALA_708,Untold Splendor,Rise of Shadows,Spell,Neutral,,1,,,,,False
 DAL_566t,Vengeful Scroll,Rise of Shadows,Minion,Neutral,,1,1,1,,,False
 DAL_615,Witchy Lackey,Rise of Shadows,Minion,Neutral,,1,1,1,Battlecry,,False
+DALA_BOSS_03t4,Yoggers Poggers,Rise of Shadows,Spell,Neutral,,1,,,,,False
+DALA_BOSS_06p,"""Armor Up""",Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_14t,"""Kind"" Waitress",Rise of Shadows,Minion,Neutral,,2,2,2,,,False
+DALA_BOSS_06px,"""Tank Up!""",Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_08p,Apple Toss,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_24p,Ar'ha's Call,Rise of Shadows,Hero Power,Neutral,,2,,,Battlecry,,False
 DAL_092,Arcane Servant,Rise of Shadows,Minion,Neutral,Common,2,2,3,,Elemental,True
+DALA_Paladin_HP1,Backup,Rise of Shadows,Hero Power,Paladin,,2,,,,,False
+DALA_725,Banana Split,Rise of Shadows,Spell,Neutral,,2,,,,,False
+DALA_724,Big Boomba,Rise of Shadows,Spell,Neutral,,2,,,,,False
+DALA_BOSS_59p,Blackmail,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_58p,Blast Powder,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_31p,Bling it On!,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_31px,Bling it On!,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_70px,Bombardment,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_70p,Bombardment,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_53px,Boogie Woogie,Rise of Shadows,Hero Power,Neutral,,2,,,Deathrattle,,False
+DALA_Paladin_HP2,Boon of Light,Rise of Shadows,Hero Power,Paladin,,2,,,,,False
+DALA_BOSS_63px,Bully,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_63p,Bully,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_501,Cheerful Spirit,Rise of Shadows,Minion,Mage,,2,2,4,,,False
+DALA_BOSS_01p,Chomp,Rise of Shadows,Hero Power,Neutral,,2,,,Lifesteal,,False
+DAL_579p,Cobalt Leyline,Rise of Shadows,Hero Power,Mage,,2,,,Discover,,False
 DAL_352,Crystalsong Portal,Rise of Shadows,Spell,Druid,Epic,2,,,Discover,,True
+DALA_Rogue_HP2,Cut-less,Rise of Shadows,Hero Power,Rogue,,2,,,,,False
 DAL_735,Dalaran Librarian,Rise of Shadows,Minion,Neutral,Common,2,2,3,"Silence, Battlecry",,True
+DALA_BOSS_62p,Darken,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_Warlock_HP2t,Devious Imp,Rise of Shadows,Minion,Warlock,,2,2,2,,Demon,False
+DALA_Priest_HP1,Distort,Rise of Shadows,Hero Power,Priest,,2,,,,,False
+DALA_BOSS_69p,Dragonwrath,Rise of Shadows,Hero Power,Neutral,,2,,,Spell Damage,,False
 DAL_733,Dreamway Guardians,Rise of Shadows,Spell,Druid,Rare,2,,,Lifesteal,,True
+DALA_BOSS_73px,Earthmother's Rage,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_73p,Earthmother's Rage,Rise of Shadows,Hero Power,Neutral,,2,,,Windfury,,False
+DALA_BOSS_51t,Elementium Squirrel Bomb,Rise of Shadows,Minion,Neutral,,2,None,4,,Mech,False
 DAL_400,EVIL Cable Rat,Rise of Shadows,Minion,Neutral,Common,2,1,1,Battlecry,Beast,True
 DAL_413,EVIL Conscripter,Rise of Shadows,Minion,Priest,Common,2,2,2,Deathrattle,,True
 DAL_606,EVIL Genius,Rise of Shadows,Minion,Warlock,Common,2,2,2,Battlecry,,True
+DALA_Shaman_HP1,Evolution,Rise of Shadows,Hero Power,Shaman,,2,,,,,False
+DALA_BOSS_59t3,Extortion,Rise of Shadows,Spell,Neutral,,2,,,,,False
 DAL_582t2,Felhound,Rise of Shadows,Minion,Neutral,,2,2,2,Rush,Demon,False
 DAL_582t,Felhound Portal,Rise of Shadows,Spell,Neutral,,2,,,"Casts When Drawn, Rush",,False
+DALA_BOSS_39p,For The Light!,Rise of Shadows,Hero Power,Neutral,,2,,,AIMustPlay,,False
+DALA_BOSS_12px,Forbidden Love,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_Mage_HP2,Frostburn,Rise of Shadows,Hero Power,Mage,,2,,,,,False
 DAL_747t,Gryphon,Rise of Shadows,Minion,Neutral,,2,2,2,,Beast,False
 DAL_743,Hench-Clan Hogsteed,Rise of Shadows,Minion,Neutral,Common,2,2,1,"Deathrattle, Rush",Beast,True
+DALA_BOSS_52p,Hold the Gates!,Rise of Shadows,Hero Power,Neutral,,2,,,Taunt,,False
+DALA_BOSS_52px,Hold the Gates!,Rise of Shadows,Hero Power,Neutral,,2,,,Taunt,,False
+DALA_BOSS_36p,"Import ""Pet""",Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_Warrior_HP2t,Improvised Explosive,Rise of Shadows,Spell,Neutral,,2,,,Immune to Spell Power,,False
+DALA_502,Infuriated Banker,Rise of Shadows,Minion,Neutral,,2,1,1,,,False
+DALA_BOSS_64px,Invest!,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_Warrior_HP1,Invigorating Brew,Rise of Shadows,Hero Power,Warrior,,2,,,,,False
 DAL_732,Keeper Stalladris,Rise of Shadows,Minion,Druid,Legendary,2,2,3,,,True
 DAL_575,Khadgar,Rise of Shadows,Minion,Mage,Legendary,2,2,2,,,True
+DALA_504,Kirin Tor Elemental,Rise of Shadows,Minion,Neutral,,2,2,3,,Elemental,False
+DALA_503,Kirin Tor Guard,Rise of Shadows,Minion,Neutral,,2,1,4,,,False
+DALA_Druid_HP1,Lifebloom,Rise of Shadows,Hero Power,Druid,,2,,,,,False
 DAL_568ts,Lightforged Blessing,Rise of Shadows,Spell,Paladin,Common,2,,,Lifesteal,,False
 DAL_568,Lightforged Blessing,Rise of Shadows,Spell,Paladin,Common,2,,,"Twinspell, Lifesteal",,True
+DALA_BOSS_19p,Lil' Eviscerate,Rise of Shadows,Hero Power,Neutral,,2,,,Combo,,False
 DAL_182,Magic Dart Frog,Rise of Shadows,Minion,Mage,Common,2,1,3,,Beast,True
 DAL_603,Mana Cyclone,Rise of Shadows,Minion,Mage,Epic,2,2,2,Battlecry,Elemental,True
+DALA_BOSS_05p,Mana Echoes,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
 DAL_748,Mana Reservoir,Rise of Shadows,Minion,Neutral,Common,2,0,6,Spell Damage,Elemental,True
 DAL_571,Mysterious Blade,Rise of Shadows,Weapon,Paladin,Rare,2,2,2,"Battlecry, Secret",,True
+DALA_BOSS_04p,Open Wormhole,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_Hunter_HP1,Opportunist,Rise of Shadows,Hero Power,Hunter,,2,,,,,False
+DALA_BOSS_14px,Order Up!,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_14p,Order Up!,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_Warlock_HP1,Pain Split,Rise of Shadows,Hero Power,Warlock,,2,,,,,False
 DAL_602,Plot Twist,Rise of Shadows,Spell,Warlock,Rare,2,,,,,True
+DALA_BOSS_42px,Pogoshuffle,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_42p,Pogoshuffle,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_38p,Portal Party,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_55p,Raise the Alarm,Rise of Shadows,Hero Power,Neutral,,2,,,AIMustPlay,,False
+DALA_BOSS_45px,Ray of Suffering,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_09p,Repeat History,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_09px,Repeat History,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_50p,Sand Breath,Rise of Shadows,Hero Power,Neutral,,2,,,AIMustPlay,,False
 DAL_030,Shadowy Figure,Rise of Shadows,Minion,Priest,Epic,2,2,2,"Battlecry, Deathrattle",,True
+DALA_BOSS_23px,Sharkbite,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_23p,Sharkbite,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_13p,Slice and Dice,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
 DAL_710,Soul of the Murloc,Rise of Shadows,Spell,Shaman,Common,2,,,Deathrattle,,True
 DAL_089,Spellbook Binder,Rise of Shadows,Minion,Neutral,Common,2,3,2,"Battlecry, Spell Damage",,True
+DALA_BOSS_60px,Summon Elemental,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_71p,Summon Protectors,Rise of Shadows,Hero Power,Neutral,,2,,,Taunt,,False
 DAL_086,Sunreaver Spy,Rise of Shadows,Minion,Neutral,Common,2,2,3,"Battlecry, Secret",,True
+DALA_720,Swampqueen's Call,Rise of Shadows,Spell,Neutral,,2,,,,,False
 DAL_062,Sweeping Strikes,Rise of Shadows,Spell,Warrior,Rare,2,,,,,True
+DALA_BOSS_37p,Tales of Fortune,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_Warlock_HP2,The Pact,Rise of Shadows,Hero Power,Warlock,,2,,,,,False
+DALA_BOSS_51p,Tinker,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_48p,To The Void,Rise of Shadows,Hero Power,Neutral,,2,,,,,False
+DALA_BOSS_18p,Totemic Summons,Rise of Shadows,Hero Power,Neutral,,2,,,AIMustPlay,,False
+DALA_Druid_HP2,Touch of Bark,Rise of Shadows,Hero Power,Druid,,2,,,,,False
 DAL_256t2,Treant,Rise of Shadows,Minion,Druid,,2,2,2,,,False
 DAL_049,Underbelly Angler,Rise of Shadows,Minion,Shaman,Rare,2,2,3,,Murloc,True
 DAL_714,Underbelly Fence,Rise of Shadows,Minion,Rogue,Rare,2,2,3,"Battlecry, Rush",,True
+DALA_Warrior_HP2,Undermine,Rise of Shadows,Hero Power,Warrior,,2,,,,,False
 DAL_088t2,Vault Safe,Rise of Shadows,Minion,Neutral,,2,0,5,Taunt,Mech,False
 DAL_759,Vicious Scraphound,Rise of Shadows,Minion,Warrior,Common,2,2,2,,Mech,True
 DAL_432,Witch's Brew,Rise of Shadows,Spell,Shaman,Epic,2,,,,,True
+DALA_Rogue_HP1,Yoink!,Rise of Shadows,Hero Power,Rogue,,2,,,,,False
+DAL_800,"Zayle, Shadow Cloak",Rise of Shadows,Minion,Neutral,Legendary,2,3,2,,,True
+DALA_BOSS_30p,A Tale of Kings,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
+DALA_BOSS_08px,Apple Toss,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
 DAL_434,Arcane Watcher,Rise of Shadows,Minion,Neutral,Rare,3,5,6,Spell Damage,,True
 DAL_351ts,Blessing of the Ancients,Rise of Shadows,Spell,Druid,Common,3,,,,,False
 DAL_351,Blessing of the Ancients,Rise of Shadows,Spell,Druid,Common,3,,,Twinspell,,True
+DALA_BOSS_53p,Boogie Woogie,Rise of Shadows,Hero Power,Neutral,,3,,,Deathrattle,,False
+DALA_BOSS_56p,Bribery,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
 DAL_146,Bronze Herald,Rise of Shadows,Minion,Paladin,Common,3,3,2,Deathrattle,Dragon,True
 DAL_727,Call to Adventure,Rise of Shadows,Spell,Paladin,Rare,3,,,,,True
+DALA_BOSS_01px,Chomp,Rise of Shadows,Hero Power,Neutral,,3,,,Lifesteal,,False
 DAL_060,Clockwork Goblin,Rise of Shadows,Minion,Warrior,Rare,3,3,3,Battlecry,Mech,True
 DAL_573,Commander Rhyssa,Rise of Shadows,Minion,Paladin,Legendary,3,4,3,"Aura, Secret",,True
-DAL_177,Conjurer's Calling,Rise of Shadows,Spell,Mage,Rare,3,,,Twinspell,,True
 DAL_177ts,Conjurer's Calling,Rise of Shadows,Spell,Mage,Rare,3,,,,,False
-DAL_415,EVIL Miscreant,Rise of Shadows,Minion,Rogue,Common,3,1,5,Combo,,True
+DAL_177,Conjurer's Calling,Rise of Shadows,Spell,Mage,Rare,3,,,Twinspell,,True
+DALA_729,Dagwik Stickytoe,Rise of Shadows,Minion,Neutral,,3,2,5,Stealth,,False
+DALA_713,Elder Taggawag,Rise of Shadows,Minion,Neutral,,3,4,4,"Battlecry, Deathrattle",,False
+DALA_718,Elistra the Immortal,Rise of Shadows,Minion,Neutral,,3,1,1,Battlecry,,False
+DAL_415,EVIL Miscreant,Rise of Shadows,Minion,Rogue,Common,3,1,4,Combo,,True
 DAL_744,Faceless Rager,Rise of Shadows,Minion,Neutral,Common,3,5,1,Battlecry,,True
 DAL_747,Flight Master,Rise of Shadows,Minion,Neutral,Common,3,3,4,Battlecry,,True
+DALA_BOSS_12p,Forbidden Love,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
+DALA_705,Grimmer Patron,Rise of Shadows,Minion,Neutral,,3,3,3,,,False
 DAL_090,Hench-Clan Sneak,Rise of Shadows,Minion,Neutral,Common,3,3,3,Stealth,,True
+DALA_723,Hyperblaster,Rise of Shadows,Weapon,Neutral,,3,1,5,Poisonous,,False
 DAL_605,Impferno,Rise of Shadows,Spell,Warlock,Rare,3,,,,,True
 DAL_355,Lifeweaver,Rise of Shadows,Minion,Druid,Rare,3,2,5,,,True
+DALA_BOSS_59t,Lotus Bruiser,Rise of Shadows,Minion,Neutral,,3,2,3,,,False
 DAL_729,Madame Lazul,Rise of Shadows,Minion,Priest,Legendary,3,3,2,"Battlecry, Discover",,True
 DAL_773,Magic Carpet,Rise of Shadows,Minion,Neutral,Epic,3,1,6,Rush,,True
+DALA_726,Master Scheme,Rise of Shadows,Spell,Neutral,,3,,,,,False
 DAL_163,Messenger Raven,Rise of Shadows,Minion,Mage,Common,3,3,2,"Battlecry, Discover",Beast,True
+DALA_730,Murgatha,Rise of Shadows,Minion,Neutral,,3,3,6,Overload,Murloc,False
 DAL_377,Nine Lives,Rise of Shadows,Spell,Hunter,Epic,3,,,"Deathrattle, Discover",,True
+DALA_BOSS_61t,Phase Spider,Rise of Shadows,Minion,Neutral,,3,3,3,,,False
 DAL_007,Rafaam's Scheme,Rise of Shadows,Spell,Warlock,Common,3,,,,,True
+DALA_BOSS_45p,Ray of Suffering,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
+DALA_BOSS_56t,Rival Accomplice,Rise of Shadows,Minion,Neutral,,3,4,4,,,False
+DALA_BOSS_22p,Shhh!,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
+DALA_BOSS_74p,Soul Weave,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
 DAL_081,Spellward Jeweler,Rise of Shadows,Minion,Neutral,Rare,3,3,4,Battlecry,,True
+DALA_BOSS_60p,Summon Elemental,Rise of Shadows,Hero Power,Neutral,,3,,,,,False
+DALA_BOSS_71px,Summon Protectors,Rise of Shadows,Hero Power,Neutral,,3,,,Taunt,,False
+DALA_BOSS_58t2,The Other Wire,Rise of Shadows,Minion,Neutral,,3,3,3,,,False
+DALA_BOSS_58t,The Wire,Rise of Shadows,Minion,Neutral,,3,3,3,,,False
+DALA_714,THE... Candles?,Rise of Shadows,Spell,Neutral,,3,,,Twinspell,,False
+DALA_714a,THE... Candles?,Rise of Shadows,Spell,Neutral,,3,,,Twinspell,,False
+DALA_714b,THE... Candles?,Rise of Shadows,Spell,Neutral,,3,,,Twinspell,,False
+DALA_714c,THE... Candles?,Rise of Shadows,Spell,Neutral,,3,,,,,False
 DAL_379t,"Thori'dal, the Stars' Fury",Rise of Shadows,Weapon,Hunter,,3,2,3,Spell Damage,,False
+DALA_BOSS_51t2,Thorium Chicken,Rise of Shadows,Minion,Neutral,,3,5,1,,Mech,False
+DALA_BOSS_30t,Underbelly Rat,Rise of Shadows,Minion,Neutral,,3,10,1,,Beast,False
 DAL_604,Ursatron,Rise of Shadows,Minion,Hunter,Common,3,3,3,Deathrattle,Mech,True
+DALA_BOSS_48t,Void Shift,Rise of Shadows,Spell,Neutral,,3,,,,,False
 DAL_372,Arcane Fletcher,Rise of Shadows,Minion,Hunter,Epic,4,3,3,,,True
 DAL_558,Archmage Vargoth,Rise of Shadows,Minion,Neutral,Legendary,4,2,6,,,True
 DAL_146t,Bronze Dragon,Rise of Shadows,Minion,Paladin,,4,4,4,,Dragon,False
+DALA_700,Continuum Collider,Rise of Shadows,Spell,Neutral,,4,,,,,False
 DAL_008,Dr. Boom's Scheme,Rise of Shadows,Spell,Warrior,Common,4,,,,,True
+DALA_721,Duplatransmogrifier,Rise of Shadows,Spell,Neutral,,4,,,,,False
 DAL_563,Eager Underling,Rise of Shadows,Minion,Warlock,Rare,4,2,2,Deathrattle,,True
+DALA_BOSS_59t2,Fruit Slasher,Rise of Shadows,Minion,Neutral,,4,4,2,"Combo, Battlecry",,False
+DALA_709,Golden Candle,Rise of Shadows,Minion,Neutral,,4,7,7,"Taunt, Battlecry",,False
 DAL_058,Hecklebot,Rise of Shadows,Minion,Neutral,Rare,4,3,8,"Battlecry, Taunt",Mech,True
 DAL_416,Hench-Clan Burglar,Rise of Shadows,Minion,Rogue,Common,4,4,3,"Battlecry, Discover",Pirate,True
 DAL_087,Hench-Clan Hag,Rise of Shadows,Minion,Neutral,Epic,4,3,3,Battlecry,,True
 DAL_040,Hench-Clan Shadequill,Rise of Shadows,Minion,Priest,Common,4,4,7,Deathrattle,,True
+DALA_BOSS_25t,Hoard of Toys,Rise of Shadows,Spell,Neutral,,4,,,,,False
+DALA_BOSS_64p,Invest!,Rise of Shadows,Hero Power,Neutral,,4,,,,,False
 DAL_576,Kirin Tor Tricaster,Rise of Shadows,Minion,Mage,Rare,4,3,3,"Aura, Spell Damage",,True
 DAL_371,Marked Shot,Rise of Shadows,Spell,Hunter,Common,4,,,Discover,,True
 DAL_770,Omega Devastator,Rise of Shadows,Minion,Warrior,Epic,4,4,5,Battlecry,Mech,True
+DALA_712,Orb of the Untold,Rise of Shadows,Spell,Neutral,,4,,,Immune to Spell Power,,False
+DALA_BOSS_38t,PARTY PORTAL!,Rise of Shadows,Spell,Neutral,,4,,,,,False
 DAL_582,Portal Keeper,Rise of Shadows,Minion,Neutral,Rare,4,5,2,"Battlecry, Rush",Demon,True
 DAL_551,Proud Defender,Rise of Shadows,Minion,Neutral,Common,4,2,6,Taunt,,True
 DAL_726,Scargil,Rise of Shadows,Minion,Shaman,Legendary,4,4,4,Aura,Murloc,True
 DAL_771,Soldier of Fortune,Rise of Shadows,Minion,Neutral,Common,4,5,6,,Elemental,True
-DAL_078,Travelling Healer,Rise of Shadows,Minion,Neutral,Common,4,3,2,"Divine Shield, Battlecry",,True
+DALA_BOSS_41p,Summon Companion,Rise of Shadows,Hero Power,Neutral,,4,,,,,False
+DALA_703,The Muscle,Rise of Shadows,Minion,Neutral,,4,4,5,Battlecry,,False
+DAL_078,Traveling Healer,Rise of Shadows,Minion,Neutral,Common,4,3,2,"Divine Shield, Battlecry",,True
 DAL_065,Unsleeping Soul,Rise of Shadows,Spell,Priest,Common,4,,,Silence,,True
 DAL_716,Vendetta,Rise of Shadows,Spell,Rogue,Rare,4,,,,,True
 DAL_095,Violet Spellsword,Rise of Shadows,Minion,Neutral,Common,4,1,6,Battlecry,,True
@@ -1737,11 +2218,17 @@ DAL_085,Dalaran Crusader,Rise of Shadows,Minion,Neutral,Common,5,5,4,Divine Shie
 DAL_147,Dragon Speaker,Rise of Shadows,Minion,Paladin,Epic,5,3,5,Battlecry,,True
 DAL_431t,Drustvar Horror,Rise of Shadows,Minion,Shaman,,5,5,5,Battlecry,,False
 DAL_731,Duel!,Rise of Shadows,Spell,Paladin,Epic,5,,,,,True
+DALA_716,Fly-By,Rise of Shadows,Spell,Neutral,,5,,,,,False
+DALA_702,Gnomish Army Knife,Rise of Shadows,Spell,Neutral,,5,,,"Charge, Windfury, Divine Shield, Lifesteal, Poisonous, Taunt, Stealth",,False
 DAL_009,Hagatha's Scheme,Rise of Shadows,Spell,Shaman,Rare,5,,,,,True
 DAL_589,Hunting Party,Rise of Shadows,Spell,Hunter,Rare,5,,,,,True
 DAL_052,Muckmorpher,Rise of Shadows,Minion,Shaman,Epic,5,4,4,Battlecry,,True
 DAL_749,Recurring Villain,Rise of Shadows,Minion,Neutral,Rare,5,3,6,Deathrattle,,True
+DALA_719,Soulreaper's Scythe,Rise of Shadows,Weapon,Neutral,,5,6,1,Deathrattle,,False
+DALA_727,Sow the Seeds,Rise of Shadows,Spell,Neutral,,5,,,,,False
+DALA_BOSS_41px,Summon Companions,Rise of Shadows,Hero Power,Neutral,,5,,,,,False
 DAL_539,Sunreaver Warmage,Rise of Shadows,Minion,Neutral,Rare,5,4,4,Battlecry,,True
+DALA_704,Super Simian Sphere,Rise of Shadows,Spell,Neutral,,5,,,,,False
 DAL_378t1,Wyvern,Rise of Shadows,Minion,Hunter,,5,5,5,Rush,Beast,False
 DAL_185,Aranasi Broodmother,Rise of Shadows,Minion,Warlock,Common,6,4,6,Taunt,Demon,True
 DAL_366t1,Assassin's Contract,Rise of Shadows,Spell,Rogue,Epic,6,,,,,False
@@ -1761,6 +2248,7 @@ DAL_378,Unleash the Beast,Rise of Shadows,Spell,Hunter,Rare,6,,,"Twinspell, Rush
 DAL_378ts,Unleash the Beast,Rise of Shadows,Spell,Hunter,Rare,6,,,Rush,,False
 DAL_538,Unseen Saboteur,Rise of Shadows,Minion,Neutral,Epic,6,5,6,Battlecry,,True
 DAL_096,Violet Warden,Rise of Shadows,Minion,Neutral,Common,6,4,7,"Taunt, Spell Damage",,True
+DALA_722,Annoy-o Horn,Rise of Shadows,Spell,Neutral,,7,,,,,False
 DAL_422,Arch-Villain Rafaam,Rise of Shadows,Minion,Warlock,Legendary,7,7,8,"Battlecry, Taunt",,True
 DAL_064,Blastmaster Boom,Rise of Shadows,Minion,Warrior,Legendary,7,7,7,Battlecry,,True
 DAL_554,Chef Nomi,Rise of Shadows,Minion,Neutral,Legendary,7,6,6,Battlecry,,True
@@ -1770,7 +2258,7 @@ DAL_719,Tak Nozwhisker,Rise of Shadows,Minion,Rogue,Legendary,7,6,6,,,True
 DAL_775,Tunnel Blaster,Rise of Shadows,Minion,Neutral,Rare,7,3,7,"Taunt, Deathrattle",,True
 DAL_550,Underbelly Ooze,Rise of Shadows,Minion,Neutral,Rare,7,3,5,,,True
 DAL_379,Vereesa Windrunner,Rise of Shadows,Minion,Hunter,Legendary,7,5,6,Battlecry,,True
-DAL_736,Archivist Elysiana,Rise of Shadows,Minion,Neutral,Legendary,8,7,7,"Battlecry, Discover",,True
+DALA_BOSS_06dk,"""Scourgelord"" Dazzik",Rise of Shadows,Hero,Warrior,Legendary,8,,30,Battlecry,,False
 DAL_592,Batterhead,Rise of Shadows,Minion,Neutral,Epic,8,3,12,Rush,,True
 DAL_721,Catrina Muerte,Rise of Shadows,Minion,Priest,Legendary,8,6,8,,,True
 DAL_607,Fel Lord Betrug,Rise of Shadows,Minion,Warlock,Legendary,8,5,7,Rush,Demon,True
@@ -1782,15 +2270,190 @@ DAL_256,The Forest's Aid,Rise of Shadows,Spell,Druid,Rare,8,,,Twinspell,,True
 DAL_256ts,The Forest's Aid,Rise of Shadows,Spell,Druid,Rare,8,,,,,False
 DAL_047,Walking Fountain,Rise of Shadows,Minion,Shaman,Common,8,4,8,"Rush, Lifesteal, Windfury",Elemental,True
 DAL_742,Whirlwind Tempest,Rise of Shadows,Minion,Neutral,Epic,8,6,6,"Aura, Windfury",Elemental,True
+DAL_736,Archivist Elysiana,Rise of Shadows,Minion,Neutral,Legendary,9,7,7,"Battlecry, Discover",,True
 DAL_760,Burly Shovelfist,Rise of Shadows,Minion,Neutral,Common,9,9,9,Rush,,True
+DALA_711,Dreamgrove Ring,Rise of Shadows,Spell,Neutral,,9,,,Discover,,False
 DAL_724,Mass Resurrection,Rise of Shadows,Spell,Priest,Rare,9,,,,,True
 DAL_553,Big Bad Archmage,Rise of Shadows,Minion,Neutral,Epic,10,6,6,,,True
 DAL_059,Dimensional Ripper,Rise of Shadows,Spell,Warrior,Rare,10,,,,,True
+DALA_706,EVIL Propaganda,Rise of Shadows,Spell,Neutral,,10,,,,,False
 DAL_561,Jumbo Imp,Rise of Shadows,Minion,Warlock,Epic,10,8,8,,Demon,True
 DAL_609,Kalecgos,Rise of Shadows,Minion,Mage,Legendary,10,4,12,"Battlecry, Aura, Discover",Dragon,True
 DAL_581,Nozari,Rise of Shadows,Minion,Paladin,Legendary,10,4,12,Battlecry,Dragon,True
 DAL_070,The Boom Reaver,Rise of Shadows,Minion,Warrior,Legendary,10,7,9,"Battlecry, Rush",Mech,True
 DAL_357t,Spirit of Lucentbark,Rise of Shadows,Minion,Druid,,11,0,1,,,False
+ULD_135a,Befriend the Ancient,Saviors of Uldum,Spell,Druid,,0,,,Taunt,,False
+ULD_292b,Divide and Conquer,Saviors of Uldum,Spell,Druid,,0,,,,,False
+ULD_135b,Drink the Water,Saviors of Uldum,Spell,Druid,,0,,,,,False
+ULD_292a,Focused Burst,Saviors of Uldum,Spell,Druid,,0,,,,,False
+ULD_209t,Mystery Choice!,Saviors of Uldum,Spell,Neutral,,0,,,,,False
+ULD_131p,Ossirian Tear,Saviors of Uldum,Hero Power,Druid,,0,,,,,False
+ULD_178a3,Siamat's Heart,Saviors of Uldum,Spell,Neutral,,0,,,Taunt,,False
+ULD_178a2,Siamat's Shield,Saviors of Uldum,Spell,Neutral,,0,,,Divine Shield,,False
+ULD_178a4,Siamat's Speed,Saviors of Uldum,Spell,Neutral,,0,,,Rush,,False
+ULD_178a,Siamat's Wind,Saviors of Uldum,Spell,Neutral,,0,,,Windfury,,False
+ULD_171,Totemic Surge,Saviors of Uldum,Spell,Shaman,Common,0,,,,,True
+ULD_724,Activate the Obelisk,Saviors of Uldum,Spell,Priest,Legendary,1,,,Quest,,True
+ULD_326,Bazaar Burglary,Saviors of Uldum,Spell,Rogue,Legendary,1,,,Quest,,True
+ULD_191,Beaming Sidekick,Saviors of Uldum,Minion,Neutral,Common,1,1,2,Battlecry,,True
+ULD_134t,Bee,Saviors of Uldum,Minion,Druid,,1,1,1,,Beast,False
+ULD_145,Brazen Zealot,Saviors of Uldum,Minion,Paladin,Rare,1,2,1,,,True
+ULD_291,Corrupt the Waters,Saviors of Uldum,Spell,Shaman,Legendary,1,,,"Quest, Battlecry",,True
+ULD_265,Embalming Ritual,Saviors of Uldum,Spell,Priest,Common,1,,,Reborn,,True
+ULD_711,Hack the System,Saviors of Uldum,Spell,Warrior,Legendary,1,,,Quest,,True
+ULD_256,Into the Fray,Saviors of Uldum,Spell,Warrior,Rare,1,,,Taunt,,True
+ULD_282,Jar Dealer,Saviors of Uldum,Minion,Neutral,Common,1,1,1,Deathrattle,,True
+ULD_430t,Locust,Saviors of Uldum,Minion,Neutral,,1,1,1,Rush,Beast,False
+ULD_431,Making Mummies,Saviors of Uldum,Spell,Paladin,Legendary,1,,,"Quest, Reborn",,True
+ULD_705,Mogu Cultist,Saviors of Uldum,Minion,Neutral,Epic,1,1,1,Battlecry,,True
+ULD_723,Murmy,Saviors of Uldum,Minion,Neutral,Common,1,1,1,Reborn,Murloc,True
+ULD_186,Pharaoh Cat,Saviors of Uldum,Minion,Rogue,Common,1,1,2,"Battlecry, Reborn",Beast,True
+ULD_717,Plague of Flames,Saviors of Uldum,Spell,Warlock,Rare,1,,,,,True
+ULD_715,Plague of Madness,Saviors of Uldum,Spell,Rogue,Rare,1,,,Poisonous,,True
+ULD_715t,Plagued Knife,Saviors of Uldum,Weapon,Rogue,,1,2,2,Poisonous,,False
+ULD_433,Raid the Sky Temple,Saviors of Uldum,Spell,Mage,Legendary,1,,,Quest,,True
+ULD_439t,Sandwasp,Saviors of Uldum,Minion,Paladin,,1,2,1,,Beast,False
+ULD_215t,Scarab,Saviors of Uldum,Minion,Neutral,,1,1,1,Taunt,Beast,False
+ULD_160,Sinister Deal,Saviors of Uldum,Spell,Warlock,Common,1,,,Discover,,True
+ULD_140,Supreme Archaeology,Saviors of Uldum,Spell,Warlock,Legendary,1,,,Quest,,True
+ULD_616,Titanic Lackey,Saviors of Uldum,Minion,Neutral,,1,1,1,"Battlecry, Taunt",,False
+ULD_155,Unseal the Vault,Saviors of Uldum,Spell,Hunter,Legendary,1,,,Quest,,True
+ULD_131,Untapped Potential,Saviors of Uldum,Spell,Druid,Legendary,1,,,Quest,,True
+ULD_324t,Worthless Imp,Saviors of Uldum,Minion,Warlock,,1,1,1,,Demon,False
+ULD_136,Worthy Expedition,Saviors of Uldum,Spell,Druid,Common,1,,,Discover,,True
+ULD_326p,Ancient Blades,Saviors of Uldum,Hero Power,Rogue,,2,,,,,False
+ULD_726,Ancient Mysteries,Saviors of Uldum,Spell,Mage,Common,2,,,Secret,,True
+ULD_711p3,Anraphet's Core,Saviors of Uldum,Hero Power,Warrior,,2,,,,,False
+ULD_240,Arcane Flakmage,Saviors of Uldum,Minion,Mage,Rare,2,3,2,Secret,,True
+ULD_433p,Ascendant Scroll,Saviors of Uldum,Hero Power,Mage,,2,,,,,False
+ULD_712,Bug Collector,Saviors of Uldum,Minion,Neutral,Common,2,2,1,"Battlecry, Rush",,True
+ULD_328,Clever Disguise,Saviors of Uldum,Spell,Rogue,Common,2,,,,,True
+ULD_133,Crystal Merchant,Saviors of Uldum,Minion,Druid,Epic,2,1,4,,,True
+ULD_309,Dwarven Archaeologist,Saviors of Uldum,Minion,Neutral,Epic,2,2,3,Discover,,True
+ULD_431p,Emperor Wraps,Saviors of Uldum,Hero Power,Paladin,,2,,,,,False
+ULD_276,EVIL Totem,Saviors of Uldum,Minion,Shaman,Common,2,None,2,,Totem,True
+ULD_163,Expired Merchant,Saviors of Uldum,Minion,Warlock,Rare,2,2,1,"Battlecry, Deathrattle",,True
+ULD_289,Fishflinger,Saviors of Uldum,Minion,Neutral,Common,2,3,2,Battlecry,Murloc,True
+ULD_195,Frightened Flunky,Saviors of Uldum,Minion,Warrior,Common,2,2,2,"Battlecry, Taunt, Discover",,True
+ULD_266,Grandmummy,Saviors of Uldum,Minion,Priest,Rare,2,1,2,"Deathrattle, Reborn",,True
+ULD_291p,Heart of Vir'naal,Saviors of Uldum,Hero Power,Shaman,,2,,,Battlecry,,False
+ULD_272,Holy Ripple,Saviors of Uldum,Spell,Priest,Rare,2,,,,,True
+ULD_154t,Hyena,Saviors of Uldum,Minion,Hunter,,2,2,2,,Beast,False
+ULD_271,Injured Tol'vir,Saviors of Uldum,Minion,Neutral,Common,2,2,6,"Battlecry, Taunt",,True
+ULD_184,Kobold Sandtrooper,Saviors of Uldum,Minion,Neutral,Common,2,2,1,Deathrattle,,True
+ULD_217,Micro Mummy,Saviors of Uldum,Minion,Paladin,Epic,2,1,2,Reborn,Mech,True
+ULD_326t,Mirage Blade,Saviors of Uldum,Weapon,Rogue,,2,3,2,,,False
+ULD_196,Neferset Ritualist,Saviors of Uldum,Minion,Neutral,Rare,2,2,3,Battlecry,,True
+ULD_724p,Obelisk's Eye,Saviors of Uldum,Hero Power,Priest,,2,,,,,False
+ULD_714,Penance,Saviors of Uldum,Spell,Priest,Common,2,,,Lifesteal,,True
+ULD_152,Pressure Plate,Saviors of Uldum,Spell,Hunter,Common,2,,,Secret,,True
+ULD_157,Questing Explorer,Saviors of Uldum,Minion,Neutral,Rare,2,2,3,"Battlecry, Quest",,True
+ULD_197,Quicksand Elemental,Saviors of Uldum,Minion,Neutral,Rare,2,3,2,Battlecry,Elemental,True
+ULD_155p,Ramkahen Roar,Saviors of Uldum,Hero Power,Hunter,,2,,,,,False
+ULD_158,Sandstorm Elemental,Saviors of Uldum,Minion,Shaman,Common,2,2,2,"Battlecry, Overload",Elemental,True
+ULD_439,Sandwasp Queen,Saviors of Uldum,Minion,Paladin,Common,2,3,1,Battlecry,Beast,True
+ULD_174,Serpent Egg,Saviors of Uldum,Minion,Neutral,Common,2,None,3,Deathrattle,,True
+ULD_500,Sir Finley of the Sands,Saviors of Uldum,Minion,Paladin,Legendary,2,2,3,"Discover, Battlecry",Murloc,True
+ULD_182,Spitting Camel,Saviors of Uldum,Minion,Neutral,Common,2,2,4,,Beast,True
+ULD_728,Subdue,Saviors of Uldum,Spell,Paladin,Common,2,,,,,True
+ULD_185,Temple Berserker,Saviors of Uldum,Minion,Neutral,Common,2,1,2,Reborn,,True
+ULD_140p,Tome of Origination,Saviors of Uldum,Hero Power,Warlock,,2,,,,,False
+ULD_137t,Treant,Saviors of Uldum,Minion,Druid,,2,2,2,,,False
+ULD_450,Vilefiend,Saviors of Uldum,Minion,Neutral,Common,2,2,2,Lifesteal,Demon,True
+ULD_231,Whirlkick Master,Saviors of Uldum,Minion,Rogue,Epic,2,1,2,Combo,,True
+ULD_003,Zephrys the Great,Saviors of Uldum,Minion,Neutral,Legendary,2,3,2,Battlecry,Elemental,True
+ULD_134,BEEEES!!!,Saviors of Uldum,Spell,Druid,Common,3,,,,,True
+ULD_720,Bloodsworn Mercenary,Saviors of Uldum,Minion,Warrior,Epic,3,3,3,Battlecry,,True
+ULD_205,Candletaker,Saviors of Uldum,Minion,Neutral,Common,3,3,2,Reborn,,True
+ULD_719,Desert Hare,Saviors of Uldum,Minion,Neutral,Common,3,1,1,Battlecry,Beast,True
+ULD_430,Desert Spear,Saviors of Uldum,Weapon,Hunter,Common,3,1,3,Rush,,True
+ULD_329,Dune Sculptor,Saviors of Uldum,Minion,Mage,Rare,3,3,3,,,True
+ULD_162,EVIL Recruiter,Saviors of Uldum,Minion,Warlock,Common,3,3,3,Battlecry,,True
+ULD_239,Flame Ward,Saviors of Uldum,Spell,Mage,Common,3,,,Secret,,True
+ULD_214,Generous Mummy,Saviors of Uldum,Minion,Neutral,Rare,3,5,4,"Reborn, Aura",,True
+ULD_188,Golden Scarab,Saviors of Uldum,Minion,Neutral,Common,3,2,2,"Discover, Battlecry",Beast,True
+ULD_290,History Buff,Saviors of Uldum,Minion,Neutral,Epic,3,3,4,,,True
+ULD_285,Hooked Scimitar,Saviors of Uldum,Weapon,Rogue,Common,3,2,2,Combo,,True
+ULD_429,Hunter's Pack,Saviors of Uldum,Spell,Hunter,Common,3,,,Secret,,True
+ULD_250,Infested Goblin,Saviors of Uldum,Minion,Neutral,Rare,3,2,3,"Taunt, Deathrattle",,True
+ULD_708,Livewire Lance,Saviors of Uldum,Weapon,Warrior,Epic,3,2,2,,,True
+ULD_229,Mischief Maker,Saviors of Uldum,Minion,Neutral,Epic,3,3,3,Battlecry,,True
+ULD_161,Neferset Thrasher,Saviors of Uldum,Minion,Warlock,Common,3,4,5,,,True
+ULD_172,Plague of Murlocs,Saviors of Uldum,Spell,Shaman,Epic,3,,,,,True
+ULD_151,Ramkahen Wildtamer,Saviors of Uldum,Minion,Hunter,Rare,3,4,3,Battlecry,,True
+ULD_438,Salhet's Pride,Saviors of Uldum,Minion,Paladin,Rare,3,3,1,Deathrattle,Beast,True
+ULD_174t,Sea Serpent,Saviors of Uldum,Minion,Neutral,,3,3,4,,Beast,False
+ULD_711t,Stone Golem,Saviors of Uldum,Minion,Warrior,,3,4,3,,,False
+ULD_209,Vulpera Scoundrel,Saviors of Uldum,Minion,Neutral,Epic,3,2,3,"Battlecry, Discover",,True
+ULD_170,Weaponized Wasp,Saviors of Uldum,Minion,Shaman,Rare,3,3,3,Battlecry,Beast,True
+ULD_269,Wretched Reclaimer,Saviors of Uldum,Minion,Priest,Rare,3,3,3,Battlecry,,True
+ULD_207,Ancestral Guardian,Saviors of Uldum,Minion,Paladin,Common,4,4,2,"Lifesteal, Reborn",,True
+ULD_727,Body Wrapper,Saviors of Uldum,Minion,Neutral,Epic,4,4,4,"Battlecry, Discover",,True
+ULD_275,Bone Wraith,Saviors of Uldum,Minion,Neutral,Common,4,2,5,"Reborn, Taunt",,True
+ULD_198,Conjured Mirage,Saviors of Uldum,Minion,Neutral,Rare,4,3,10,Taunt,,True
+ULD_167,Diseased Vulture,Saviors of Uldum,Minion,Warlock,Epic,4,3,5,,Beast,True
+ULD_137,Garden Gnome,Saviors of Uldum,Minion,Druid,Rare,4,2,3,Battlecry,,True
+ULD_262,High Priest Amet,Saviors of Uldum,Minion,Priest,Legendary,4,2,7,,,True
+ULD_154,Hyena Alpha,Saviors of Uldum,Minion,Hunter,Rare,4,3,3,"Battlecry, Secret",Beast,True
+ULD_324,Impbalming,Saviors of Uldum,Spell,Warlock,Rare,4,,,,,True
+ULD_268,Psychopomp,Saviors of Uldum,Minion,Priest,Epic,4,3,1,"Reborn, Battlecry",,True
+ULD_206,Restless Mummy,Saviors of Uldum,Minion,Warrior,Common,4,3,2,"Rush, Reborn",,True
+ULD_280,Sahket Sapper,Saviors of Uldum,Minion,Rogue,Rare,4,4,4,Deathrattle,Pirate,True
+ULD_286t,Shadow,Saviors of Uldum,Spell,Rogue,,4,,,Casts When Drawn,,False
+ULD_286,Shadow of Death,Saviors of Uldum,Spell,Rogue,Epic,4,,,,,True
+ULD_413,Splitting Axe,Saviors of Uldum,Weapon,Shaman,Epic,4,3,2,Battlecry,,True
+ULD_180,Sunstruck Henchman,Saviors of Uldum,Minion,Neutral,Rare,4,6,5,,,True
+ULD_173,Vessina,Saviors of Uldum,Minion,Shaman,Legendary,4,2,6,"Overload, Aura",,True
+ULD_288,"Anka, the Buried",Saviors of Uldum,Minion,Rogue,Legendary,5,5,5,"Deathrattle, Battlecry",,True
+ULD_138,Anubisath Defender,Saviors of Uldum,Minion,Druid,Epic,5,3,5,Taunt,,True
+ULD_327,Bazaar Mugger,Saviors of Uldum,Minion,Rogue,Rare,5,3,5,"Rush, Battlecry",,True
+ULD_293,Cloud Prince,Saviors of Uldum,Minion,Mage,Common,5,4,4,"Secret, Battlecry",Elemental,True
+ULD_168,Dark Pharaoh Tekahn,Saviors of Uldum,Minion,Warlock,Legendary,5,4,4,Battlecry,,True
+ULD_703,Desert Obelisk,Saviors of Uldum,Minion,Neutral,Epic,5,None,5,,,True
+ULD_156t2,Duchess,Saviors of Uldum,Minion,Hunter,,5,5,5,Rush,Beast,False
+ULD_156t,Duke,Saviors of Uldum,Minion,Hunter,,5,5,5,Rush,Beast,False
+ULD_139,Elise the Enlightened,Saviors of Uldum,Minion,Druid,Legendary,5,5,5,Battlecry,,True
+ULD_162t,EVIL Demon,Saviors of Uldum,Minion,Warlock,,5,5,5,,Demon,False
+ULD_189,Faceless Lurker,Saviors of Uldum,Minion,Neutral,Common,5,3,3,"Taunt, Battlecry",,True
+ULD_702,Mortuary Machine,Saviors of Uldum,Minion,Neutral,Epic,5,8,8,Reborn,Mech,True
+ULD_435,Naga Sand Witch,Saviors of Uldum,Minion,Mage,Rare,5,5,5,Battlecry,,True
+ULD_292,Oasis Surger,Saviors of Uldum,Minion,Druid,Common,5,3,3,Rush,Elemental,True
+ULD_179,Phalanx Commander,Saviors of Uldum,Minion,Neutral,Common,5,4,5,"Aura, Taunt",,True
+ULD_707,Plague of Wrath,Saviors of Uldum,Spell,Warrior,Rare,5,,,,,True
+ULD_270,Sandhoof Waterbearer,Saviors of Uldum,Minion,Priest,Common,5,5,5,,,True
+ULD_274,Wasteland Assassin,Saviors of Uldum,Minion,Neutral,Common,5,4,2,"Reborn, Stealth",,True
+ULD_258,Armagedillo,Saviors of Uldum,Minion,Warrior,Legendary,6,4,7,Taunt,Beast,True
+ULD_709,Armored Goon,Saviors of Uldum,Minion,Warrior,Common,6,6,7,,,True
+ULD_706,Blatant Decoy,Saviors of Uldum,Minion,Neutral,Epic,6,5,5,Deathrattle,,True
+ULD_135,Hidden Oasis,Saviors of Uldum,Spell,Druid,Rare,6,,,Taunt,,True
+ULD_208,Khartut Defender,Saviors of Uldum,Minion,Neutral,Rare,6,3,4,"Taunt, Reborn, Deathrattle",,True
+ULD_143,Pharaoh's Blessing,Saviors of Uldum,Spell,Paladin,Rare,6,,,"Divine Shield, Taunt",,True
+ULD_238,Reno the Relicologist,Saviors of Uldum,Minion,Mage,Legendary,6,4,6,Battlecry,,True
+ULD_165,Riftcleaver,Saviors of Uldum,Minion,Warlock,Epic,6,7,5,Battlecry,Demon,True
+ULD_410,Scarlet Webweaver,Saviors of Uldum,Minion,Hunter,Epic,6,5,5,Battlecry,Beast,True
+ULD_713,Swarm of Locusts,Saviors of Uldum,Spell,Hunter,Rare,6,,,Rush,,True
+ULD_135at,Vir'naal Ancient,Saviors of Uldum,Minion,Druid,,6,6,6,Taunt,,False
+ULD_212,Wild Bloodstinger,Saviors of Uldum,Minion,Hunter,Epic,6,6,9,Battlecry,Beast,True
+ULD_156,Dinotamer Brann,Saviors of Uldum,Minion,Hunter,Legendary,7,2,4,Battlecry,,True
+ULD_181,Earthquake,Saviors of Uldum,Spell,Shaman,Rare,7,,,,,True
+ULD_169,Mogu Fleshshaper,Saviors of Uldum,Minion,Shaman,Rare,7,3,4,Rush,,True
+ULD_273,Overflow,Saviors of Uldum,Spell,Druid,Rare,7,,,,,True
+ULD_178,Siamat,Saviors of Uldum,Minion,Neutral,Legendary,7,6,6,"Battlecry, Rush, Taunt, Divine Shield, Windfury",Elemental,True
+ULD_194,Wasteland Scorpid,Saviors of Uldum,Minion,Neutral,Common,7,3,9,Poisonous,Beast,True
+ULD_215,Wrapped Golem,Saviors of Uldum,Minion,Neutral,Rare,7,7,5,"Reborn, Taunt",,True
+ULD_177,Octosari,Saviors of Uldum,Minion,Neutral,Legendary,8,8,8,Deathrattle,Beast,True
+ULD_190,Pit Crocolisk,Saviors of Uldum,Minion,Neutral,Common,8,5,6,Battlecry,Beast,True
+ULD_716,Tip the Scales,Saviors of Uldum,Spell,Paladin,Epic,8,,,,,True
+ULD_253,Tomb Warden,Saviors of Uldum,Minion,Warrior,Rare,8,3,6,"Taunt, Battlecry",Mech,True
+ULD_236,Tortollan Pilgrim,Saviors of Uldum,Minion,Mage,Epic,8,5,5,"Discover, Battlecry",,True
+ULD_183,Anubisath Warbringer,Saviors of Uldum,Minion,Neutral,Common,9,9,6,Deathrattle,,True
+ULD_156t3,King Krush,Saviors of Uldum,Minion,Hunter,Legendary,9,8,8,Charge,Beast,False
+ULD_718,Plague of Death,Saviors of Uldum,Spell,Priest,Epic,9,,,Silence,,True
+ULD_721,Colossus of the Moon,Saviors of Uldum,Minion,Neutral,Legendary,10,10,10,"Reborn, Divine Shield",,True
+ULD_705t,Highkeeper Ra,Saviors of Uldum,Minion,Neutral,,10,20,20,,,False
+ULD_304,King Phaoris,Saviors of Uldum,Minion,Neutral,Legendary,10,5,5,Battlecry,,True
+ULD_193,Living Monument,Saviors of Uldum,Minion,Neutral,Common,10,10,10,Taunt,,True
+ULD_216,Puzzle Box of Yogg-Saron,Saviors of Uldum,Spell,Mage,Epic,10,,,,,True
 Mekka4t,Chicken,Hall of Fame,Minion,Neutral,,0,1,1,,Beast,False
 PRO_001at,Murloc,Hall of Fame,Minion,Neutral,,0,1,1,,Murloc,False
 EX1_128,Conceal,Hall of Fame,Spell,Rogue,Common,1,,,Stealth,,True
@@ -1802,6 +2465,7 @@ Mekka4,Poultryizer,Hall of Fame,Minion,Neutral,,1,0,3,,Mech,False
 EX1_316,Power Overwhelming,Hall of Fame,Spell,Warlock,Common,1,,,,,True
 Mekka2,Repair Bot,Hall of Fame,Minion,Neutral,,1,0,3,,Mech,False
 NEW1_016,Captain's Parrot,Hall of Fame,Minion,Neutral,Epic,2,1,1,Battlecry,Beast,True
+DS1_233,Mind Blast,Hall of Fame,Spell,Priest,Common,2,,,,,True
 GIL_530,Murkspark Eel,Hall of Fame,Minion,Shaman,Rare,2,2,3,Battlecry,Beast,True
 GIL_838,Black Cat,Hall of Fame,Minion,Mage,Common,3,3,3,"Battlecry, Spell Damage",Beast,True
 EX1_050,Coldlight Oracle,Hall of Fame,Minion,Neutral,Rare,3,2,2,Battlecry,Murloc,True
@@ -1819,6 +2483,7 @@ GIL_130,Gloom Stag,Hall of Fame,Minion,Druid,Epic,5,2,6,"Taunt, Battlecry",Beast
 EX1_112,Gelbin Mekkatorque,Hall of Fame,Minion,Neutral,Legendary,6,6,6,Battlecry,,True
 GIL_692,Genn Greymane,Hall of Fame,Minion,Neutral,Legendary,6,6,5,,,True
 EX1_016,Sylvanas Windrunner,Hall of Fame,Minion,Neutral,Legendary,6,5,5,Deathrattle,,True
+NEW1_004,Vanish,Hall of Fame,Spell,Rogue,Common,6,,,,,True
 EX1_298,Ragnaros the Firelord,Hall of Fame,Minion,Neutral,Legendary,8,8,8,,Elemental,True
 GIL_826,Baku the Mooneater,Hall of Fame,Minion,Neutral,Legendary,9,7,8,,Beast,True
 EX1_620,Molten Giant,Hall of Fame,Minion,Neutral,Epic,20,8,8,,Elemental,True
@@ -1838,8 +2503,8 @@ NAX5_01H,Heigan the Unclean,Naxxramas,Hero,Warlock,,,,45,,,False
 NAX5_01,Heigan the Unclean,Naxxramas,Hero,Warlock,,,,30,,,False
 NAX7_01H,Instructor Razuvious,Naxxramas,Hero,Neutral,,,,55,,,False
 NAX7_01,Instructor Razuvious,Naxxramas,Hero,Neutral,,,,40,,,False
-NAX15_01,Kel'Thuzad,Naxxramas,Hero,Neutral,,,,30,,,False
 NAX15_01H,Kel'Thuzad,Naxxramas,Hero,Neutral,,,,45,,,False
+NAX15_01,Kel'Thuzad,Naxxramas,Hero,Neutral,,,,30,,,False
 NAX6_01H,Loatheb,Naxxramas,Hero,Neutral,,,,99,,,False
 NAX6_01,Loatheb,Naxxramas,Hero,Neutral,,,,75,,,False
 NAX3_01H,Maexxna,Naxxramas,Hero,Neutral,,,,45,,,False
@@ -1848,14 +2513,14 @@ NAX4_01H,Noth the Plaguebringer,Naxxramas,Hero,Mage,,,,45,,,False
 NAX4_01,Noth the Plaguebringer,Naxxramas,Hero,Mage,,,,30,,,False
 NAX10_01H,Patchwerk,Naxxramas,Hero,Neutral,,,,45,AIMustPlay,,False
 NAX10_01,Patchwerk,Naxxramas,Hero,Neutral,,,,30,AIMustPlay,,False
-NAX14_01,Sapphiron,Naxxramas,Hero,Neutral,,,,30,,,False
 NAX14_01H,Sapphiron,Naxxramas,Hero,Neutral,,,,45,,,False
+NAX14_01,Sapphiron,Naxxramas,Hero,Neutral,,,,30,,,False
 NAX13_01H,Thaddius,Naxxramas,Hero,Neutral,,,,45,,,False
 NAX13_01,Thaddius,Naxxramas,Hero,Neutral,,,,30,,,False
 NAX12_02H,Decimate,Naxxramas,Hero Power,Neutral,,0,,,AIMustPlay,,False
 NAX5_02H,Eruption,Naxxramas,Hero Power,Neutral,,0,,,AIMustPlay,,False
-NAX15_02,Frost Blast,Naxxramas,Hero Power,Neutral,,0,,,"AIMustPlay, Freeze",,False
 NAX15_02H,Frost Blast,Naxxramas,Hero Power,Neutral,,0,,,"AIMustPlay, Freeze",,False
+NAX15_02,Frost Blast,Naxxramas,Hero Power,Neutral,,0,,,"AIMustPlay, Freeze",,False
 NAX14_02,Frost Breath,Naxxramas,Hero Power,Neutral,,0,,,AIMustPlay,,False
 NAX15_05,Mr. Bigglesworth,Naxxramas,Minion,Neutral,,0,1,1,InvisibleDeathrattle,Beast,False
 NAX6_02H,Necrotic Aura,Naxxramas,Hero Power,Neutral,,0,,,,,False
@@ -1936,8 +2601,8 @@ FP1_026,Anub'ar Ambusher,Naxxramas,Minion,Rogue,Common,4,5,5,Deathrattle,,True
 FP1_031,Baron Rivendare,Naxxramas,Minion,Neutral,Legendary,4,1,7,"Deathrattle, Aura",,True
 FP1_021,Death's Bite,Naxxramas,Weapon,Warrior,Common,4,4,2,Deathrattle,,True
 NAX6_03,Deathbloom,Naxxramas,Spell,Neutral,,4,,,,,False
-NAX15_03t,Guardian of Icecrown,Naxxramas,Minion,Neutral,,4,5,5,Taunt,,False
 NAX15_03n,Guardian of Icecrown,Naxxramas,Minion,Neutral,,4,3,3,Taunt,,False
+NAX15_03t,Guardian of Icecrown,Naxxramas,Minion,Neutral,,4,5,5,Taunt,,False
 NAX10_03H,Hateful Strike,Naxxramas,Hero Power,Neutral,,4,,,,,False
 NAX10_03,Hateful Strike,Naxxramas,Hero Power,Neutral,,4,,,,,False
 NAXM_001,Necroknight,Naxxramas,Minion,Neutral,,4,5,6,Deathrattle,,False
@@ -1962,17 +2627,11 @@ FP1_010,Maexxna,Naxxramas,Minion,Neutral,Legendary,6,2,8,Poisonous,Beast,True
 NAX4_05,Plague,Naxxramas,Spell,Neutral,,6,,,,,False
 NAX8_05,Unrelenting Rider,Naxxramas,Minion,Neutral,,6,5,6,Deathrattle,,False
 NAX1_05,Locust Swarm,Naxxramas,Spell,Neutral,,7,,,,,False
-NAX15_04,Chains,Naxxramas,Hero Power,Neutral,,8,,,,,False
 NAX15_04H,Chains,Naxxramas,Hero Power,Neutral,,8,,,,,False
+NAX15_04,Chains,Naxxramas,Hero Power,Neutral,,8,,,,,False
 FP1_013,Kel'Thuzad,Naxxramas,Minion,Neutral,Legendary,8,6,8,,,True
 FP1_014t,Thaddius,Naxxramas,Minion,Neutral,,10,11,11,,,False
-GVG_030a,Attack Mode,Goblins vs Gnomes,Spell,Druid,,0,,,,,False
-GVG_041a,Call the Guardians,Goblins vs Gnomes,Spell,Druid,,0,,,,,False
 GVG_028t,Gallywix's Coin,Goblins vs Gnomes,Spell,Neutral,,0,,,,,False
-GVG_032b,Gift of Cards,Goblins vs Gnomes,Spell,Druid,,0,,,,,False
-GVG_032a,Gift of Mana,Goblins vs Gnomes,Spell,Druid,,0,,,,,False
-GVG_041b,Nature's Defense,Goblins vs Gnomes,Spell,Druid,,0,,,,,False
-GVG_030b,Tank Mode,Goblins vs Gnomes,Spell,Druid,,0,,,,,False
 GVG_093,Target Dummy,Goblins vs Gnomes,Minion,Neutral,Rare,0,0,2,Taunt,Mech,True
 PART_001,Armor Plating,Goblins vs Gnomes,Spell,Neutral,,1,,,,,False
 GVG_110t,Boom Bot,Goblins vs Gnomes,Minion,Neutral,,1,1,1,Deathrattle,Mech,False
@@ -1991,6 +2650,7 @@ GVG_051,Warbot,Goblins vs Gnomes,Minion,Warrior,Common,1,1,3,,Mech,True
 PART_007,Whirling Blades,Goblins vs Gnomes,Spell,Neutral,,1,,,,,False
 GVG_085,Annoy-o-Tron,Goblins vs Gnomes,Minion,Neutral,Common,2,1,2,"Taunt, Divine Shield",Mech,True
 GVG_030,Anodized Robo Cub,Goblins vs Gnomes,Minion,Druid,Common,2,2,2,Taunt,Mech,True
+GVG_030a,Attack Mode,Goblins vs Gnomes,Spell,Druid,,2,,,,,False
 GVG_017,Call Pet,Goblins vs Gnomes,Spell,Hunter,Rare,2,,,,,True
 GVG_038,Crackle,Goblins vs Gnomes,Spell,Shaman,Common,2,,,Overload,,True
 GVG_015,Darkbomb,Goblins vs Gnomes,Spell,Warlock,Common,2,,,,,True
@@ -2002,9 +2662,9 @@ GVG_043,Glaivezooka,Goblins vs Gnomes,Weapon,Hunter,Common,2,2,2,Battlecry,,True
 GVG_023,Goblin Auto-Barber,Goblins vs Gnomes,Minion,Rogue,Common,2,3,2,Battlecry,Mech,True
 GVG_006,Mechwarper,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,Aura,Mech,True
 GVG_103,Micro Machine,Goblins vs Gnomes,Minion,Neutral,Common,2,1,2,,Mech,True
-GVG_018,Mistress of Pain,Goblins vs Gnomes,Minion,Warlock,Rare,2,1,4,Lifesteal,Demon,True
 GVG_025,One-eyed Cheat,Goblins vs Gnomes,Minion,Rogue,Rare,2,4,1,Stealth,Pirate,True
 GVG_064,Puddlestomper,Goblins vs Gnomes,Minion,Neutral,Common,2,3,2,,Murloc,True
+GVG_018,Queen of Pain,Goblins vs Gnomes,Minion,Warlock,Rare,2,1,4,Lifesteal,Demon,True
 GVG_108,Recombobulator,Goblins vs Gnomes,Minion,Neutral,Epic,2,3,2,Battlecry,,True
 GVG_057,Seal of Light,Goblins vs Gnomes,Spell,Paladin,Common,2,,,,,True
 GVG_072,Shadowboxer,Goblins vs Gnomes,Minion,Priest,Rare,2,2,3,,Mech,True
@@ -2014,6 +2674,7 @@ GVG_011,Shrinkmeister,Goblins vs Gnomes,Minion,Priest,Common,2,3,2,Battlecry,,Tr
 GVG_002,Snowchugger,Goblins vs Gnomes,Minion,Mage,Common,2,2,3,Freeze,Mech,True
 GVG_087,Steamwheedle Sniper,Goblins vs Gnomes,Minion,Hunter,Epic,2,2,3,,,True
 GVG_067,Stonesplinter Trogg,Goblins vs Gnomes,Minion,Neutral,Common,2,2,3,,,True
+GVG_030b,Tank Mode,Goblins vs Gnomes,Spell,Druid,,2,,,,,False
 GVG_003,Unstable Portal,Goblins vs Gnomes,Spell,Mage,Rare,2,,,,,True
 GVG_039,Vitality Totem,Goblins vs Gnomes,Minion,Shaman,Rare,2,0,3,,Totem,True
 GVG_037,Whirling Zap-o-matic,Goblins vs Gnomes,Minion,Shaman,Common,2,3,2,Windfury,Mech,True
@@ -2021,6 +2682,8 @@ GVG_050,Bouncing Blade,Goblins vs Gnomes,Spell,Warrior,Epic,3,,,,,True
 GVG_059,Coghammer,Goblins vs Gnomes,Weapon,Paladin,Epic,3,2,3,"Divine Shield, Taunt, Battlecry",,True
 GVG_024,Cogmaster's Wrench,Goblins vs Gnomes,Weapon,Rogue,Epic,3,1,3,,,True
 GVG_084,Flying Machine,Goblins vs Gnomes,Minion,Neutral,Common,3,1,4,Windfury,Mech,True
+GVG_032b,Gift of Cards,Goblins vs Gnomes,Spell,Druid,,3,,,,,False
+GVG_032a,Gift of Mana,Goblins vs Gnomes,Spell,Druid,,3,,,,,False
 GVG_098,Gnomeregan Infantry,Goblins vs Gnomes,Minion,Neutral,Common,3,1,4,"Charge, Taunt",,True
 GVG_092,Gnomish Experimenter,Goblins vs Gnomes,Minion,Neutral,Rare,3,3,2,Battlecry,,True
 GVG_095,Goblin Sapper,Goblins vs Gnomes,Minion,Neutral,Rare,3,2,4,,,True
@@ -2083,12 +2746,14 @@ GVG_083,Upgraded Repair Bot,Goblins vs Gnomes,Minion,Priest,Rare,5,5,5,Battlecry
 GVG_014,Vol'jin,Goblins vs Gnomes,Minion,Priest,Legendary,5,6,2,Battlecry,,True
 GVG_077,Anima Golem,Goblins vs Gnomes,Minion,Warlock,Epic,6,9,9,,Mech,True
 GVG_056t,Burrowing Mine,Goblins vs Gnomes,Spell,Warrior,,6,,,"Immune to Spell Power, Casts When Drawn",,False
+GVG_041a,Call the Guardians,Goblins vs Gnomes,Spell,Druid,,6,,,,,False
 GVG_041,Dark Wispers,Goblins vs Gnomes,Spell,Druid,Epic,6,,,Taunt,,True
 GVG_117,Gazlowe,Goblins vs Gnomes,Minion,Neutral,Legendary,6,3,6,,,True
 GVG_056,Iron Juggernaut,Goblins vs Gnomes,Minion,Warrior,Legendary,6,6,5,Battlecry,Mech,True
 GVG_008,Lightbomb,Goblins vs Gnomes,Spell,Priest,Epic,6,,,Affected by Spell Power,,True
 GVG_034,Mech-Bear-Cat,Goblins vs Gnomes,Minion,Druid,Rare,6,7,6,,Mech,True
 GVG_112,Mogor the Ogre,Goblins vs Gnomes,Minion,Neutral,Legendary,6,7,6,,,True
+GVG_041b,Nature's Defense,Goblins vs Gnomes,Spell,Druid,,6,,,,,False
 GVG_105,Piloted Sky Golem,Goblins vs Gnomes,Minion,Neutral,Epic,6,6,4,Deathrattle,Mech,True
 GVG_031,Recycle,Goblins vs Gnomes,Spell,Druid,Rare,6,,,,,True
 GVG_053,Shieldmaiden,Goblins vs Gnomes,Minion,Warrior,Rare,6,5,5,Battlecry,,True
@@ -2116,8 +2781,8 @@ BRMA05_1H,Baron Geddon,Blackrock Mountain,Hero,Neutral,,,,50,,,False
 BRMA12_1,Chromaggus,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA12_1H,Chromaggus,Blackrock Mountain,Hero,Neutral,,,,60,,,False
 BRMA12_9,Chromatic Dragonkin,Blackrock Mountain,Hero,Neutral,,,,30,,,False
-BRMA01_1,Coren Direbrew,Blackrock Mountain,Hero,Neutral,,,,30,AIMustPlay,,False
 BRMA01_1H,Coren Direbrew,Blackrock Mountain,Hero,Neutral,,,,30,AIMustPlay,,False
+BRMA01_1,Coren Direbrew,Blackrock Mountain,Hero,Neutral,,,,30,AIMustPlay,,False
 BRMA03_1,Emperor Thaurissan,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA03_1H,Emperor Thaurissan,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA04_1,Garr,Blackrock Mountain,Hero,Neutral,,,,30,,,False
@@ -2151,8 +2816,8 @@ BRMA10_1,Razorgore the Untamed,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA10_1H,Razorgore the Untamed,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA09_1,Rend Blackhand,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA09_1H,Rend Blackhand,Blackrock Mountain,Hero,Neutral,,,,30,,,False
-BRMA15_2H,The Alchemist,Blackrock Mountain,Hero Power,Neutral,,,,,,,False
 BRMA15_2,The Alchemist,Blackrock Mountain,Hero Power,Neutral,,,,,,,False
+BRMA15_2H,The Alchemist,Blackrock Mountain,Hero Power,Neutral,,,,,,,False
 BRMA11_1,Vaelastrasz the Corrupt,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA11_1H,Vaelastrasz the Corrupt,Blackrock Mountain,Hero,Neutral,,,,30,,,False
 BRMA14_2H,Activate Arcanotron,Blackrock Mountain,Hero Power,Neutral,,0,,,AIMustPlay,,False
@@ -2211,14 +2876,14 @@ BRMA10_6,Razorgore's Claws,Blackrock Mountain,Weapon,Neutral,,1,1,5,,,False
 BRMA16_4,Reverberating Gong,Blackrock Mountain,Spell,Neutral,,1,,,,,False
 BRMA10_3,The Rookery,Blackrock Mountain,Hero Power,Neutral,,1,,,AIMustPlay,,False
 BRMA09_6,The True Warchief,Blackrock Mountain,Spell,Neutral,,1,,,,,False
-BRMA14_5H,Toxitron,Blackrock Mountain,Minion,Neutral,,1,4,4,,Mech,False
 BRMA14_5,Toxitron,Blackrock Mountain,Minion,Neutral,,1,3,3,,Mech,False
+BRMA14_5H,Toxitron,Blackrock Mountain,Minion,Neutral,,1,4,4,,Mech,False
 BRMA13_2,True Form,Blackrock Mountain,Hero Power,Neutral,,1,,,AIMustPlay,,False
 BRMA13_2H,True Form,Blackrock Mountain,Hero Power,Neutral,,1,,,AIMustPlay,,False
 BRM_004,Twilight Whelp,Blackrock Mountain,Minion,Priest,Common,1,2,1,Battlecry,Dragon,True
-BRM_004t,Whelp,Blackrock Mountain,Minion,Neutral,,1,1,1,,,False
 BRMA09_2t,Whelp,Blackrock Mountain,Minion,Neutral,,1,1,1,,Dragon,False
 BRMA09_2Ht,Whelp,Blackrock Mountain,Minion,Neutral,,1,2,2,,Dragon,False
+BRM_004t,Whelp,Blackrock Mountain,Minion,Neutral,,1,1,1,,,False
 BRMA13_4,Wild Magic,Blackrock Mountain,Hero Power,Neutral,,1,,,AIMustPlay,,False
 BRMA13_4H,Wild Magic,Blackrock Mountain,Hero Power,Neutral,,1,,,AIMustPlay,,False
 BRMA14_2,Activate Arcanotron,Blackrock Mountain,Hero Power,Neutral,,2,,,AIMustPlay,,False
@@ -2257,12 +2922,12 @@ BRMA12_7H,Brood Affliction: Bronze,Blackrock Mountain,Spell,Neutral,,3,,,,,False
 BRMA12_4H,Brood Affliction: Green,Blackrock Mountain,Spell,Neutral,,3,,,,,False
 BRMA12_3H,Brood Affliction: Red,Blackrock Mountain,Spell,Neutral,,3,,,Immune to Spell Power,,False
 BRM_005,Demonwrath,Blackrock Mountain,Spell,Warlock,Rare,3,,,Affected by Spell Power,,True
+OG_044b,Druid of the Flame,Blackrock Mountain,Minion,Druid,Common,3,5,5,,Beast,False
 BRM_010,Druid of the Flame,Blackrock Mountain,Minion,Druid,Common,3,2,2,,,True
 BRM_010t,Druid of the Flame,Blackrock Mountain,Minion,Druid,Common,3,5,2,,Beast,False
 BRM_010t2,Druid of the Flame,Blackrock Mountain,Minion,Druid,Common,3,2,5,,Beast,False
-OG_044b,Druid of the Flame,Blackrock Mountain,Minion,Druid,Common,3,5,5,,Beast,False
-BRMA14_7H,Electron,Blackrock Mountain,Minion,Neutral,,3,6,6,Aura,Mech,False
 BRMA14_7,Electron,Blackrock Mountain,Minion,Neutral,,3,5,5,Aura,Mech,False
+BRMA14_7H,Electron,Blackrock Mountain,Minion,Neutral,,3,6,6,Aura,Mech,False
 BRM_010b,Fire Hawk Form,Blackrock Mountain,Minion,Druid,Common,3,2,5,,Beast,False
 BRM_010a,Firecat Form,Blackrock Mountain,Minion,Druid,Common,3,5,2,,Beast,False
 BRMA_01,Flameheart,Blackrock Mountain,Spell,Neutral,,3,,,,,False
@@ -2278,8 +2943,8 @@ BRMA14_6H,Activate Electron,Blackrock Mountain,Hero Power,Neutral,,4,,,AIMustPla
 BRMA14_4,Activate Toxitron,Blackrock Mountain,Hero Power,Neutral,,4,,,AIMustPlay,,False
 BRMA14_10,Activate!,Blackrock Mountain,Hero Power,Neutral,,4,,,,,False
 BRM_016,Axe Flinger,Blackrock Mountain,Minion,Warrior,Common,4,2,5,,,True
-BRMA10_5,Chromatic Drake,Blackrock Mountain,Minion,Neutral,,4,7,3,,Dragon,False
 BRMA10_5H,Chromatic Drake,Blackrock Mountain,Minion,Neutral,,4,7,7,,Dragon,False
+BRMA10_5,Chromatic Drake,Blackrock Mountain,Minion,Neutral,,4,7,3,,Dragon,False
 BRM_014,Core Rager,Blackrock Mountain,Minion,Hunter,Rare,4,4,4,Battlecry,Beast,True
 BRMA09_5,Dismount,Blackrock Mountain,Hero Power,Neutral,,4,,,,,False
 BRMA09_5H,Dismount,Blackrock Mountain,Hero Power,Neutral,,4,,,,,False
@@ -2295,8 +2960,8 @@ BRM_008,Dark Iron Skulker,Blackrock Mountain,Minion,Rogue,Rare,5,4,3,Battlecry,,
 BRM_018,Dragon Consort,Blackrock Mountain,Minion,Paladin,Rare,5,5,5,Battlecry,Dragon,True
 BRM_003,Dragon's Breath,Blackrock Mountain,Spell,Mage,Common,5,,,,,True
 BRM_019,Grim Patron,Blackrock Mountain,Minion,Neutral,Rare,5,3,3,,,True
-BRMA14_9H,Magmatron,Blackrock Mountain,Minion,Neutral,,5,8,8,Aura,Mech,False
 BRMA14_9,Magmatron,Blackrock Mountain,Minion,Neutral,,5,7,7,Aura,Mech,False
+BRMA14_9H,Magmatron,Blackrock Mountain,Minion,Neutral,,5,8,8,Aura,Mech,False
 BRMA14_12,Magmaw,Blackrock Mountain,Minion,Neutral,,5,10,2,Taunt,,False
 BRM_001,Solemn Vigil,Blackrock Mountain,Spell,Paladin,Common,5,,,,,True
 BRMA14_6,Activate Electron,Blackrock Mountain,Hero Power,Neutral,,6,,,AIMustPlay,,False
@@ -2311,18 +2976,18 @@ BRM_031,Chromaggus,Blackrock Mountain,Minion,Neutral,Legendary,8,6,8,,Dragon,Tru
 BRM_027,Majordomo Executus,Blackrock Mountain,Minion,Neutral,Legendary,9,9,7,Deathrattle,,True
 BRM_030,Nefarian,Blackrock Mountain,Minion,Neutral,Legendary,9,8,8,Battlecry,Dragon,True
 BRM_009,Volcanic Lumberer,Blackrock Mountain,Minion,Druid,Rare,9,7,8,Taunt,,True
-AT_037a,Grasping Roots,The Grand Tournament,Spell,Druid,,0,,,,,False
-AT_037b,"One, Two, Trees!",The Grand Tournament,Spell,Druid,,0,,,,,False
 AT_004,Arcane Blast,The Grand Tournament,Spell,Mage,Epic,1,,,Spell Damage,,True
 AT_059,Brave Archer,The Grand Tournament,Minion,Hunter,Common,1,2,1,Inspire,,True
 AT_029,Buccaneer,The Grand Tournament,Minion,Rogue,Common,1,2,1,,Pirate,True
 AT_073,Competitive Spirit,The Grand Tournament,Spell,Paladin,Rare,1,,,Secret,,True
 AT_055,Flash Heal,The Grand Tournament,Spell,Priest,Common,1,,,,,True
 AT_133,Gadgetzan Jouster,The Grand Tournament,Minion,Neutral,Common,1,1,2,Battlecry,,True
+AT_037a,Grasping Roots,The Grand Tournament,Spell,Druid,,1,,,,,False
 AT_132_SHAMANa,Healing Totem,The Grand Tournament,Minion,Shaman,,1,0,2,,,False
 AT_105,Injured Kvaldir,The Grand Tournament,Minion,Neutral,Rare,1,2,4,Battlecry,,True
 AT_037,Living Roots,The Grand Tournament,Spell,Druid,Common,1,,,,,True
 AT_082,Lowly Squire,The Grand Tournament,Minion,Neutral,Common,1,1,2,Inspire,,True
+AT_037b,"One, Two, Trees!",The Grand Tournament,Spell,Druid,,1,,,,,False
 AT_132_ROGUEt,Poisoned Dagger,The Grand Tournament,Weapon,Rogue,,1,2,2,,,False
 AT_013,Power Word: Glory,The Grand Tournament,Spell,Priest,Common,1,,,,,True
 AT_037t,Sapling,The Grand Tournament,Minion,Druid,,1,1,1,,,False
@@ -2472,8 +3137,8 @@ AT_120,Frost Giant,The Grand Tournament,Minion,Neutral,Epic,10,8,8,,,True
 AT_072,Varian Wrynn,The Grand Tournament,Minion,Warrior,Legendary,10,7,7,Battlecry,,True
 LOEA08_01h,Archaedas,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA08_01,Archaedas,The League of Explorers,Hero,Neutral,,,,30,,,False
-LOEA01_02h,Blessings of the Sun,The League of Explorers,Hero Power,Neutral,,,,,,,False
 LOEA01_02,Blessings of the Sun,The League of Explorers,Hero Power,Neutral,,,,,,,False
+LOEA01_02h,Blessings of the Sun,The League of Explorers,Hero Power,Neutral,,,,,,,False
 LOEA05_01h,Chieftain Scarvash,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA05_01,Chieftain Scarvash,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA10_1,Giantfin,The League of Explorers,Hero,Neutral,,,,30,,,False
@@ -2499,10 +3164,10 @@ LOEA13_1,Skelesaurus Hex,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA13_1h,Skelesaurus Hex,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA16_2,Staff of Origination,The League of Explorers,Hero Power,Neutral,,,,,,,False
 LOEA16_2H,Staff of Origination,The League of Explorers,Hero Power,Neutral,,,,,,,False
-LOEA01_01h,Sun Raider Phaerix,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA01_01,Sun Raider Phaerix,The League of Explorers,Hero,Neutral,,,,30,,,False
-LOEA04_01h,Temple Escape,The League of Explorers,Hero,Neutral,,,,100,,,False
+LOEA01_01h,Sun Raider Phaerix,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA04_01,Temple Escape,The League of Explorers,Hero,Neutral,,,,100,,,False
+LOEA04_01h,Temple Escape,The League of Explorers,Hero,Neutral,,,,100,,,False
 LOEA14_1,The Steel Sentinel,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA14_1H,The Steel Sentinel,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA05_02h,Trogg Hate Minions!,The League of Explorers,Hero Power,Neutral,,,,,,,False
@@ -2511,23 +3176,21 @@ LOEA05_02a,Trogg Hate Minions!,The League of Explorers,Hero Power,Neutral,,,,,,,
 LOEA05_02ha,Trogg Hate Minions!,The League of Explorers,Hero Power,Neutral,,,,,,,False
 LOEA05_03h,Trogg Hate Spells!,The League of Explorers,Hero Power,Neutral,,,,,,,False
 LOEA05_03,Trogg Hate Spells!,The League of Explorers,Hero Power,Neutral,,,,,,,False
-LOEA02_01h,Zinaar,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA02_01,Zinaar,The League of Explorers,Hero,Neutral,,,,30,,,False
+LOEA02_01h,Zinaar,The League of Explorers,Hero,Neutral,,,,30,,,False
 LOEA04_28,A Glowing Pool,The League of Explorers,Spell,Neutral,,0,,,,,False
 LOEA13_2,Ancient Power,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
 LOEA13_2H,Ancient Power,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
-LOE_115b,Awakened,The League of Explorers,Spell,Druid,,0,,,,,False
 LOEA16_7,Benediction Splinter,The League of Explorers,Spell,Neutral,,0,,,,,False
-LOE_115a,Break Free,The League of Explorers,Spell,Druid,,0,,,,,False
 LOEA09_7H,Cauldron,The League of Explorers,Minion,Neutral,,0,0,10,"Deathrattle, Taunt",,False
 LOEA09_7,Cauldron,The League of Explorers,Minion,Neutral,,0,0,5,"Deathrattle, Taunt",,False
 LOEA16_11,Crown of Kael'thas,The League of Explorers,Spell,Neutral,,0,,,Immune to Spell Power,,False
-LOEA02_02h,Djinn’s Intuition,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
 LOEA02_02,Djinn’s Intuition,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
+LOEA02_02h,Djinn’s Intuition,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
 LOEA04_28a,Drink Deeply,The League of Explorers,Spell,Neutral,,0,,,,,False
 LOEA09_3H,Endless Hunger,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
-LOEA04_02h,Escape!,The League of Explorers,Hero Power,Neutral,,0,,,,,False
 LOEA04_02,Escape!,The League of Explorers,Hero Power,Neutral,Free,0,,,AIMustPlay,,False
+LOEA04_02h,Escape!,The League of Explorers,Hero Power,Neutral,,0,,,,,False
 LOEA16_13,Eye of Orsis,The League of Explorers,Spell,Neutral,,0,,,Discover,,False
 LOEA07_03,Flee the Mine!,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
 LOEA07_03h,Flee the Mine!,The League of Explorers,Hero Power,Neutral,,0,,,AIMustPlay,,False
@@ -2546,8 +3209,8 @@ LOEA10_3,Murloc Tinyfin,The League of Explorers,Minion,Neutral,Common,0,1,1,,Mur
 LOEA04_31b,No Way!,The League of Explorers,Spell,Neutral,,0,,,,,False
 LOEA04_06,Pit of Spikes,The League of Explorers,Spell,Neutral,,0,,,,,False
 LOEA16_8,Putress' Vial,The League of Explorers,Spell,Neutral,,0,,,,,False
-LOEA01_11h,Rod of the Sun,The League of Explorers,Minion,Neutral,,0,0,5,Deathrattle,,False
 LOEA01_11,Rod of the Sun,The League of Explorers,Minion,Neutral,,0,0,5,Deathrattle,,False
+LOEA01_11h,Rod of the Sun,The League of Explorers,Minion,Neutral,,0,0,5,Deathrattle,,False
 LOEA16_16,Rummage,The League of Explorers,Hero Power,Neutral,,0,,,,,False
 LOEA16_6,Shard of Sulfuras,The League of Explorers,Spell,Neutral,,0,,,,,False
 LOEA04_06a,Swing Across,The League of Explorers,Spell,Neutral,,0,,,Immune to Spell Power,,False
@@ -2565,9 +3228,11 @@ LOEA02_03,Wish for Power,The League of Explorers,Spell,Neutral,,0,,,Discover,,Fa
 LOEA02_04,Wish for Valor,The League of Explorers,Spell,Neutral,,0,,,Discover,,False
 LOEA16_15,Ysera's Tear,The League of Explorers,Spell,Neutral,,0,,,,,False
 LOEA04_27,Animated Statue,The League of Explorers,Minion,Neutral,,1,10,10,,,False
+LOE_115b,Awakened,The League of Explorers,Spell,Druid,,1,,,Discover,,False
 LOEA07_21,Barrel Forward,The League of Explorers,Spell,Neutral,,1,,,,,False
 LOEA16_20,Blessing of the Sun,The League of Explorers,Spell,Neutral,,1,,,,,False
 LOEA07_20,Boom!,The League of Explorers,Spell,Neutral,,1,,,,,False
+LOE_115a,Break Free,The League of Explorers,Spell,Druid,,1,,,Discover,,False
 LOEA07_26,Consult Brann,The League of Explorers,Spell,Neutral,,1,,,,,False
 LOE_118,Cursed Blade,The League of Explorers,Weapon,Warrior,Rare,1,2,3,,,True
 LOEA07_11,Debris,The League of Explorers,Minion,Neutral,,1,0,3,Taunt,,False
@@ -2632,8 +3297,8 @@ LOE_050,Mounted Raptor,The League of Explorers,Minion,Druid,Common,3,3,2,Deathra
 LOEA10_5H,Mrgl Mrgl Nyah Nyah,The League of Explorers,Spell,Neutral,Common,3,,,,,False
 LOEA16_5t,Mummy Zombie,The League of Explorers,Minion,Neutral,,3,3,3,,,False
 LOE_002t,Roaring Torch,The League of Explorers,Spell,Mage,,3,,,,,False
-LOEA01_12h,Tol'vir Hoplite,The League of Explorers,Minion,Neutral,,3,5,5,Deathrattle,,False
 LOEA01_12,Tol'vir Hoplite,The League of Explorers,Minion,Neutral,,3,5,2,Deathrattle,,False
+LOEA01_12h,Tol'vir Hoplite,The League of Explorers,Minion,Neutral,,3,5,5,Deathrattle,,False
 LOE_019,Unearthed Raptor,The League of Explorers,Minion,Rogue,Rare,3,3,4,"Deathrattle, Battlecry",,True
 LOE_110t,Ancient Curse,The League of Explorers,Spell,Neutral,,4,,,"Immune to Spell Power, Casts When Drawn",,False
 LOE_110,Ancient Shade,The League of Explorers,Minion,Neutral,Rare,4,7,4,Battlecry,,True
@@ -2700,17 +3365,11 @@ LOEA16_19H,Sun Raider Phaerix,The League of Explorers,Minion,Neutral,,10,10,10,A
 LOEA16_27H,The Steel Sentinel,The League of Explorers,Minion,Neutral,,10,10,10,,,False
 LOEA16_4,Timepiece of Horror,The League of Explorers,Spell,Neutral,,10,,,Immune to Spell Power,,False
 LOEA16_18H,Zinaar,The League of Explorers,Minion,Neutral,,10,10,10,,,False
-OG_195b,Big Wisps,Whispers of the Old Gods,Spell,Druid,,0,,,,,False
-OG_047b,Evolve Scales,Whispers of the Old Gods,Spell,Druid,,0,,,,,False
-OG_047a,Evolve Spines,Whispers of the Old Gods,Spell,Druid,,0,,,,,False
 OG_086,Forbidden Flame,Whispers of the Old Gods,Spell,Mage,Epic,0,,,Affected by Spell Power,,True
 OG_198,Forbidden Healing,Whispers of the Old Gods,Spell,Paladin,Epic,0,,,,,True
 OG_114,Forbidden Ritual,Whispers of the Old Gods,Spell,Warlock,Rare,0,,,,,True
 OG_101,Forbidden Shaping,Whispers of the Old Gods,Spell,Priest,Epic,0,,,,,True
-OG_195a,Many Wisps,Whispers of the Old Gods,Spell,Druid,,0,,,,,False
 OG_195c,Wisp,Whispers of the Old Gods,Minion,Druid,,0,1,1,,,False
-OG_202a,Y'Shaarj's Strength,Whispers of the Old Gods,Spell,Druid,,0,,,,,False
-OG_202b,Yogg-Saron's Magic,Whispers of the Old Gods,Spell,Druid,,0,,,,,False
 OG_070,Bladed Cultist,Whispers of the Old Gods,Minion,Rogue,Common,1,1,2,Combo,,True
 OG_314,Blood To Ichor,Whispers of the Old Gods,Spell,Warrior,Rare,1,,,,,True
 OG_080c,Bloodthistle Toxin,Whispers of the Old Gods,Spell,Rogue,,1,,,,,False
@@ -2753,9 +3412,9 @@ OG_048,Mark of Y'Shaarj,Whispers of the Old Gods,Spell,Druid,Common,2,,,,,True
 OG_338,"Nat, the Darkfisher",Whispers of the Old Gods,Minion,Neutral,Legendary,2,2,4,,,True
 OG_118,Renounce Darkness,Whispers of the Old Gods,Spell,Warlock,Epic,2,,,,,True
 OG_081,Shatter,Whispers of the Old Gods,Spell,Mage,Common,2,,,Freeze,,True
-OG_314b,Slime,Whispers of the Old Gods,Minion,Warrior,,2,2,2,,,False
 OG_249a,Slime,Whispers of the Old Gods,Minion,Neutral,,2,2,2,,,False
 OG_202c,Slime,Whispers of the Old Gods,Minion,Druid,,2,2,2,,,False
+OG_314b,Slime,Whispers of the Old Gods,Minion,Warrior,,2,2,2,,,False
 OG_206,Stormcrack,Whispers of the Old Gods,Spell,Shaman,Common,2,,,Overload,,True
 OG_006b,The Tidal Hand,Whispers of the Old Gods,Hero Power,Paladin,,2,,,,,False
 OG_284,Twilight Geomancer,Whispers of the Old Gods,Minion,Neutral,Common,2,1,4,"Battlecry, Taunt",,True
@@ -2768,6 +3427,8 @@ OG_315,Bloodsail Cultist,Whispers of the Old Gods,Minion,Warrior,Rare,3,3,4,Batt
 OG_325,Carrion Grub,Whispers of the Old Gods,Minion,Hunter,Common,3,2,5,,Beast,True
 OG_113,Darkshire Councilman,Whispers of the Old Gods,Minion,Warlock,Common,3,1,5,,,True
 OG_162,Disciple of C'Thun,Whispers of the Old Gods,Minion,Neutral,Rare,3,2,1,Battlecry,,True
+OG_047b,Evolve Scales,Whispers of the Old Gods,Spell,Druid,,3,,,,,False
+OG_047a,Evolve Spines,Whispers of the Old Gods,Spell,Druid,,3,,,,,False
 OG_047,Feral Rage,Whispers of the Old Gods,Spell,Druid,Common,3,,,,,True
 OG_292,Forlorn Stalker,Whispers of the Old Gods,Minion,Hunter,Rare,3,4,2,"Deathrattle, Battlecry",,True
 OG_045,Infest,Whispers of the Old Gods,Spell,Hunter,Rare,3,,,Deathrattle,,True
@@ -2807,6 +3468,8 @@ OG_335,Shifting Shade,Whispers of the Old Gods,Minion,Priest,Rare,4,4,3,Deathrat
 OG_267,Southsea Squidface,Whispers of the Old Gods,Minion,Rogue,Common,4,4,4,Deathrattle,Pirate,True
 OG_272,Twilight Summoner,Whispers of the Old Gods,Minion,Neutral,Epic,4,1,1,Deathrattle,,True
 OG_080,"Xaril, Poisoned Mind",Whispers of the Old Gods,Minion,Rogue,Legendary,4,3,2,"Battlecry, Deathrattle",,True
+OG_202a,Y'Shaarj's Strength,Whispers of the Old Gods,Spell,Druid,,4,,,,,False
+OG_202b,Yogg-Saron's Magic,Whispers of the Old Gods,Spell,Druid,,4,,,,,False
 OG_090,Cabalist's Tome,Whispers of the Old Gods,Spell,Mage,Epic,5,,,,,True
 OG_147,Corrupted Healbot,Whispers of the Old Gods,Minion,Neutral,Rare,5,6,6,Deathrattle,Mech,True
 OG_321,Crazed Worshipper,Whispers of the Old Gods,Minion,Neutral,Epic,5,3,6,Taunt,,True
@@ -2837,11 +3500,13 @@ OG_339,Skeram Cultist,Whispers of the Old Gods,Minion,Neutral,Rare,6,7,6,Battlec
 OG_028,Thing from Below,Whispers of the Old Gods,Minion,Shaman,Rare,6,5,5,Taunt,,True
 OG_073,Thistle Tea,Whispers of the Old Gods,Spell,Rogue,Rare,6,,,,,True
 OG_301,Ancient Shieldbearer,Whispers of the Old Gods,Minion,Warrior,Rare,7,6,6,Battlecry,,True
+OG_195b,Big Wisps,Whispers of the Old Gods,Spell,Druid,,7,,,,,False
 OG_153,Bog Creeper,Whispers of the Old Gods,Minion,Neutral,Common,7,6,8,Taunt,,True
 OG_121,Cho'gall,Whispers of the Old Gods,Minion,Warlock,Legendary,7,7,7,Battlecry,,True
 OG_152,Grotesque Dragonhawk,Whispers of the Old Gods,Minion,Neutral,Common,7,5,5,Windfury,Beast,True
 OG_318,"Hogger, Doom of Elwynn",Whispers of the Old Gods,Minion,Neutral,Legendary,7,6,6,Taunt,,True
 OG_220,Malkorok,Whispers of the Old Gods,Minion,Warrior,Legendary,7,6,5,Battlecry,,True
+OG_195a,Many Wisps,Whispers of the Old Gods,Spell,Druid,,7,,,,,False
 OG_131,Twin Emperor Vek'lor,Whispers of the Old Gods,Minion,Neutral,Legendary,7,4,6,"Battlecry, Taunt",,True
 OG_319,Twin Emperor Vek'nilash,Whispers of the Old Gods,Minion,Neutral,,7,4,6,Taunt,,False
 OG_195,Wisps of the Old Gods,Whispers of the Old Gods,Spell,Druid,Epic,7,,,,,True
@@ -2867,8 +3532,8 @@ OG_042,"Y'Shaarj, Rage Unbound",Whispers of the Old Gods,Minion,Neutral,Legendar
 OG_134,"Yogg-Saron, Hope's End",Whispers of the Old Gods,Minion,Neutral,Legendary,10,7,5,Battlecry,,True
 KARA_05_01hheroic,Big Bad Wolf,One Night in Karazhan,Hero,Neutral,Common,,,20,,,False
 KARA_05_01h,Big Bad Wolf,One Night in Karazhan,Hero,Neutral,Common,,,20,,,False
-KAR_a10_Boss2H,Black King,One Night in Karazhan,Hero,Neutral,,,,20,,,False
 KAR_a10_Boss2,Black King,One Night in Karazhan,Hero,Neutral,,,,20,,,False
+KAR_a10_Boss2H,Black King,One Night in Karazhan,Hero,Neutral,,,,20,,,False
 KARA_07_01heroic,Curator,One Night in Karazhan,Hero,Neutral,,,,40,,,False
 KARA_07_01,Curator,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_09_02,Curator,One Night in Karazhan,Hero,Neutral,,,,30,,,False
@@ -2877,39 +3542,39 @@ KARA_07_02,Gallery Protection,One Night in Karazhan,Hero Power,Neutral,,,,,,,Fal
 KARA_06_02heroic,Julianne,One Night in Karazhan,Hero,Neutral,,,,15,,,False
 KARA_06_02,Julianne,One Night in Karazhan,Hero,Neutral,,,,15,,,False
 KARA_05_01b,Kindly Grandmother,One Night in Karazhan,Hero,Neutral,Common,,,20,,,False
-KAR_A01_01H,Magic Mirror,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KAR_A01_01,Magic Mirror,One Night in Karazhan,Hero,Neutral,,,,30,,,False
+KAR_A01_01H,Magic Mirror,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_11_02,Manastorm,One Night in Karazhan,Hero Power,Neutral,,,,,,,False
-KARA_00_03H,Medivh,One Night in Karazhan,Hero,Mage,,,,30,,,False
 KARA_00_03c,Medivh,One Night in Karazhan,Hero,Neutral,,,,None,,,False
 KARA_00_03,Medivh,One Night in Karazhan,Hero,Mage,,,,30,,,False
+KARA_00_03H,Medivh,One Night in Karazhan,Hero,Mage,,,,30,,,False
 KARA_13_01,Nazra Wildaxe,One Night in Karazhan,Hero,Warrior,,,,15,,,False
 KARA_13_01H,Nazra Wildaxe,One Night in Karazhan,Hero,Warrior,,,,15,,,False
-KARA_08_01H,Netherspite,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_08_01,Netherspite,One Night in Karazhan,Hero,Neutral,,,,30,,,False
+KARA_08_01H,Netherspite,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_11_01,Nightbane,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_11_01heroic,Nightbane,One Night in Karazhan,Hero,Neutral,,,,30,,,False
-KARA_00_01H,Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,60,,,False
 KARA_00_01,Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_13_06,Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,30,,Demon,False
 KARA_13_06H,Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,30,,Demon,False
-KAR_A01_02H,Reflections,One Night in Karazhan,Hero Power,Neutral,,,,,,,False
+KARA_00_01H,Prince Malchezaar,One Night in Karazhan,Hero,Neutral,,,,60,,,False
 KAR_A01_02,Reflections,One Night in Karazhan,Hero Power,Neutral,,,,,,,False
-KARA_12_01H,Shade of Aran,One Night in Karazhan,Hero,Mage,,,,30,,,False
+KAR_A01_02H,Reflections,One Night in Karazhan,Hero Power,Neutral,,,,,,,False
 KARA_12_01,Shade of Aran,One Night in Karazhan,Hero,Mage,,,,30,,,False
-KAR_A02_12H,Silverware Golem,One Night in Karazhan,Hero,Neutral,,,,30,,,False
+KARA_12_01H,Shade of Aran,One Night in Karazhan,Hero,Mage,,,,30,,,False
 KAR_A02_12,Silverware Golem,One Night in Karazhan,Hero,Neutral,,,,30,,,False
+KAR_A02_12H,Silverware Golem,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_09_01heroic,Terestian Illhoof,One Night in Karazhan,Hero,Neutral,,,,40,,,False
 KARA_09_01,Terestian Illhoof,One Night in Karazhan,Hero,Neutral,,,,30,,,False
 KARA_04_01heroic,The Crone,One Night in Karazhan,Hero,Neutral,,,,50,,,False
 KARA_04_01h,The Crone,One Night in Karazhan,Hero,Neutral,Common,,,30,,,False
-KAR_a10_Boss1H,White King,One Night in Karazhan,Hero,Neutral,,,,20,,,False
 KAR_a10_Boss1,White King,One Night in Karazhan,Hero,Neutral,,,,20,,,False
-KAR_A02_13H,Be Our Guest,One Night in Karazhan,Hero Power,Neutral,,0,,,AIMustPlay,,False
+KAR_a10_Boss1H,White King,One Night in Karazhan,Hero,Neutral,,,,20,,,False
 KAR_A02_13,Be Our Guest,One Night in Karazhan,Hero Power,Neutral,,0,,,AIMustPlay,,False
+KAR_A02_13H,Be Our Guest,One Night in Karazhan,Hero Power,Neutral,,0,,,AIMustPlay,,False
 KARA_00_11,Evocation,One Night in Karazhan,Spell,Mage,,0,,,,,False
-KARA_12_02H,Ley Lines,One Night in Karazhan,Hero Power,Neutral,,0,,,,,False
 KARA_12_02,Ley Lines,One Night in Karazhan,Hero Power,Neutral,,0,,,,,False
+KARA_12_02H,Ley Lines,One Night in Karazhan,Hero Power,Neutral,,0,,,,,False
 KARA_05_01hpheroic,Trembling,One Night in Karazhan,Hero Power,Neutral,Common,0,,,,,False
 KARA_05_01hp,Trembling,One Night in Karazhan,Hero Power,Neutral,Common,0,,,,,False
 KARA_06_03hpheroic,True Love,One Night in Karazhan,Hero Power,Neutral,Common,0,,,,,False
@@ -2944,10 +3609,10 @@ KARA_00_06,Arcane Power,One Night in Karazhan,Spell,Mage,,2,,,Spell Damage,,Fals
 KARA_00_08,Archmage's Apprentice,One Night in Karazhan,Minion,Mage,,2,2,4,,,False
 KARA_05_02heroic,Big Bad Claws,One Night in Karazhan,Weapon,Neutral,,2,4,2,,,False
 KAR_005a,Big Bad Wolf,One Night in Karazhan,Minion,Hunter,,2,3,2,,Beast,False
-KARA_00_04H,Brilliance,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
 KARA_00_04,Brilliance,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
+KARA_00_04H,Brilliance,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
 KAR_025b,Broom,One Night in Karazhan,Minion,Warlock,,2,2,2,,,False
-KAR_A10_22,Castle,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
+KAR_A10_22,Castle,One Night in Karazhan,Hero Power,Neutral,,2,,,Discover,,False
 KAR_004,Cat Trick,One Night in Karazhan,Spell,Hunter,Rare,2,,,"Stealth, Secret",,True
 KAR_A10_33,Cheat,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
 KAR_A02_05,Cup,One Night in Karazhan,Minion,Neutral,,2,2,1,Aura,,False
@@ -2955,10 +3620,10 @@ KAR_A02_05H,Cup,One Night in Karazhan,Minion,Neutral,,2,2,2,Aura,,False
 KARA_08_04,Empowerment,One Night in Karazhan,Spell,Neutral,,2,,,,,False
 KAR_A02_03H,Fork,One Night in Karazhan,Minion,Neutral,,2,3,3,"Charge, Aura",,False
 KAR_005,Kindly Grandmother,One Night in Karazhan,Minion,Hunter,Common,2,1,1,Deathrattle,Beast,True
-KARA_00_02H,Legion,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
 KARA_13_13,Legion,One Night in Karazhan,Hero Power,Neutral,,2,,,AIMustPlay,,False
 KARA_00_02,Legion,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
 KARA_13_13H,Legion,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
+KARA_00_02H,Legion,One Night in Karazhan,Hero Power,Neutral,,2,,,,,False
 KAR_073,Maelstrom Portal,One Night in Karazhan,Spell,Shaman,Rare,2,,,,,True
 KARA_09_03heroic,Many Imps!,One Night in Karazhan,Spell,Neutral,,2,,,,,False
 KARA_09_03,Many Imps!,One Night in Karazhan,Spell,Neutral,,2,,,,,False
@@ -2984,8 +3649,8 @@ KAR_004a,Cat in a Hat,One Night in Karazhan,Minion,Hunter,,3,4,2,Stealth,Beast,F
 KAR_030,Cellar Spider,One Night in Karazhan,Minion,Neutral,,3,1,3,,Beast,False
 KAR_006,Cloaked Huntress,One Night in Karazhan,Minion,Hunter,Common,3,3,4,Secret,,True
 KAR_094,Deadly Fork,One Night in Karazhan,Minion,Rogue,Common,3,3,2,Deathrattle,,True
-KARA_13_12H,Demonic Presence,One Night in Karazhan,Spell,Neutral,,3,,,,,False
 KARA_13_12,Demonic Presence,One Night in Karazhan,Spell,Neutral,,3,,,,,False
+KARA_13_12H,Demonic Presence,One Night in Karazhan,Spell,Neutral,,3,,,,,False
 KARA_07_06heroic,Demons Loose!,One Night in Karazhan,Spell,Neutral,,3,,,,,False
 KARA_12_03,Flame Wreath,One Night in Karazhan,Spell,Mage,,3,,,"Immune to Spell Power, Secret",,False
 KARA_12_03H,Flame Wreath,One Night in Karazhan,Spell,Mage,,3,,,"Immune to Spell Power, Secret",,False
@@ -3026,13 +3691,13 @@ KAR_A02_06,Pitcher,One Night in Karazhan,Minion,Neutral,,4,3,3,Battlecry,,False
 KAR_A02_06H,Pitcher,One Night in Karazhan,Minion,Neutral,,4,5,5,Battlecry,,False
 KAR_035,Priest of the Feast,One Night in Karazhan,Minion,Priest,Common,4,3,6,,,True
 KARA_06_01,Romulo,One Night in Karazhan,Minion,Neutral,,4,4,2,,,False
-KAR_A02_09H,Set the Table,One Night in Karazhan,Spell,Neutral,,4,,,,,False
 KAR_A02_09,Set the Table,One Night in Karazhan,Spell,Neutral,,4,,,,,False
+KAR_A02_09H,Set the Table,One Night in Karazhan,Spell,Neutral,,4,,,,,False
 KARA_09_06heroic,Shadow Volley,One Night in Karazhan,Spell,Neutral,,4,,,,,False
 KAR_077,Silvermoon Portal,One Night in Karazhan,Spell,Paladin,Common,4,,,,,True
 KARA_09_07heroic,Steal Life,One Night in Karazhan,Spell,Neutral,,4,,,,,False
-KARA_09_05heroic,Summon Kil'rek,One Night in Karazhan,Spell,Neutral,,4,,,,,False
 KARA_09_05,Summon Kil'rek,One Night in Karazhan,Spell,Neutral,,4,,,,,False
+KARA_09_05heroic,Summon Kil'rek,One Night in Karazhan,Spell,Neutral,,4,,,,,False
 KARA_06_03hp,True Love,One Night in Karazhan,Hero Power,Neutral,Common,4,,,,,False
 KAR_A10_08,White Knight,One Night in Karazhan,Minion,Neutral,,4,4,3,Charge,,False
 KAR_021,Wicked Witchdoctor,One Night in Karazhan,Minion,Shaman,Common,4,3,4,,,True
@@ -3063,12 +3728,9 @@ KAR_097,"Medivh, the Guardian",One Night in Karazhan,Minion,Neutral,Legendary,8,
 KARA_08_08,Red Portal,One Night in Karazhan,Minion,Neutral,,11,0,1,Windfury,,False
 KAR_711,Arcane Giant,One Night in Karazhan,Minion,Neutral,Epic,12,8,8,,,True
 CFM_630,Counterfeit Coin,Mean Streets of Gadgetzan,Spell,Rogue,Rare,0,,,,,True
-CFM_602a,Cut from Jade,Mean Streets of Gadgetzan,Spell,Druid,,0,,,Jade Golem,,False
-CFM_308a,Forgotten Armor,Mean Streets of Gadgetzan,Spell,Druid,,0,,,,,False
-CFM_308b,Forgotten Mana,Mean Streets of Gadgetzan,Spell,Druid,,0,,,,,False
 CFM_021,Freezing Potion,Mean Streets of Gadgetzan,Spell,Mage,Common,0,,,Freeze,,True
-CFM_602b,Jade Stash,Mean Streets of Gadgetzan,Spell,Druid,,0,,,,,False
 CFM_315,Alleycat,Mean Streets of Gadgetzan,Minion,Hunter,Common,1,1,1,Battlecry,Beast,True
+CFM_602a,Cut from Jade,Mean Streets of Gadgetzan,Spell,Druid,,1,,,Jade Golem,,False
 CFM_621t4,Felbloom,Mean Streets of Gadgetzan,Spell,Neutral,,1,,,Affected by Spell Power,,False
 CFM_313,Finders Keepers,Mean Streets of Gadgetzan,Spell,Shaman,Epic,1,,,"Overload, Discover",,True
 CFM_800,Getaway Kodo,Mean Streets of Gadgetzan,Spell,Paladin,Rare,1,,,Secret,,True
@@ -3080,6 +3742,7 @@ CFM_621t5,Icecap,Mean Streets of Gadgetzan,Spell,Neutral,,1,,,Freeze,,False
 CFM_621t37,Ichor of Undeath,Mean Streets of Gadgetzan,Spell,Neutral,,1,,,,,False
 CFM_712_t01,Jade Golem,Mean Streets of Gadgetzan,Minion,Neutral,,1,1,1,Jade Golem,,False
 CFM_602,Jade Idol,Mean Streets of Gadgetzan,Spell,Druid,Rare,1,,,Jade Golem,,True
+CFM_602b,Jade Stash,Mean Streets of Gadgetzan,Spell,Druid,,1,,,,,False
 CFM_066,Kabal Lackey,Mean Streets of Gadgetzan,Minion,Mage,Common,1,2,1,"Secret, Battlecry",,True
 CFM_621t,Kazakus Potion,Mean Streets of Gadgetzan,Spell,Neutral,,1,,,,,False
 CFM_621t8,Kingsblood,Mean Streets of Gadgetzan,Spell,Neutral,,1,,,,,False
@@ -3178,9 +3841,9 @@ CFM_756,Alley Armorsmith,Mean Streets of Gadgetzan,Minion,Warrior,Rare,5,2,7,Tau
 CFM_667,Bomb Squad,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,2,2,"Battlecry, Deathrattle",,True
 CFM_669,Burgly Bully,Mean Streets of Gadgetzan,Minion,Neutral,Epic,5,4,6,,,True
 CFM_671,Cryomancer,Mean Streets of Gadgetzan,Minion,Mage,Common,5,5,5,"Freeze, Battlecry",,True
-CFM_668,Doppelgangster,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,2,2,Battlecry,,True
 CFM_668t,Doppelgangster,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,2,2,Battlecry,,False
 CFM_668t2,Doppelgangster,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,2,2,Battlecry,,False
+CFM_668,Doppelgangster,Mean Streets of Gadgetzan,Minion,Neutral,Rare,5,2,2,Battlecry,,True
 CFM_605,Drakonid Operative,Mean Streets of Gadgetzan,Minion,Priest,Rare,5,5,6,"Discover, Battlecry",Dragon,True
 CFM_621t18,Felbloom,Mean Streets of Gadgetzan,Spell,Neutral,,5,,,Affected by Spell Power,,False
 CFM_344,"Finja, the Flying Star",Mean Streets of Gadgetzan,Minion,Neutral,Legendary,5,2,4,Stealth,Murloc,True
@@ -3243,6 +3906,8 @@ CFM_712_t09,Jade Golem,Mean Streets of Gadgetzan,Minion,Neutral,,9,9,9,Jade Gole
 CFM_750,Krul the Unshackled,Mean Streets of Gadgetzan,Minion,Warlock,Legendary,9,7,9,Battlecry,Demon,True
 CFM_670,Mayor Noggenfogger,Mean Streets of Gadgetzan,Minion,Neutral,Legendary,9,5,4,,,True
 CFM_621t33,Felbloom,Mean Streets of Gadgetzan,Spell,Neutral,,10,,,Affected by Spell Power,,False
+CFM_308a,Forgotten Armor,Mean Streets of Gadgetzan,Spell,Druid,,10,,,,,False
+CFM_308b,Forgotten Mana,Mean Streets of Gadgetzan,Spell,Druid,,10,,,,,False
 CFM_621t32,Goldthorn,Mean Streets of Gadgetzan,Spell,Neutral,,10,,,,,False
 CFM_621t25,Heart of Fire,Mean Streets of Gadgetzan,Spell,Neutral,,10,,,Affected by Spell Power,,False
 CFM_621t27,Icecap,Mean Streets of Gadgetzan,Spell,Neutral,,10,,,Freeze,,False
@@ -3355,8 +4020,8 @@ UNG_208t,Rock Elemental,Journey to Un'Goro,Minion,Shaman,,2,2,3,Taunt,Elemental,
 UNG_073,Rockpool Hunter,Journey to Un'Goro,Minion,Neutral,Common,2,2,3,Battlecry,Murloc,True
 UNG_029,Shadow Visions,Journey to Un'Goro,Spell,Priest,Epic,2,,,Discover,,True
 UNG_846,Shimmering Tempest,Journey to Un'Goro,Minion,Mage,Common,2,2,1,Deathrattle,Elemental,True
-ICC_828t2,Stubborn Gastropod,Journey to Un'Goro,Minion,Neutral,Common,2,1,2,"Taunt, Poisonous",Beast,False
 UNG_808,Stubborn Gastropod,Journey to Un'Goro,Minion,Neutral,Common,2,1,2,"Taunt, Poisonous",Beast,True
+ICC_828t2,Stubborn Gastropod,Journey to Un'Goro,Minion,Neutral,Common,2,1,2,"Taunt, Poisonous",Beast,False
 UNG_078,Tortollan Forager,Journey to Un'Goro,Minion,Druid,Common,2,2,2,Battlecry,,True
 UNG_851t1,Un'Goro Pack,Journey to Un'Goro,Spell,Neutral,,2,,,,,False
 UNG_818,Volatile Elemental,Journey to Un'Goro,Minion,Neutral,Common,2,1,1,Deathrattle,Elemental,True
@@ -3485,13 +4150,9 @@ ICCA07_002p,Mad Science,Knights of the Frozen Throne,Hero Power,Neutral,,0,,,,,F
 ICCA07_003p,Madder Science,Knights of the Frozen Throne,Hero Power,Neutral,,0,,,,,False
 ICCA07_005p,Maddest Science,Knights of the Frozen Throne,Hero Power,Neutral,,0,,,AIMustPlay,,False
 ICCA08_030p,Remorseless Winter,Knights of the Frozen Throne,Hero Power,Death Knight,,0,,,AIMustPlay,,False
-ICC_832a,Scarab Plague,Knights of the Frozen Throne,Spell,Druid,,0,,,,,False
-ICC_832pa,Scarab Shell,Knights of the Frozen Throne,Spell,Druid,,0,,,,,False
 ICC_827t,Shadow Reflection,Knights of the Frozen Throne,Spell,Rogue,,0,,,,,False
 ICCA06_002p,Skeletal Reconstruction,Knights of the Frozen Throne,Hero Power,Neutral,,0,,,,,False
 ICC_023,Snowflipper Penguin,Knights of the Frozen Throne,Minion,Neutral,Common,0,1,1,,Beast,True
-ICC_832pb,Spider Fangs,Knights of the Frozen Throne,Spell,Druid,,0,,,,,False
-ICC_832b,Spider Plague,Knights of the Frozen Throne,Spell,Druid,,0,,,,,False
 ICCA01_013,Tirion Fordring,Knights of the Frozen Throne,Hero,Paladin,,0,,30,,,False
 ICCA05_002p,Vampiric Bite,Knights of the Frozen Throne,Hero Power,Neutral,,0,,,,,False
 ICCA10_009p,Whisper of Death,Knights of the Frozen Throne,Hero Power,Neutral,,0,,,AIMustPlay,,False
@@ -3542,15 +4203,15 @@ ICC_829t2,Deathlord Nazgrim,Knights of the Frozen Throne,Minion,Paladin,,2,2,2,,
 ICC_041,Defile,Knights of the Frozen Throne,Spell,Warlock,Rare,2,,,,,True
 ICC_244,Desperate Stand,Knights of the Frozen Throne,Spell,Paladin,Rare,2,,,Deathrattle,,True
 ICC_055,Drain Soul,Knights of the Frozen Throne,Spell,Warlock,Common,2,,,Lifesteal,,True
-ICC_051t,Druid of the Swarm,Knights of the Frozen Throne,Minion,Druid,Rare,2,1,2,Poisonous,Beast,False
-ICC_051,Druid of the Swarm,Knights of the Frozen Throne,Minion,Druid,Rare,2,1,2,"Taunt, Poisonous",,True
 ICC_051t2,Druid of the Swarm,Knights of the Frozen Throne,Minion,Druid,Rare,2,1,5,Taunt,Beast,False
 ICC_051t3,Druid of the Swarm,Knights of the Frozen Throne,Minion,Druid,Rare,2,1,5,"Poisonous, Taunt",Beast,False
+ICC_051t,Druid of the Swarm,Knights of the Frozen Throne,Minion,Druid,Rare,2,1,2,Poisonous,Beast,False
+ICC_051,Druid of the Swarm,Knights of the Frozen Throne,Minion,Druid,Rare,2,1,2,"Taunt, Poisonous",,True
 ICC_094,Fallen Sun Cleric,Knights of the Frozen Throne,Minion,Neutral,Common,2,2,1,Battlecry,,True
 ICC_281,Forge of Souls,Knights of the Frozen Throne,Spell,Warrior,Common,2,,,,,True
 ICCA01_005,Frostmourne,Knights of the Frozen Throne,Weapon,Death Knight,,2,5,3,,,False
-ICC_900t,Ghoul,Knights of the Frozen Throne,Minion,Neutral,,2,2,2,,,False
 ICCA08_002t,Ghoul,Knights of the Frozen Throne,Minion,Neutral,,2,2,2,,,False
+ICC_900t,Ghoul,Knights of the Frozen Throne,Minion,Neutral,,2,2,2,,,False
 ICC_407,Gnomeferatu,Knights of the Frozen Throne,Minion,Warlock,Epic,2,2,3,Battlecry,,True
 ICCA04_011p,Ice Claw,Knights of the Frozen Throne,Hero Power,Neutral,,2,,,,,False
 ICC_089,Ice Fishing,Knights of the Frozen Throne,Spell,Shaman,Common,2,,,,,True
@@ -3654,9 +4315,9 @@ ICC_450,Death Revenant,Knights of the Frozen Throne,Minion,Warrior,Rare,5,3,3,Ba
 ICC_075,Despicable Dreadlord,Knights of the Frozen Throne,Minion,Warlock,Rare,5,4,5,,Demon,True
 ICC_207,Devour Mind,Knights of the Frozen Throne,Spell,Priest,Rare,5,,,,,True
 ICC_314t3,Doom Pact,Knights of the Frozen Throne,Spell,Death Knight,,5,,,,,False
-ICC_047,Fatespinner,Knights of the Frozen Throne,Minion,Druid,Epic,5,5,3,Deathrattle,,True
 ICC_047t,Fatespinner,Knights of the Frozen Throne,Minion,Druid,Epic,5,5,3,Deathrattle,,False
 ICC_047t2,Fatespinner,Knights of the Frozen Throne,Minion,Druid,Epic,5,5,3,Deathrattle,,False
+ICC_047,Fatespinner,Knights of the Frozen Throne,Minion,Druid,Epic,5,5,3,Deathrattle,,True
 ICC_085t,Ghoul Infestor,Knights of the Frozen Throne,Minion,Druid,,5,5,5,,,False
 ICC_019,Skelemancer,Knights of the Frozen Throne,Minion,Neutral,Common,5,2,2,Deathrattle,,True
 ICC_025t,Skeletal Enforcer,Knights of the Frozen Throne,Minion,Neutral,,5,5,5,,,False
@@ -3686,9 +4347,13 @@ ICC_054,Spreading Plague,Knights of the Frozen Throne,Spell,Druid,Rare,6,,,Taunt
 ICCA07_020,Tentacles,Knights of the Frozen Throne,Weapon,Neutral,,6,3,6,,,False
 ICC_825,Abominable Bowman,Knights of the Frozen Throne,Minion,Hunter,Epic,7,6,7,Deathrattle,,True
 ICC_215,Archbishop Benedictus,Knights of the Frozen Throne,Minion,Priest,Legendary,7,4,6,Battlecry,,True
-ICCA08_020,Frostmourne,Knights of the Frozen Throne,Weapon,Death Knight,,7,5,3,"Battlecry, AIMustPlay",,False
 ICC_314t1,Frostmourne,Knights of the Frozen Throne,Weapon,Death Knight,,7,5,3,Deathrattle,,False
+ICCA08_020,Frostmourne,Knights of the Frozen Throne,Weapon,Death Knight,,7,5,3,"Battlecry, AIMustPlay",,False
 ICC_832,Malfurion the Pestilent,Knights of the Frozen Throne,Hero,Druid,Legendary,7,,30,"Poisonous, Taunt",,True
+ICC_832a,Scarab Plague,Knights of the Frozen Throne,Spell,Druid,,7,,,,,False
+ICC_832pa,Scarab Shell,Knights of the Frozen Throne,Spell,Druid,,7,,,,,False
+ICC_832pb,Spider Fangs,Knights of the Frozen Throne,Spell,Druid,,7,,,,,False
+ICC_832b,Spider Plague,Knights of the Frozen Throne,Spell,Druid,,7,,,,,False
 ICC_705,Bonemare,Knights of the Frozen Throne,Minion,Neutral,Common,8,5,5,"Battlecry, Taunt",,True
 ICC_086,Glacial Mysteries,Knights of the Frozen Throne,Spell,Mage,Epic,8,,,Secret,,True
 ICC_829t,Grave Vengeance,Knights of the Frozen Throne,Weapon,Paladin,,8,5,3,Lifesteal,,False
@@ -3765,8 +4430,8 @@ LOOTA_819,Archmage Staff,Kobolds & Catacombs,Weapon,Neutral,,0,0,3,,,False
 LOOTA_Warrior_05,Armor,Kobolds & Catacombs,Spell,Warrior,,0,,,,,False
 LOOTA_Rogue_10,Assassin,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
 LOOTA_836,Bag of Coins,Kobolds & Catacombs,Spell,Neutral,,0,,,,,False
-LOOTA_Rogue_13,Bag of Tricks,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
 LOOTA_Priest_05,Bag of Tricks,Kobolds & Catacombs,Spell,Priest,,0,,,,,False
+LOOTA_Rogue_13,Bag of Tricks,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
 LOOTA_Druid_09,Balance,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_846,Battle Totem,Kobolds & Catacombs,Spell,Neutral,,0,,,Battlecry,,False
 LOOTA_Shaman_05,Battlecrier,Kobolds & Catacombs,Spell,Shaman,,0,,,,,False
@@ -3787,10 +4452,10 @@ LOOTA_832,Cloak of Invisibility,Kobolds & Catacombs,Spell,Neutral,,0,,,Stealth,,
 LOOTA_BOSS_45p,Coin,Kobolds & Catacombs,Hero Power,Neutral,,0,,,AIMustPlay,,False
 LOOTA_Priest_9,Combo Caster,Kobolds & Catacombs,Spell,Priest,,0,,,,,False
 LOOTA_801,Crystal Gem,Kobolds & Catacombs,Spell,Neutral,,0,,,,,False
-LOOTA_Druid_07,Cult of C'thun,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_Rogue_15,Cult of C'thun,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
 LOOTA_Warlock_02,Cult of C'thun,Kobolds & Catacombs,Spell,Warlock,,0,,,,,False
 LOOTA_Priest_13,Cult of C'Thun,Kobolds & Catacombs,Spell,Priest,,0,,,,,False
+LOOTA_Druid_07,Cult of C'thun,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_Rogue_04,Death Dealer,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
 LOOTA_Hunter_09,Deathrattle,Kobolds & Catacombs,Spell,Hunter,,0,,,,,False
 LOOTA_Mage_31,Defense,Kobolds & Catacombs,Spell,Mage,,0,,,,,False
@@ -3808,9 +4473,9 @@ LOOTA_Warrior_12,Dragon Heart,Kobolds & Catacombs,Spell,Warrior,,0,,,,,False
 LOOTA_Priest_07,Dragon Priest,Kobolds & Catacombs,Spell,Priest,,0,,,,,False
 LOOTA_Paladin_12,Dragonmaster,Kobolds & Catacombs,Spell,Paladin,,0,,,,,False
 LOOT_054d,Eat the Mushroom,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
-LOOTA_Mage_21,Elementals,Kobolds & Catacombs,Spell,Mage,,0,,,,,False
 LOOTA_Shaman_06,Elementals,Kobolds & Catacombs,Spell,Shaman,,0,,,,,False
 LOOTA_Priest_12,Elementals,Kobolds & Catacombs,Spell,Priest,,0,,,,,False
+LOOTA_Mage_21,Elementals,Kobolds & Catacombs,Spell,Mage,,0,,,,,False
 LOOTA_BOSS_49p,Encroaching Darkness,Kobolds & Catacombs,Hero Power,Neutral,,0,,,AIMustPlay,,False
 LOOTA_Rogue_02,Evasive,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
 LOOTA_Warrior_02,Everybody Hurts,Kobolds & Catacombs,Spell,Warrior,,0,,,,,False
@@ -3820,8 +4485,8 @@ LOOT_054b,Explore the Darkness,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_Shaman_12,Farseer,Kobolds & Catacombs,Spell,Shaman,,0,,,,,False
 LOOTA_Mage_24,Fire,Kobolds & Catacombs,Spell,Mage,,0,,,,,False
 LOOTA_842t,Forging Quel'Delar,Kobolds & Catacombs,Spell,Neutral,,0,,,,,False
-LOOTA_Mage_23,Frost,Kobolds & Catacombs,Spell,Mage,,0,,,,,False
 LOOTA_Shaman_02,Frost,Kobolds & Catacombs,Spell,Shaman,,0,,,,,False
+LOOTA_Mage_23,Frost,Kobolds & Catacombs,Spell,Mage,,0,,,,,False
 LOOTA_Mage_30,Giant Army,Kobolds & Catacombs,Spell,Mage,,0,,,,,False
 LOOTA_831,Glyph of Warding,Kobolds & Catacombs,Spell,Neutral,,0,,,,,False
 LOOTA_Rogue_07,Greed,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
@@ -3868,8 +4533,8 @@ LOOTA_800,Potion of Vitality,Kobolds & Catacombs,Spell,Neutral,,0,,,,,False
 LOOTA_BOSS_99t,Rakanishu,Kobolds & Catacombs,Spell,Neutral,,0,,,,,False
 LOOTA_Warrior_09,Re-Enforcer,Kobolds & Catacombs,Spell,Warrior,,0,,,,,False
 LOOTA_Warrior_13,Recruiter,Kobolds & Catacombs,Spell,Warrior,,0,,,,,False
-LOOTA_Druid_10,Restoration,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_Shaman_03,Restoration,Kobolds & Catacombs,Spell,Shaman,,0,,,,,False
+LOOTA_Druid_10,Restoration,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_Priest_04,Resurrection,Kobolds & Catacombs,Spell,Priest,,0,,,,,False
 LOOTA_825,Robe of the Magi,Kobolds & Catacombs,Spell,Neutral,,0,,,Spell Damage,,False
 LOOTA_Paladin_20,Sacred Arms,Kobolds & Catacombs,Spell,Paladin,,0,,,,,False
@@ -3891,10 +4556,10 @@ LOOTA_Hunter_04,Summoner,Kobolds & Catacombs,Spell,Hunter,,0,,,,,False
 LOOTA_103,Sunken Chest,Kobolds & Catacombs,Minion,Neutral,,0,0,1,Deathrattle,,False
 LOOTA_Warlock_07,Swarm,Kobolds & Catacombs,Spell,Warlock,,0,,,,,False
 LOOTA_BOSS_110,Tag Team,Kobolds & Catacombs,Spell,Paladin,,0,,,,,False
-LOOTA_Druid_11,Taunt,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_Paladin_19,Taunt,Kobolds & Catacombs,Spell,Paladin,,0,,,,,False
 LOOTA_Warlock_06,Taunt,Kobolds & Catacombs,Spell,Warlock,,0,,,,,False
 LOOTA_Warrior_07,Taunt,Kobolds & Catacombs,Spell,Warrior,,0,,,,,False
+LOOTA_Druid_11,Taunt,Kobolds & Catacombs,Spell,Druid,,0,,,,,False
 LOOTA_BOSS_47p,The Floor is Lava,Kobolds & Catacombs,Hero Power,Neutral,,0,,,,,False
 LOOTA_Rogue_09,Thief,Kobolds & Catacombs,Spell,Rogue,,0,,,,,False
 LOOTA_BOSS_38p,Totem of Chaos,Kobolds & Catacombs,Hero Power,Neutral,,0,,,,,False
@@ -3939,7 +4604,7 @@ LOOTA_847,Mask of Mimicry,Kobolds & Catacombs,Spell,Neutral,,1,,,,,False
 LOOTA_BOSS_50t,Mushroom Potion,Kobolds & Catacombs,Spell,Neutral,,1,,,,,False
 LOOTA_BOSS_42p,Mystic Barrier,Kobolds & Catacombs,Hero Power,Neutral,,1,,,,,False
 LOOTA_816,Party Portal,Kobolds & Catacombs,Minion,Neutral,,1,0,10,,,False
-LOOTA_841,Portable Forge,Kobolds & Catacombs,Spell,Neutral,,1,,,,,False
+LOOTA_841,Portable Forge,Kobolds & Catacombs,Spell,Neutral,,1,,,Discover,,False
 LOOTA_826,Portable Ice Wall,Kobolds & Catacombs,Minion,Neutral,,1,3,15,"Taunt, Freeze",,False
 LOOT_353,Psionic Probe,Kobolds & Catacombs,Spell,Priest,Common,1,,,,,True
 LOOTA_842,Quel'Delar,Kobolds & Catacombs,Weapon,Neutral,,1,6,6,,,False
